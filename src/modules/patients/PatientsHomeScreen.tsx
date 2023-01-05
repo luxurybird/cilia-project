@@ -5,6 +5,7 @@ import { useQuery } from '@apollo/client';
 import { Patient, QueryPatients, QueryPatientsArgs } from '../../types/graphql';
 import { IconButton } from '../../components/buttons';
 import { PatientList } from './PatientList';
+
 import { HomeScreenProps } from './navigation';
 import { SortBySelector } from './SortBy';
 import { CiliaFAB } from '../../components/CiliaFAB';
