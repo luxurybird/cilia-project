@@ -22,6 +22,7 @@ export function mapLocaleToTranslationLocale(locale: string): CiliaLocaleKey {
   if (typeof locale === 'string' && locale.length > 0) {
     let mappedLocale: CiliaLocaleKey | undefined;
 
+
     // Check if we support the locale directly
     mappedLocale = supportedLocales.find((x) => x === locale);
     if (mappedLocale != null) {
