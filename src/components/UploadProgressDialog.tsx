@@ -2,6 +2,7 @@ import React from 'react';
 import { StyleSheet } from 'react-native';
 import { Button, Dialog, Paragraph, Portal, ProgressBar } from 'react-native-paper';
 
+
 const styles = StyleSheet.create({
   progress: {
     marginVertical: 8,
