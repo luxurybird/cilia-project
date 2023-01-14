@@ -8,6 +8,7 @@ import { AutoScrollView } from '../../components/AutoScrollView';
 import { useLoginToClinicMutation } from '../auth/useAuthenticate';
 import { Alert } from '../../components/Alert';
 import { ClinicSelectScreenProps } from './navigation';
+
 import { useClinicsQuery } from './useClinicsQuery';
 
 const styles = StyleSheet.create({
