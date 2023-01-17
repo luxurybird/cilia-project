@@ -15,6 +15,7 @@ export function SectionGroup({ title, children }: SectionGroupProps): JSX.Elemen
 
   const childrenArray = flattenChildren(children, [SectionItem]);
 
+  // TODO: Improve this section
   const handleHideAction = useCallback(() => {
     setVisibleActionKey(null);
   }, []);
