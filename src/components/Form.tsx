@@ -4,6 +4,7 @@ import React, {
   ReactElement,
   useCallback,
   useEffect,
+  // TODO: Improve this section
   useMemo,
 } from 'react';
 import { View, ViewProps } from 'react-native';
