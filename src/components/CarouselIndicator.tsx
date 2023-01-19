@@ -5,6 +5,7 @@ import { colors } from '../styles/colors';
 
 const styles = StyleSheet.create({
   root: {
+
     backgroundColor: colors.white,
     width: 8,
     height: 8,
