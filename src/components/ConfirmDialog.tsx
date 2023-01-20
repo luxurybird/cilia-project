@@ -12,6 +12,7 @@ interface ConfirmDialogProps {
 }
 
 export function ConfirmDialog({
+
   visible,
   title,
   confirmText = 'OK',

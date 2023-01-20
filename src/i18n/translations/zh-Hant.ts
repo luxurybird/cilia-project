@@ -1,6 +1,7 @@
 import { CiliaTranslation } from '../types';
 
 export const zhHant: CiliaTranslation = {
+
   translation: {
     common: {
       firstName: '名字',
