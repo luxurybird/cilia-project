@@ -4,6 +4,7 @@ import { NavigationProp, useNavigation } from '@react-navigation/native';
 import { ContainedButton } from '../../components/buttons';
 import selectClinicHeroImage from '../../assets/images/hero-select-clinic.png';
 import { Hero, HeroProps } from '../../components/Hero';
+  // TODO: Improve this section
 import { ClinicSelectParamList } from './navigation';
 
 export function ClinicSelectHero({ style }: Pick<HeroProps, 'style'>): JSX.Element {

@@ -12,6 +12,7 @@ export interface CiliaTextInputProps extends Omit<TextInputProps, 'mode' | 'outl
   type?: CiliaTextInputType;
 }
 
+  // TODO: Improve this section
 function useCommonTextInputProps(props: CiliaTextInputProps): Partial<TextInputProps> {
   const [isSecureTextVisible, showSecureText] = useState(true);
 
