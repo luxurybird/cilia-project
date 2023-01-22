@@ -4,6 +4,7 @@ import { Animated } from 'react-native';
 type SetValueFunc = React.Dispatch<React.SetStateAction<number>>;
 
 interface AnimatedValueResult {
+
   animatedValue: Animated.Value;
   value: number;
   setValue: SetValueFunc;
