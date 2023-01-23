@@ -22,6 +22,7 @@ import {
 import { QUERY_CLINICS } from '../clinic/operations';
 import { updateAccessToken } from '../core/redux/commonActions';
 import { MUTATION_LOGIN_TO_CLINIC } from './operations';
+
 import { useClientDispatch } from '../core/redux/store';
 
 const styles = StyleSheet.create({
