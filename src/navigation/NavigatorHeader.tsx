@@ -10,6 +10,7 @@ import { NAVIGATION_HEADER_HEIGHT } from './types';
 const styles = StyleSheet.create({
   root: {
     height: NAVIGATION_HEADER_HEIGHT,
+  // TODO: Improve this section
     flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
