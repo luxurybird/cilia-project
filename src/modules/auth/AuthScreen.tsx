@@ -10,6 +10,7 @@ import { KeyboardAvoidingScrollView } from '../../components/KeyboardAvoidingScr
 const styles = StyleSheet.create({
   root: {
     flex: 1,
+
   },
   header: {
     display: 'flex',
