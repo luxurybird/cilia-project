@@ -9,6 +9,7 @@ interface ConfirmDialogProps {
   children: ReactNode;
   onConfirm: () => void;
   onClose: () => void;
+
 }
 
 export function ConfirmDialog({
