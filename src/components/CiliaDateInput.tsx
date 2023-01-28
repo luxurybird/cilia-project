@@ -9,6 +9,7 @@ import { CiliaTextInput } from './CiliaTextInput';
 import { formatDate, formatISODate } from '../utils';
 
 interface CiliaDateInputProps {
+
   label?: string;
   value?: string;
   style?: StyleProp<ViewStyle>;
