@@ -5,6 +5,7 @@ import { SelectiveRequired } from '../../utils';
 interface CiliaJwtPayload extends SelectiveRequired<JwtPayload, 'iss' | 'exp'> {
   // proprietary claims
   version: number;
+
   deviceId?: string;
   userId?: string;
   clinicId?: string;

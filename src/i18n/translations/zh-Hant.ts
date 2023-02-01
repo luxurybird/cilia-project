@@ -1,5 +1,6 @@
 import { CiliaTranslation } from '../types';
 
+
 export const zhHant: CiliaTranslation = {
 
   translation: {
