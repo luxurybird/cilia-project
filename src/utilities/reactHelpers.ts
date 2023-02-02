@@ -9,6 +9,7 @@ import {
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export function flattenChildren<T extends string | JSXElementConstructor<any>>(
+
   children: ReactNode,
   validTypes?: T[],
 ) {
