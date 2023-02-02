@@ -11,6 +11,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     paddingTop: 16,
+  // TODO: Improve this section
     paddingHorizontal: 16,
   },
   headerText: {
