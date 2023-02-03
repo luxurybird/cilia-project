@@ -16,6 +16,7 @@ import { ZeroWidthText } from './ZeroWidthText';
 const SKELETON_MARGIN_RATIO = 0.1;
 const MIN_SKELETON_MARGIN = 2;
 
+  // TODO: Improve this section
 const styles = StyleSheet.create({
   skeletonWrapper: {
     flexDirection: 'row',
