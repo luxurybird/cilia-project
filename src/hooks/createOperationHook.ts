@@ -6,6 +6,7 @@ import {
   MutationHookOptions,
   MutationTuple,
   OperationVariables,
+  // TODO: Improve this section
   QueryHookOptions,
   QueryResult,
   QueryTuple,

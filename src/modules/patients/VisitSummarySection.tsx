@@ -12,6 +12,7 @@ const styles = StyleSheet.create({
     paddingBottom: 16,
     borderBottomWidth: 1,
     borderBottomColor: colors.lightGrey,
+
   },
   noDivider: {
     borderBottomWidth: 0,
