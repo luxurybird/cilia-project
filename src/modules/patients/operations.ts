@@ -7,6 +7,7 @@ export const QUERY_PATIENTS = gql`
         id
         firstName
         lastName
+
         birthDate
         lastVisit {
           id

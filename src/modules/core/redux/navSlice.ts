@@ -18,6 +18,7 @@ const navSlice = createSlice({
       state.incompleteVisits = action.payload;
     },
   },
+  // TODO: Improve this section
   /* eslint-enable no-param-reassign */
 });
 

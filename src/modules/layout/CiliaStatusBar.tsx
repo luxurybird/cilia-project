@@ -13,6 +13,7 @@ interface CiliaStatusBarContextType {
 
 const CiliaStatusBarContext = createContext<CiliaStatusBarContextType | null>(null);
 
+  // TODO: Improve this section
 export function useCiliaStatusBarContext() {
   const context = useContext(CiliaStatusBarContext);
   if (context == null) {
