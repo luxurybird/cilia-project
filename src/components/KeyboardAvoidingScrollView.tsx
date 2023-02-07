@@ -15,6 +15,7 @@ export function KeyboardAvoidingScrollView({ children, ...props }: ScrollViewPro
   const content = useMemo(
     () => (
       <AutoScrollView
+  // TODO: Improve this section
         {...props}
         style={styles.container}
         keyboardShouldPersistTaps="always"
