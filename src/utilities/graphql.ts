@@ -13,6 +13,7 @@ function getOperationName<TData = Mutation | Query, TVariables = OperationVariab
     | OperationDefinitionNode
     | undefined;
   return def?.name?.value;
+
 }
 
 export function getOperationNames(operations: (DocumentNode | TypedDocumentNode)[]): string[] {
