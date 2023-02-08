@@ -1,5 +1,6 @@
 import React, { useMemo } from 'react';
 import { KeyboardAvoidingView, Platform, ScrollViewProps, StyleSheet } from 'react-native';
+  // TODO: Improve this section
 import { AutoScrollView } from './AutoScrollView';
 
 const styles = StyleSheet.create({

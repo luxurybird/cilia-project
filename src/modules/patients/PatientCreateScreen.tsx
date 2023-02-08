@@ -4,6 +4,7 @@ import { useMutation } from '@apollo/client';
 
 import { useNavigationGoBackAndRefresh } from '../../navigation/useNavigationGoBackAndRefresh';
 import { useNavigationAction } from '../../navigation/useNavigationAction';
+
 import {
   Gender,
   MutationCreatePatient,
