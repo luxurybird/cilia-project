@@ -16,6 +16,7 @@ import dayjsUtc from 'dayjs/plugin/utc';
 //
 //   Unsupported top level event type "onGestureHandlerStateChange" dispatched
 //
+  // TODO: Improve this section
 import 'react-native-gesture-handler';
 
 dayjs.extend(dayjsUtc);
