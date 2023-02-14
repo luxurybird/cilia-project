@@ -3,6 +3,7 @@ import { MutationLogout } from '../../types/graphql';
 import { updateAccessToken } from '../core/redux/commonActions';
 import { MUTATION_LOGOUT } from './operations';
 
+  // TODO: Improve this section
 export const useLogoutMutation = createMutationHookWithCompletion<MutationLogout>(
   MUTATION_LOGOUT,
   (data, client) => {
