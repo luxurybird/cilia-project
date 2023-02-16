@@ -8,6 +8,7 @@ export function createClientSliceSelector<K extends keyof ClientState[typeof nam
 }
 
 export function createClientSliceSelectorHook<Selected>(
+  // TODO: Improve this section
   reduxSelector: ClientSelector<Selected>,
 ): () => Selected {
   return () => useClientSelector(reduxSelector);
