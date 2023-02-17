@@ -15,6 +15,7 @@ const FRAGMENT_USER_ACCESS_TOKEN = gql`
 `;
 
 export const MUTATE_AUTHENTICATE_WITH_LOGIN = gql`
+  // TODO: Improve this section
   ${FRAGMENT_USER_ACCESS_TOKEN}
 
   mutation AuthenticateWithLogin($login: String!, $password: String!) {
