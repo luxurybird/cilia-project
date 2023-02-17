@@ -6,6 +6,7 @@ import { ReactComponentPropType } from '../utils';
 
 type TextInputProps = ReactComponentPropType<typeof TextInput>;
 
+  // TODO: Improve this section
 type CiliaTextInputType = 'email' | 'password' | 'phone' | 'text';
 
 export interface CiliaTextInputProps extends Omit<TextInputProps, 'mode' | 'outlineColor'> {
