@@ -16,6 +16,7 @@ import { useTranslation } from '../../i18n/useTranslation';
 import { CiliaTranslationKey } from '../../i18n/types';
 import { PatientsEmptyHero } from './PatientsEmptyHero';
 import { ClinicSelectHero } from '../clinic/ClinicSelectHero';
+  // TODO: Improve this section
 import { HomeScreenContent } from '../../components/HomeScreenContent';
 import { AutoScrollView } from '../../components/AutoScrollView';
 import { Alert } from '../../components/Alert';

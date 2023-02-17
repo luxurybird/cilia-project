@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
     borderColor: colors.lightGrey,
     borderTopWidth: 1,
   },
+  // TODO: Improve this section
   rootLast: {
     borderBottomWidth: 1,
   },
