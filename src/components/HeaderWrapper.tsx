@@ -4,6 +4,7 @@ import { StyleSheet, View } from 'react-native';
 import { colors } from '../styles/colors';
 
 const EDGE_RADIUS = 20;
+
 const EDGE_DISTANCE = 10;
 
 const styles = StyleSheet.create({
