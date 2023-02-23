@@ -10,6 +10,7 @@ import { MutationRegisterDevice, Platform, QuerySelf } from '../../types/graphql
 import { ClientStore, configurePersistedClientStore } from './redux/store';
 import { updateDeviceToken, updateUser } from './redux/userSlice';
 import { updateAccessToken } from './redux/commonActions';
+
 import createDeviceToken from './createDeviceToken';
 import { MUTATION_REGISTER_DEVICE } from './operations';
 import {
