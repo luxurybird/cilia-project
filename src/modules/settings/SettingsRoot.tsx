@@ -3,6 +3,7 @@ import { StyleSheet } from 'react-native';
 
 import { NavigatorHeader } from '../../navigation/NavigatorHeader';
 import { colors } from '../../styles/colors';
+
 import { ClinicSelectScreen } from '../clinic/ClinicSelectScreen';
 import { ClinicScreen } from './ClinicScreen';
 import { RootStack } from './navigation';
