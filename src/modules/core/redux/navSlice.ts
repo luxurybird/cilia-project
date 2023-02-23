@@ -5,6 +5,7 @@ interface NavState {
 }
 
 const initialState: NavState = {
+
   incompleteVisits: null,
 };
 
