@@ -1,6 +1,7 @@
 import { useCallback, useRef } from 'react';
 import { Animated } from 'react-native';
 
+
 type SetValueFunc = React.Dispatch<React.SetStateAction<number>>;
 
 interface AnimatedValueResult {
