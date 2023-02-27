@@ -4,6 +4,7 @@ import { FRAGMENT_USER_SELF } from '../user/operations';
 
 
 const FRAGMENT_USER_ACCESS_TOKEN = gql`
+
   ${FRAGMENT_USER_SELF}
 
   fragment UserAccessTokenFragment on UserAccessToken {

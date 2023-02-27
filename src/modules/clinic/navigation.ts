@@ -5,4 +5,5 @@ export interface ClinicSelectParamList extends ParamListBase {
   clinicSelect: undefined;
 }
 
+
 export type ClinicSelectScreenProps = StackScreenProps<ClinicSelectParamList, 'clinicSelect'>;
