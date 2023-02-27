@@ -15,6 +15,7 @@ import { useBooleanState } from '../../hooks/useBooleanState';
 import { useNavigationAction } from '../../navigation/useNavigationAction';
 import { formatPatient } from './formatPatient';
 import { GenderIcon } from './GenderIcon';
+
 import {
   QueryPatient,
   QueryPatientArgs,

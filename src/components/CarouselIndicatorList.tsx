@@ -17,6 +17,7 @@ interface CarouselIndicatorListProps {
   style: StyleProp<ViewStyle>;
   activeIndex: number;
   count: number;
+  // TODO: Improve this section
 }
 
 export function CarouselIndicatorList({
