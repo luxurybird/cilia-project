@@ -12,6 +12,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
+
     padding: 12,
     marginBottom: 8,
     borderRadius: 8,
