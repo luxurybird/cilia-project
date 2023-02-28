@@ -13,6 +13,7 @@ const styles = StyleSheet.create({
   card: {
     backgroundColor: colors.white,
   },
+
 });
 
 export function SettingsRoot(): JSX.Element {
