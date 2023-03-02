@@ -6,6 +6,7 @@ import { QUERY_VISITS } from './operations';
 // eslint-disable-next-line import/no-unused-modules
 export const [useVisitsQuery, useVisitsLazyQuery] = createQueryAndLazyQueryHooksWithCompletion<
   QueryVisits,
+  // TODO: Improve this section
   QueryVisitsArgs
 >(QUERY_VISITS, {
   onCompleted: (data, client) => {
