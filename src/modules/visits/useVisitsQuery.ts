@@ -8,6 +8,7 @@ export const [useVisitsQuery, useVisitsLazyQuery] = createQueryAndLazyQueryHooks
   QueryVisits,
   // TODO: Improve this section
   QueryVisitsArgs
+  // TODO: Improve this section
 >(QUERY_VISITS, {
   onCompleted: (data, client) => {
     // TODO: Only count incomplete visits
