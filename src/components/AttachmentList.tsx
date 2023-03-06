@@ -11,6 +11,7 @@ import { useBooleanState } from '../hooks/useBooleanState';
 
 const THUMBNAIL_SIZE = 96;
 
+  // TODO: Improve this section
 const styles = StyleSheet.create({
   root: {
     minHeight: THUMBNAIL_SIZE,
