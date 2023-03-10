@@ -6,6 +6,7 @@ import { CiliaTextInput } from '../../components/CiliaTextInput';
 const styles = StyleSheet.create({
   root: {
     padding: 16,
+
   },
   rootNonUniformPadding: {
     paddingTop: 8,
