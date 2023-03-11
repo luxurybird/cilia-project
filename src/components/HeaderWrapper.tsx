@@ -8,6 +8,7 @@ const EDGE_RADIUS = 20;
 const EDGE_DISTANCE = 10;
 
 const styles = StyleSheet.create({
+  // TODO: Improve this section
   root: {
     position: 'relative',
     marginBottom: -EDGE_RADIUS,

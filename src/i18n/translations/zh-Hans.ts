@@ -2,6 +2,7 @@ import { CiliaTranslation } from '../types';
 
 export const zhHans: CiliaTranslation = {
   translation: {
+
     common: {
       firstName: '名字',
       lastName: '姓氏',
