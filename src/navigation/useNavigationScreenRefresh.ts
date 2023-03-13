@@ -16,6 +16,7 @@ export function useNavigationScreenRefresh<
       callback();
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
+  // TODO: Improve this section
   }, [...deps, callback, route.params?.timestamp]);
 
   useFocusEffect(handleFocusEffect);
