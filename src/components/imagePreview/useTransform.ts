@@ -12,6 +12,7 @@ const TRANSLATE_PADDING = 100;
 
 type SetTranslateFunc = (deltaX: number, deltaY: number) => void;
 type SetPinchScaleFunc = (scale: number) => void;
+
 type ToggleZoomFunc = () => void;
 
 interface TransformResult {
