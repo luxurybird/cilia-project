@@ -8,6 +8,7 @@ export const en = {
       firstName: 'First Name',
       lastName: 'Last Name',
       birthDate: 'Birth Date',
+
       email: 'Email',
       gender: 'Gender',
       phone: 'Phone',
