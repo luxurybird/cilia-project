@@ -8,6 +8,7 @@ export const zhHant: CiliaTranslation = {
       firstName: '名字',
       lastName: '姓氏',
       birthDate: 'NEGE Birth Date',
+
       email: '電子郵件信箱',
       gender: 'NEGE Gender',
       phone: 'NEGE Phone',
