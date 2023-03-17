@@ -3,6 +3,7 @@ import { Image, ImageProps, ImageStyle, LayoutChangeEvent, StyleProp } from 'rea
 
 import { Size } from './types';
 
+
 type ResponsiveImageProps = Omit<ImageProps, 'resizeMode'>;
 
 /**
