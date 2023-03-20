@@ -15,6 +15,7 @@ export const zhHans: CiliaTranslation = {
       notes: 'NEGE Notes',
       password: '密码',
       lastVisit: '上一次回诊',
+
       sortBy: '排序依据',
       contact: 'NEGE Contact Information',
       back: 'NEGE Back',
