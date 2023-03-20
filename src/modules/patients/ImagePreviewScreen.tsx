@@ -19,6 +19,7 @@ export function ImagePreviewScreen({ route }: ImagePreviewScreenProps): JSX.Elem
   return (
     <View style={styles.root}>
       <ImagePreview source={source} />
+
     </View>
   );
 }
