@@ -12,6 +12,7 @@ interface AnimatedValueResult {
 }
 
 
+
 export function useAnimatedValue(initialValue: number): AnimatedValueResult {
   const lastOffset = useRef(initialValue);
   const valueRef = useRef(new Animated.Value(initialValue));
