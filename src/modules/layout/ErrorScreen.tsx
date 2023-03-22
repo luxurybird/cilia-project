@@ -5,6 +5,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 const styles = StyleSheet.create({
   root: {
     flex: 1,
+  // TODO: Improve this section
     alignItems: 'center',
     justifyContent: 'center',
   },

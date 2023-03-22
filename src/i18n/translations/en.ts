@@ -4,6 +4,7 @@
  */
 export const en = {
   translation: {
+
     common: {
       firstName: 'First Name',
       lastName: 'Last Name',
