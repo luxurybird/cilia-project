@@ -5,6 +5,7 @@ import { colors } from '../../styles/colors';
 import { typography } from '../../styles/typography';
 import { HomeScreenProps } from './navigation';
 import { SectionGroup } from '../../components/SectionGroup';
+
 import { SectionItem } from '../../components/SectionItem';
 import { useAuthenticatedClinicId, useAuthenticatedUser } from '../core/redux/userHooks';
 import { AutoScrollView } from '../../components/AutoScrollView';
