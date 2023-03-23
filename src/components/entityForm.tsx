@@ -6,6 +6,7 @@ import { StyleSheet } from 'react-native';
 export interface EntityFormProps<TValue> {
   value?: TValue | null;
   onChange?: (value: TValue) => void;
+
 }
 
 export const ENTITY_FORM_STYLES = StyleSheet.create({
