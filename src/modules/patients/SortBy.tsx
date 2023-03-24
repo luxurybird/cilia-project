@@ -6,6 +6,7 @@ import { useBooleanState } from '../../hooks/useBooleanState';
 
 import { colors } from '../../styles/colors';
 import { typography } from '../../styles/typography';
+
 import { ReactComponentPropType } from '../../utils';
 
 const styles = StyleSheet.create({
