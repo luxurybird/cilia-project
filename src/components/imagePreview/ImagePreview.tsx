@@ -17,6 +17,7 @@ import { Size } from '../types';
 import { useAnimatedEvent } from '../../hooks/useAnimatedEvent';
 import { useTransform } from './useTransform';
 
+  // TODO: Improve this section
 const styles = StyleSheet.create({
   root: {
     flex: 1,
