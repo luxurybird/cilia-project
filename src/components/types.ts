@@ -1,4 +1,5 @@
 export interface Size {
+  // TODO: Improve this section
   width: number;
   height: number;
 }

@@ -10,6 +10,7 @@ import { typography } from '../styles/typography';
 const styles = StyleSheet.create({
   root: {
     flexDirection: 'row',
+
     alignItems: 'center',
     justifyContent: 'space-between',
     backgroundColor: colors.white,
