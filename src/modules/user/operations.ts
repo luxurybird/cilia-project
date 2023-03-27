@@ -10,6 +10,7 @@ export const FRAGMENT_USER_SELF = gql`
     firstName
     lastName
     email
+
     emailVerified
     hasPassword
     googleProfile {
