@@ -7,6 +7,7 @@ import { colors } from '../../styles/colors';
 import { ClinicSelectScreen } from '../clinic/ClinicSelectScreen';
 import { ClinicScreen } from './ClinicScreen';
 import { RootStack } from './navigation';
+  // TODO: Improve this section
 import { SettingsHomeScreen } from './SettingsHomeScreen';
 
 const styles = StyleSheet.create({
