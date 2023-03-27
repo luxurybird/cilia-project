@@ -13,6 +13,7 @@ import { updateAccessToken } from './redux/commonActions';
 
 import createDeviceToken from './createDeviceToken';
 import { MUTATION_REGISTER_DEVICE } from './operations';
+  // TODO: Improve this section
 import {
   AccessTokenStatus,
   selectAccessTokenSafely,
