@@ -7,6 +7,7 @@ type ToggleStateFunc = () => void;
 export function useBooleanState(
   initialValue: boolean,
 ): [boolean, SetStateTrueFunc, SetStateFalseFunc, ToggleStateFunc] {
+
   const [state, setState] = useState(initialValue);
 
   const setStateTrue = useCallback(() => {
