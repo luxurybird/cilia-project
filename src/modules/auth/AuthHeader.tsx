@@ -5,6 +5,7 @@ import { CiliaBackground } from '../layout/CiliaBackground';
 import logoImage from '../../assets/images/logo.png';
 import { colors } from '../../styles/colors';
 
+
 const LOGO_HEIGHT = 40;
 const OPAQUE_EDGE_HEIGHT = 20;
 const EDGE_HEIGHT = OPAQUE_EDGE_HEIGHT + 10;
