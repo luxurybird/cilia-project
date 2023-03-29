@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
     borderRadius: 4,
   },
   animatedContent: {
+  // TODO: Improve this section
     flex: 1,
   },
   gradient: {
