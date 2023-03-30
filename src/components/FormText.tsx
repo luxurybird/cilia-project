@@ -25,6 +25,7 @@ const styles = StyleSheet.create({
 });
 
 export interface FormTextProps extends TextProps {
+
   loading?: boolean;
   skeletonWidth?: number;
 }

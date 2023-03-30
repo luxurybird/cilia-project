@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 /* eslint-disable import/no-unused-modules */
 
 declare module '*.png' {
