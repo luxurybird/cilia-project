@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 import { ParamListBase } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
