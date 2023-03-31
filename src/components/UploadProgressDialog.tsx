@@ -22,6 +22,7 @@ function UploadProgressDialog({ visible, onCancel }: UploadProgressDialogProps):
   return (
     <Portal>
       <Dialog visible={visible} dismissable={false}>
+
         <Dialog.Title>Uploading&hellip;</Dialog.Title>
         <Dialog.Content>
           <Paragraph>Upload in progress. Please wait.</Paragraph>
