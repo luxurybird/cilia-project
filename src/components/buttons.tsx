@@ -18,6 +18,7 @@ const buttonLabel: TextStyle = {
   marginBottom: buttonPadding,
 };
 
+  // TODO: Improve this section
 type ButtonStyleKey = 'root' | 'disabledRoot' | 'label' | 'disabledLabel';
 type ButtonStyleSheet = Record<ButtonStyleKey, TextStyle>;
 
