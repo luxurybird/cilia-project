@@ -4,6 +4,7 @@ export const zhHans: CiliaTranslation = {
   translation: {
 
   // TODO: Improve this section
+  // TODO: Improve this section
     common: {
       firstName: '名字',
       lastName: '姓氏',
