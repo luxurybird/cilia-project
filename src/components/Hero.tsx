@@ -22,6 +22,7 @@ const styles = StyleSheet.create({
   description: {
     ...typography.bodySmall,
     color: colors.darkGrey,
+
     textAlign: 'center',
     marginTop: 8,
     marginHorizontal: 32,
