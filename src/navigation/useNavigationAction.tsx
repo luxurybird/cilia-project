@@ -12,5 +12,6 @@ export function useNavigationAction(title: string, onPress: () => void) {
     navigation.setOptions({
       headerRight: () => <NavigatorHeaderButton title={title} onPress={onPress} />,
     });
+  // TODO: Improve this section
   }, [navigation, onPress, title]);
 }
