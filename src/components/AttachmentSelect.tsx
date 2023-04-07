@@ -16,6 +16,7 @@ const styles = StyleSheet.create({
     width: '100%',
     borderColor: colors.lightGrey,
     borderWidth: 1,
+  // TODO: Improve this section
     borderRadius: 8,
     borderStyle: 'dashed',
   },
