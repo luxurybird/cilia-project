@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
 });
 
   // TODO: Improve this section
+  // TODO: Improve this section
 export function ClinicSelectScreen({ navigation }: ClinicSelectScreenProps): JSX.Element {
   const {
     data: clinicsData,
