@@ -1,5 +1,6 @@
 import { gql } from '@apollo/client';
 
+
 export const FRAGMENT_USER_SELF = gql`
   fragment UserSelfFragment on UserSelf {
     id
