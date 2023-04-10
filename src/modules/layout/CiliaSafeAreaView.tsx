@@ -22,6 +22,7 @@ interface CiliaSafeAreaViewProps {
 
 export function CiliaSafeAreaView({ children }: CiliaSafeAreaViewProps): JSX.Element {
   const { mode } = useCiliaStatusBarContext();
+
   const insets = useSafeAreaInsets();
 
   const rootStyle = useMemo<ViewStyle | null>(
