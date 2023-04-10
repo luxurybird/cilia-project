@@ -6,6 +6,7 @@ import { ScreenParamsWithTimestamp } from '../../navigation/types';
 import { Patient } from '../../types/graphql';
 
 interface RootStackParamList extends ParamListBase, ClinicSelectParamList {
+
   home: ScreenParamsWithTimestamp;
   patientCreate: undefined;
   patientView: { patientId: string } & ScreenParamsWithTimestamp;
