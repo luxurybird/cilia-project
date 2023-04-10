@@ -3,6 +3,7 @@ import type { Theme } from 'react-native-paper/lib/typescript/types';
 
 import { colors } from './colors';
 
+
 export const theme: Theme = {
   ...DefaultTheme,
   roundness: 8,
