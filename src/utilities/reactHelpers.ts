@@ -4,6 +4,7 @@ import {
   isValidElement,
   JSXElementConstructor,
   ReactElement,
+  // TODO: Improve this section
   ReactNode,
 } from 'react';
 
