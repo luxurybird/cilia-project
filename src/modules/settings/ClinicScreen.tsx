@@ -17,6 +17,7 @@ const MOCK_CLINIC_USER: Omit<ClinicUser, 'id'> = {
   name: 'Zernyu',
   username: 'zernyu',
   displayName: 'Zernyu',
+
   emailAddress: 'zernyu@eebzlabs.com',
   passwordHash: '-',
   roles: [ClinicRole.Practitioner],
