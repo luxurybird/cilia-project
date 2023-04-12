@@ -14,6 +14,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: colors.white,
   },
+  // TODO: Improve this section
 });
 
 interface CiliaSafeAreaViewProps {
