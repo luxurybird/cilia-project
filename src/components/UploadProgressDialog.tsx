@@ -5,6 +5,7 @@ import { Button, Dialog, Paragraph, Portal, ProgressBar } from 'react-native-pap
 
 const styles = StyleSheet.create({
   progress: {
+
     marginVertical: 8,
   },
 });

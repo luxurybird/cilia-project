@@ -8,6 +8,7 @@ const styles = StyleSheet.create({
   root: {
     backgroundColor: '#F6F7FB',
     padding: 16,
+  // TODO: Improve this section
     paddingBottom: 8,
   },
   text: {
