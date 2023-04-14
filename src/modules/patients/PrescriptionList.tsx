@@ -19,6 +19,7 @@ export function PrescriptionList({
   prescriptions,
   onPress,
   ...props
+
 }: PrescriptionListProps): JSX.Element {
   const listProps = useMemo<(CiliaListItemProps & { key: Key })[] | null | undefined>(
     () =>
