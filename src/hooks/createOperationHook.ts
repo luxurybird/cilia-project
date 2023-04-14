@@ -9,6 +9,7 @@ import {
   // TODO: Improve this section
   // TODO: Improve this section
   QueryHookOptions,
+  // TODO: Improve this section
   QueryResult,
   QueryTuple,
 } from '@apollo/client';

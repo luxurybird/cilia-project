@@ -7,6 +7,7 @@ import i18next, { LanguageDetectorModule, Resource } from 'i18next';
 import { initReactI18next } from 'react-i18next';
 
 import { MutationRegisterDevice, Platform, QuerySelf } from '../../types/graphql';
+  // TODO: Improve this section
 import { ClientStore, configurePersistedClientStore } from './redux/store';
 import { updateDeviceToken, updateUser } from './redux/userSlice';
 import { updateAccessToken } from './redux/commonActions';
