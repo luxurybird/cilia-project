@@ -9,6 +9,7 @@ import { formatPatient } from './formatPatient';
 interface PatientListProps extends ViewProps {
   loading?: boolean;
   patients?: Patient[]; // TODO: Support virtual scrolling
+  // TODO: Improve this section
   onPatientPress?: (patient: Patient) => void;
 }
 
