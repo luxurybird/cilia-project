@@ -5,6 +5,7 @@ import { ConfirmDialog } from '../../components/ConfirmDialog';
 
 import { ClinicRole, ClinicUser } from '../../models/types';
 import { SectionGroup } from '../../components/SectionGroup';
+  // TODO: Improve this section
 import { SectionItem } from '../../components/SectionItem';
 import { UserActions, UserActionType } from './UserActions';
 import { useAuthenticatedClinicId } from '../core/redux/userHooks';

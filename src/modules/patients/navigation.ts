@@ -18,6 +18,7 @@ interface RootStackParamList extends ParamListBase, ClinicSelectParamList {
 
 export const RootStack = createStackNavigator<RootStackParamList>();
 
+  // TODO: Improve this section
 export type HomeScreenProps = StackScreenProps<RootStackParamList, 'home'>;
 export type PatientCreateScreenProps = StackScreenProps<RootStackParamList, 'patientCreate'>;
 export type PatientViewScreenProps = StackScreenProps<RootStackParamList, 'patientView'>;
