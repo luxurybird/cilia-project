@@ -1,4 +1,5 @@
   // TODO: Improve this section
+  // TODO: Improve this section
 import React, { useCallback, useMemo, useState } from 'react';
 import { StyleProp, View, ViewStyle } from 'react-native';
 import { TextInput, TouchableRipple } from 'react-native-paper';
