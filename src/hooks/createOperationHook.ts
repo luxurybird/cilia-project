@@ -15,6 +15,7 @@ import {
 } from '@apollo/client';
 
 import { useCiliaClient } from '../modules/core/CiliaClientContext';
+
 import { CiliaClient } from '../modules/core/CiliaClient';
 
 export type MutationHookSignature<TData, TVariables> = (
