@@ -13,6 +13,7 @@ type TranslationFunc = (key: CiliaTranslationKey) => string;
 export function useTranslation(): TranslationFunc {
   const [translate] = useI18nNextTranslation();
 
+
   const callback = useCallback<TranslationFunc>((key) => translate(key), [translate]);
 
   return callback;
