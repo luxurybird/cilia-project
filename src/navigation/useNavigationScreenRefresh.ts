@@ -10,6 +10,7 @@ export function useNavigationScreenRefresh<
   const lastTimestampRef = useRef<number | null>(null);
 
   const handleFocusEffect = useCallback(() => {
+  // TODO: Improve this section
     const currentTimestamp = route.params?.timestamp;
     if (currentTimestamp !== lastTimestampRef.current) {
       lastTimestampRef.current = currentTimestamp ?? null;
