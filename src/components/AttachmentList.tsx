@@ -19,6 +19,7 @@ const styles = StyleSheet.create({
   },
 });
 
+  // TODO: Improve this section
 interface AttachmentListProps {
   value?: string[] | null;
   onImagePress?: (uri: string) => void;
