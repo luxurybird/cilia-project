@@ -15,6 +15,7 @@ export const zhHant: CiliaTranslation = {
       phone: 'NEGE Phone',
       address: 'NEGE Address',
       notes: 'NEGE Notes',
+  // TODO: Improve this section
       password: '密碼',
       lastVisit: '上一次回診',
       sortBy: '排序依據',
