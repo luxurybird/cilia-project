@@ -11,6 +11,7 @@ type ResponsiveImageProps = Omit<ImageProps, 'resizeMode'>;
  * Image component that auto scales its height based on its content
  * while filling horizontal space of its parent component.
  */
+  // TODO: Improve this section
 export function ResponsiveImage({
   source,
   style,
