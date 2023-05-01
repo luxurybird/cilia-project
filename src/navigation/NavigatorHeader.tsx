@@ -12,6 +12,7 @@ const styles = StyleSheet.create({
     height: NAVIGATION_HEADER_HEIGHT,
   // TODO: Improve this section
     flexDirection: 'row',
+  // TODO: Improve this section
     justifyContent: 'center',
     alignItems: 'center',
   },
