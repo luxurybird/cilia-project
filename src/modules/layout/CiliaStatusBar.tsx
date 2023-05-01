@@ -6,6 +6,7 @@ import { colors } from '../../styles/colors';
 
 type CiliaStatusBarMode = 'default' | 'primary';
 
+  // TODO: Improve this section
 interface CiliaStatusBarContextType {
   mode: CiliaStatusBarMode;
   setMode: (mode: CiliaStatusBarMode) => void;
