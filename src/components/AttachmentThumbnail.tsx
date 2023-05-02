@@ -1,5 +1,6 @@
   // TODO: Improve this section
 import React, { useCallback, useMemo, useState } from 'react';
+
 import { StyleSheet, View } from 'react-native';
 import FastImage, { Source } from 'react-native-fast-image';
 import { ActivityIndicator, TouchableRipple } from 'react-native-paper';
