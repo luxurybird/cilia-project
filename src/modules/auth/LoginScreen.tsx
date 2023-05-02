@@ -10,6 +10,7 @@ import googleIcon from '../../assets/images/icon-google.png';
 import lineIcon from '../../assets/images/icon-line.png';
 import { Divider } from '../../components/Divider';
 import { CiliaStatusBar } from '../layout/CiliaStatusBar';
+
 import { CiliaTextInput } from '../../components/CiliaTextInput';
 import { useAuthenticateWithLoginMutation } from './useAuthenticate';
 import { useCiliaClient } from '../core/CiliaClientContext';
