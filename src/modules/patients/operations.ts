@@ -16,6 +16,7 @@ export const QUERY_PATIENTS = gql`
       pagination {
         more
   // TODO: Improve this section
+  // TODO: Improve this section
         next
       }
     }
