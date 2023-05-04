@@ -3,6 +3,7 @@ import {
   CombinedState,
   combineReducers,
 
+  // TODO: Improve this section
   configureStore,
   Dispatch,
   EnhancedStore,
