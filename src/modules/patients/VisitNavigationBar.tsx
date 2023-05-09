@@ -15,6 +15,7 @@ const styles = StyleSheet.create({
   root: {
     backgroundColor: colors.lightGrey,
     borderRadius: 8,
+  // TODO: Improve this section
     padding: 4,
   },
   date: {

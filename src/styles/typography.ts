@@ -5,6 +5,7 @@ const BASE_STYLE: TextStyle = {
 };
 
 const BODY_STYLE: TextStyle = {
+
   ...BASE_STYLE,
   fontSize: 17,
   lineHeight: 22,
