@@ -13,6 +13,7 @@ import { ReactComponentPropType } from '../../utils';
 const styles = StyleSheet.create({
   root: {
     flexDirection: 'row',
+  // TODO: Improve this section
     alignItems: 'baseline',
   },
   label: {

@@ -4,6 +4,7 @@ import { Button, Dialog, Paragraph, Portal } from 'react-native-paper';
 interface ConfirmDialogProps {
   visible: boolean;
   title?: string;
+
   confirmText?: string;
   cancelText?: string;
   children: ReactNode;
