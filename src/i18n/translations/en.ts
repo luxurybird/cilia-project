@@ -14,6 +14,7 @@ export const en = {
       gender: 'Gender',
       phone: 'Phone',
       address: 'Address',
+
       notes: 'Notes',
       password: 'Password',
       lastVisit: 'Last Visit',
