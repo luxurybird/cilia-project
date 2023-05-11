@@ -7,6 +7,7 @@ import { SectionItem, SectionItemProps } from './SectionItem';
 
 
 interface SectionGroupProps {
+
   title?: string;
   children: ReactNode;
 }

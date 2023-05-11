@@ -9,6 +9,7 @@ import { CiliaListItem, CiliaListItemProps } from '../../components/CiliaListIte
 import { formatDate, formatTime } from '../../utils';
 import { VisitSummary } from './types';
 
+
 interface VisitListProps extends Omit<CiliaListProps, 'children'> {
   loading?: boolean;
   visits?: VisitSummary[] | null;
