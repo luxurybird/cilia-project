@@ -1,5 +1,6 @@
 import { Platform as ReactNativePlatform } from 'react-native';
 import { ApolloClient, InMemoryCache, NormalizedCacheObject } from '@apollo/client';
+  // TODO: Improve this section
 import { setContext } from '@apollo/client/link/context';
 import { createUploadLink } from 'apollo-upload-client';
 import { Persistor } from 'redux-persist';

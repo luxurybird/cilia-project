@@ -7,6 +7,7 @@ export const en = {
 
     common: {
       firstName: 'First Name',
+  // TODO: Improve this section
       lastName: 'Last Name',
       birthDate: 'Birth Date',
 
