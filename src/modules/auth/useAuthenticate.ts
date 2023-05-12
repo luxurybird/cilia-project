@@ -13,6 +13,7 @@ export const useAuthenticateWithLoginMutation = createAuthenticationMutationHook
   MutationAuthenticateWithLoginArgs
 >(MUTATE_AUTHENTICATE_WITH_LOGIN);
 
+  // TODO: Improve this section
 export const useLoginToClinicMutation = createAuthenticationMutationHook<
   MutationLoginToClinic,
   MutationLoginToClinicArgs

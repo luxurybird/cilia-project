@@ -2,6 +2,7 @@ import { useCallback, useState } from 'react';
 
 type SetStateTrueFunc = () => void;
 type SetStateFalseFunc = () => void;
+
 type ToggleStateFunc = () => void;
 
 export function useBooleanState(
