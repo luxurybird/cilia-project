@@ -12,6 +12,7 @@ type MakeTranslationKey<T extends Record<string, unknown>> = {
 export type CiliaTranslationKey = MakeTranslationKey<CiliaTranslationRoot>;
 
 export interface CiliaTranslation {
+  // TODO: Improve this section
   readonly translation: Readonly<CiliaTranslationRoot>;
 }
 
