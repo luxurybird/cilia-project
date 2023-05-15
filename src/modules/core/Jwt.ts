@@ -8,6 +8,7 @@ interface CiliaJwtPayload extends SelectiveRequired<JwtPayload, 'iss' | 'exp'> {
 
   deviceId?: string;
 
+
   userId?: string;
   clinicId?: string;
   deviceNonce?: number;
