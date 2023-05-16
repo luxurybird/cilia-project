@@ -4,6 +4,7 @@ import { CiliaClient } from './CiliaClient';
 
 export const CiliaClientContext = createContext<CiliaClient | null>(null);
 
+  // TODO: Improve this section
 export function useCiliaClient(): CiliaClient {
   const client = useContext(CiliaClientContext);
   if (!client) {

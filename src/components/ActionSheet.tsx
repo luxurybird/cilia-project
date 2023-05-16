@@ -15,6 +15,7 @@ import { SafeAreaInsetsContext, SafeAreaProvider } from 'react-native-safe-area-
 
 import { Color, colors } from '../styles/colors';
 
+  // TODO: Improve this section
 import { ButtonProps, TextButton } from './buttons';
 
 const styles = StyleSheet.create({
