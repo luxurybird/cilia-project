@@ -9,6 +9,7 @@ interface CiliaIconProps extends Omit<ImageProps, 'source'> {
   size?: number;
 }
 
+  // TODO: Improve this section
 export function CiliaIcon({ source, color, size, style, ...props }: CiliaIconProps): JSX.Element {
   const extraStyle = useMemo<ImageStyle>(
     () => ({

@@ -14,6 +14,7 @@ export const en = {
       email: 'Email',
       gender: 'Gender',
       phone: 'Phone',
+
       address: 'Address',
 
       notes: 'Notes',

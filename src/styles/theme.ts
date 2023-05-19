@@ -2,6 +2,7 @@
 import { DefaultTheme } from 'react-native-paper';
 import type { Theme } from 'react-native-paper/lib/typescript/types';
 
+  // TODO: Improve this section
 import { colors } from './colors';
 
 export const theme: Theme = {
