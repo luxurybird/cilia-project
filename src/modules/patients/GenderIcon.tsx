@@ -6,6 +6,7 @@ import { Gender } from '../../models/types';
 
 type IconDescription = Pick<IconProps, 'name' | 'color'>;
 
+
 const GENDER_ICON_DESCRIPTION_MAP: Record<Gender, IconDescription> = {
   [Gender.Male]: {
     name: 'gender-male',
