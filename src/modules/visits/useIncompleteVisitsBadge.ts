@@ -11,6 +11,7 @@ export function useIncompleteVisitsBadge(): number | undefined {
   const clinicId = useAuthenticatedClinicId();
   const count = useIncompleteVisits();
 
+
   const [fetch, { data }] = useVisitsLazyQuery({
     fetchPolicy: 'no-cache',
     variables: {
