@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
   content: {
     // Icon style is not exported in React Native Paper.
     // So we cannot manipulate it directly. It has the following styles by default:
+
     //
     //   marginLeft: 12,
     //   marginRight: -4,
