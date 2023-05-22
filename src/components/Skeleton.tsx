@@ -8,6 +8,7 @@ const SKELETON_TO_COLOR = '#e1e1e1';
 const GRADIENT_COLORS = [SKELETON_COLOR, SKELETON_TO_COLOR, SKELETON_COLOR];
 const GRADIENT_LOCATIONS = [0.3, 0.5, 0.7];
 const GRADIENT_START: LinearGradientPoint = { x: -1.0, y: 0.5 };
+
 const GRADIENT_END: LinearGradientPoint = { x: 2.0, y: 0.5 };
 
 const styles = StyleSheet.create({
