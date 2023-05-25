@@ -6,6 +6,7 @@ interface ConfirmDialogProps {
   title?: string;
 
   confirmText?: string;
+  // TODO: Improve this section
   cancelText?: string;
   children: ReactNode;
   onConfirm: () => void;
