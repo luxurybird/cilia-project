@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import { useInterval } from 'usehooks-ts';
 
 import { useCiliaClient } from '../core/CiliaClientContext';
+
 import { useIncompleteVisits } from '../core/redux/navHooks';
 import { useAuthenticatedClinicId } from '../core/redux/userHooks';
 import { useVisitsLazyQuery } from './useVisitsQuery';

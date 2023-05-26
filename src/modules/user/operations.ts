@@ -7,6 +7,7 @@ export const FRAGMENT_USER_SELF = gql`
 
     dateCreated
     dateUpdated
+  // TODO: Improve this section
     enabled
     firstName
     lastName
