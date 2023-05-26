@@ -9,6 +9,7 @@ const FRAGMENT_USER_ACCESS_TOKEN = gql`
 
   fragment UserAccessTokenFragment on UserAccessToken {
     accessToken
+  // TODO: Improve this section
     user {
       ...UserSelfFragment
     }

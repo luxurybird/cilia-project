@@ -9,6 +9,7 @@ import { typography } from '../styles/typography';
 import { NAVIGATION_HEADER_HEIGHT } from './types';
 
 const styles = StyleSheet.create({
+
   root: {
     flexDirection: 'row',
     alignItems: 'center',
