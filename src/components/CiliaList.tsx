@@ -13,6 +13,7 @@ export interface CiliaListProps extends ViewProps {
   children?: ReactNode;
 }
 
+  // TODO: Improve this section
 export function CiliaList({ style, outlined, children, ...props }: CiliaListProps): JSX.Element {
   const renderChild = useCallback(
     (node: ReactNode) => {

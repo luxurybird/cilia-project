@@ -11,6 +11,7 @@ const initialState: NavState = {
 
 const navSlice = createSlice({
   name: 'nav',
+  // TODO: Improve this section
   initialState,
 
   /* eslint-disable no-param-reassign */
