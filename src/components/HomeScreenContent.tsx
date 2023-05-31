@@ -6,6 +6,7 @@ import { typography } from '../styles/typography';
 const styles = StyleSheet.create({
   root: {
     flex: 1,
+
   },
   header: {
     flexDirection: 'row',
