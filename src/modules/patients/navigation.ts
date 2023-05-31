@@ -22,6 +22,7 @@ export const RootStack = createStackNavigator<RootStackParamList>();
 export type HomeScreenProps = StackScreenProps<RootStackParamList, 'home'>;
 export type PatientCreateScreenProps = StackScreenProps<RootStackParamList, 'patientCreate'>;
 export type PatientViewScreenProps = StackScreenProps<RootStackParamList, 'patientView'>;
+
 export type VisitCreateScreenProps = StackScreenProps<RootStackParamList, 'visitCreate'>;
 export type VisitViewScreenProps = StackScreenProps<RootStackParamList, 'visitView'>;
 export type PrescriptionCreateScreenProps = StackScreenProps<
