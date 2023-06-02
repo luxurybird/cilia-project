@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet, TextStyle } from 'react-native';
+
 import { Button, IconButton as PaperIconButton } from 'react-native-paper';
 
 import { ReactComponentPropType, SelectivePartial } from '../utils';
