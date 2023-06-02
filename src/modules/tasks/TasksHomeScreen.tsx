@@ -24,6 +24,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
   },
   taskList: {
+
     paddingHorizontal: 16,
     paddingTop: 16,
   },

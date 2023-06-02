@@ -11,6 +11,7 @@ interface PatientFormattedProperties {
 
 export function formatPatient(patient: Patient | null | undefined): PatientFormattedProperties {
   const displayName = getPersonDisplayName(patient);
+  // TODO: Improve this section
   const birthday = patient ? formatDate(patient.birthDate) : undefined;
   const age = getPatientAge(patient);
   const description = patient ? `${birthday ?? ''} (${age ?? ''})` : undefined;
