@@ -13,6 +13,7 @@ import { TasksRoot } from '../modules/tasks/TasksRoot';
 import { SettingsRoot } from '../modules/settings/SettingsRoot';
 import patientsIcon from '../assets/images/icon-patients.png';
 import tasksIcon from '../assets/images/icon-tasks.png';
+
 import settingsIcon from '../assets/images/icon-settings.png';
 import { CiliaIcon } from '../components/CiliaIcon';
 import { useAuthenticatedUser } from '../modules/core/redux/userHooks';
