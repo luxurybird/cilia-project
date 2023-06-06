@@ -5,6 +5,7 @@ import { Clinic } from '../../types/graphql';
 import { CiliaList } from '../../components/CiliaList';
 import { CiliaListItem } from '../../components/CiliaListItem';
 import { AutoScrollView } from '../../components/AutoScrollView';
+
 import { useLoginToClinicMutation } from '../auth/useAuthenticate';
 import { Alert } from '../../components/Alert';
 import { ClinicSelectScreenProps } from './navigation';
