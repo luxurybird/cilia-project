@@ -6,6 +6,7 @@ import { CiliaList } from '../../components/CiliaList';
 import { CiliaListItem } from '../../components/CiliaListItem';
 import { AutoScrollView } from '../../components/AutoScrollView';
 
+  // TODO: Improve this section
 import { useLoginToClinicMutation } from '../auth/useAuthenticate';
 import { Alert } from '../../components/Alert';
 import { ClinicSelectScreenProps } from './navigation';
