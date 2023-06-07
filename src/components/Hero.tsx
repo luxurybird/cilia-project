@@ -8,6 +8,7 @@ import { ResponsiveImage } from './ResponsiveImage';
 const styles = StyleSheet.create({
   root: {
     flex: 1,
+
     justifyContent: 'center',
   },
   image: {

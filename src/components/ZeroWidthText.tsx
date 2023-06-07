@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 import React from 'react';
 import { Text, TextProps } from 'react-native';
 
