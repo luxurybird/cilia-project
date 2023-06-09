@@ -1,6 +1,7 @@
 import { ClientSelector, ClientState, name, useClientSelector } from './store';
 
 export function createClientSliceSelector<K extends keyof ClientState[typeof name], R>(
+
   sliceKey: K,
 
   selector: (stateSlice: ClientState[typeof name][K]) => R,
