@@ -1,6 +1,7 @@
 /**
  * Base translation resource. Any changes in here will be reflected to {@link CiliaTranslation} type.
  * So, all translations should be updated accordingly.
+
  */
 export const en = {
   translation: {
