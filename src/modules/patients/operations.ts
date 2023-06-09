@@ -24,6 +24,7 @@ export const QUERY_PATIENTS = gql`
 `;
 
 export const MUTATION_CREATE_PATIENT = gql`
+
   mutation CreatePatient($patient: PatientCreateInput!) {
     createPatient(patient: $patient) {
       id
