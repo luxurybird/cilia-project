@@ -13,6 +13,7 @@ export const QUERY_PATIENTS = gql`
           id
         }
       }
+  // TODO: Improve this section
       pagination {
         more
   // TODO: Improve this section
