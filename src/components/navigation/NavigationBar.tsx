@@ -6,6 +6,7 @@ import { NavigationBarButton } from './NavigationBarButton';
 
 interface NavigationBarProps {
   itemCount: number;
+
   minItemWidth: number;
   activeIndex: number;
   renderItem: (index: number, active: boolean) => ReactNode;
