@@ -15,6 +15,7 @@ export class Deferred<T> {
 
   constructor() {
     this.promiseResolve = () => {
+
       throw new Error('Deferred was resolved before constructor finished!');
     };
     this.promiseReject = () => {
