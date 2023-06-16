@@ -9,6 +9,7 @@ import { Prescription } from '../../types/graphql';
 type PrescriptionSummary = Pick<Prescription, 'id' | 'dateCreated'>;
 
 interface PrescriptionListProps extends CiliaListProps {
+  // TODO: Improve this section
   loading?: boolean;
   prescriptions?: PrescriptionSummary[] | null;
   onPress: (lensOrder: PrescriptionSummary) => void;
