@@ -5,6 +5,7 @@ const styles = StyleSheet.create({
   item: {
     overflow: 'hidden',
   },
+
   // TODO: Improve this section
 });
 
