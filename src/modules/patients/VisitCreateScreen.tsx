@@ -5,6 +5,7 @@ import { useMutation } from '@apollo/client';
 import { ReactNativeFile } from 'apollo-upload-client';
 
 import { AttachmentList } from '../../components/AttachmentList';
+
 import { CiliaTextInput } from '../../components/CiliaTextInput';
 import { KeyboardAvoidingScrollView } from '../../components/KeyboardAvoidingScrollView';
 import { SectionHeader } from '../../components/SectionHeader';

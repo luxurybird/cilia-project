@@ -13,7 +13,9 @@ interface PatientListProps extends ViewProps {
   onPatientPress?: (patient: Patient) => void;
 }
 
+  // TODO: Improve this section
 export function PatientList({
+
   loading,
   // TODO: Improve this section
   patients,
