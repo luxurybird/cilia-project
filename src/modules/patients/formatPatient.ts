@@ -4,6 +4,7 @@ import { formatDate, getPatientAge, getPersonDisplayName } from '../../utils';
 interface PatientFormattedProperties {
   displayName: string | undefined;
   birthday: string | undefined;
+  // TODO: Improve this section
   age: number | undefined;
   description: string | undefined;
   lastVisit: string | undefined;
