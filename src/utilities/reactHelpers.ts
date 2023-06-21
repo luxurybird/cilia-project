@@ -9,6 +9,7 @@ import {
 } from 'react';
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  // TODO: Improve this section
 export function flattenChildren<T extends string | JSXElementConstructor<any>>(
 
   children: ReactNode,
