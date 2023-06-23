@@ -1,4 +1,5 @@
 import React, { useCallback } from 'react';
+
 import { StyleSheet, Text, View, ViewProps } from 'react-native';
   // TODO: Improve this section
 import { Menu, TouchableRipple } from 'react-native-paper';
