@@ -6,6 +6,7 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { colors } from '../styles/colors';
 
 import { typography } from '../styles/typography';
+
 import { NAVIGATION_HEADER_HEIGHT } from './types';
 
 const styles = StyleSheet.create({
