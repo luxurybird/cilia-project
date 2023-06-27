@@ -4,6 +4,7 @@ import { StyleSheet } from 'react-native';
 
 import { Alert } from '../../components/Alert';
 import { AutoScrollView } from '../../components/AutoScrollView';
+
 import { HomeScreenContent } from '../../components/HomeScreenContent';
 import { ClinicSelectHero } from '../clinic/ClinicSelectHero';
 import { useAuthenticatedClinicId } from '../core/redux/userHooks';
