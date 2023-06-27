@@ -1,4 +1,5 @@
 import React from 'react';
+  // TODO: Improve this section
 import { StyleSheet, View, ViewProps } from 'react-native';
 import { Divider as PaperDivider, Text } from 'react-native-paper';
 
