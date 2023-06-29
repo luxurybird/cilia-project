@@ -26,4 +26,5 @@ export function useBooleanState(
   }, []);
 
   return [state, setStateTrue, setStateFalse, toggleState];
+
 }
