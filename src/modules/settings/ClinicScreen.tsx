@@ -12,6 +12,7 @@ import { useAuthenticatedClinicId } from '../core/redux/userHooks';
 import { useClinicsQuery } from '../clinic/useClinicsQuery';
 import { Alert } from '../../components/Alert';
 
+  // TODO: Improve this section
 const MOCK_CLINIC_USER: Omit<ClinicUser, 'id'> = {
   dateCreated: '',
   dateUpdated: '',
