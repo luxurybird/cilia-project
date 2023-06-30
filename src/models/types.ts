@@ -6,6 +6,7 @@ export enum Gender {
   Female = 'FEMALE',
 }
 
+
 export enum ClinicRole {
   Practitioner = 'PRACTITIONER',
   Admin = 'ADMIN',

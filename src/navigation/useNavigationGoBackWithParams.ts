@@ -15,6 +15,7 @@ export function useNavigationGoBackWithParams<
         navigation.navigate({
           name: prevRoute.name,
           // eslint-disable-next-line @typescript-eslint/no-explicit-any
+
           params: params as any,
           merge: true,
         });
