@@ -1,4 +1,5 @@
 import React, { useCallback, useEffect, useRef, useState } from 'react';
+
 import { Animated, Easing, LayoutChangeEvent, StyleSheet, View, ViewProps } from 'react-native';
 import { LinearGradient, LinearGradientPoint } from 'expo-linear-gradient';
 

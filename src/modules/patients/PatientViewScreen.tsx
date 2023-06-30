@@ -5,6 +5,7 @@ import { useQuery } from '@apollo/client';
 
 import { CiliaFAB } from '../../components/CiliaFAB';
 import { typography } from '../../styles/typography';
+
 import { VisitSummary } from '../visits/types';
 import { VisitList } from '../visits/VisitList';
 import { PatientViewScreenProps } from './navigation';
