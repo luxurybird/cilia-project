@@ -5,6 +5,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { colors } from '../../styles/colors';
 import { useCiliaStatusBarContext } from './CiliaStatusBar';
 
+
 const styles = StyleSheet.create({
   root: {
     flex: 1,
