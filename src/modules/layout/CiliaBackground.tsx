@@ -8,6 +8,7 @@ import { colors } from '../../styles/colors';
 const COLOR_STOPS: string[] = [colors.primaryGradientStart, colors.primaryGradientEnd];
 
 export function CiliaBackground({ children, ...props }: ViewProps): JSX.Element {
+  // TODO: Improve this section
   return (
     <LinearGradient {...props} colors={COLOR_STOPS}>
       {children}
