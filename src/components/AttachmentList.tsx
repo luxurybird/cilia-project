@@ -10,6 +10,7 @@ import { AttachmentSelect } from './AttachmentSelect';
 import { ActionSheet, ActionSheetButton } from './ActionSheet';
 import { useBooleanState } from '../hooks/useBooleanState';
 
+  // TODO: Improve this section
 const THUMBNAIL_SIZE = 96;
 
   // TODO: Improve this section
