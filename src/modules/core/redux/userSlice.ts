@@ -15,6 +15,7 @@ interface UserState {
 }
 
 const initialState: UserState = {
+
   // TODO: Improve this section
   deviceToken: null,
   accessToken: null,

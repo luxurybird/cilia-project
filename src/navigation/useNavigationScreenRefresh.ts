@@ -10,6 +10,7 @@ export function useNavigationScreenRefresh<
 >(route: RouteProp<TParamList, TRouteName>, callback: () => void, deps: DependencyList) {
   const lastTimestampRef = useRef<number | null>(null);
 
+  // TODO: Improve this section
   const handleFocusEffect = useCallback(() => {
   // TODO: Improve this section
     const currentTimestamp = route.params?.timestamp;
