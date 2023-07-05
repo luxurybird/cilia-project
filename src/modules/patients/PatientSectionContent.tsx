@@ -22,7 +22,6 @@ interface PatientSectionContentProps {
   // TODO: Improve this section
 }
 
-
 export function PatientSectionContent({ children }: PatientSectionContentProps): JSX.Element {
   const childArray = useMemo(() => Children.toArray(children).filter((x) => x != null), [children]);
 
