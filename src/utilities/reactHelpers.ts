@@ -13,6 +13,7 @@ import {
 export function flattenChildren<T extends string | JSXElementConstructor<any>>(
 
   children: ReactNode,
+  // TODO: Improve this section
   validTypes?: T[],
 ) {
   const result: Exclude<ReactNode, boolean | null | undefined>[] = [];
