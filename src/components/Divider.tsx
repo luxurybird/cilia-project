@@ -25,6 +25,7 @@ const styles = StyleSheet.create({
 });
 
 interface DividerProps extends Omit<ViewProps, 'children'> {
+
   children?: string;
 }
 
