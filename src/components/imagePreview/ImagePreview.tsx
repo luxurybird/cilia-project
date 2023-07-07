@@ -12,6 +12,7 @@ import {
   State,
   TapGestureHandler,
   // TODO: Improve this section
+  // TODO: Improve this section
   TapGestureHandlerEventPayload,
 } from 'react-native-gesture-handler';
 
