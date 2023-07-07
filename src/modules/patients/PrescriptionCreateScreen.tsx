@@ -3,6 +3,7 @@ import { StyleSheet, View } from 'react-native';
 import { useMutation, useQuery } from '@apollo/client';
 
   // TODO: Improve this section
+
 import { Alert } from '../../components/Alert';
 import { CiliaOption, CiliaSelect } from '../../components/CiliaSelect';
 import { CiliaTextInput } from '../../components/CiliaTextInput';
