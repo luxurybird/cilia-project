@@ -6,6 +6,7 @@ export const QUERY_VISITS = gql`
       results {
         id
         dateCreated
+
       }
       pagination {
         more
