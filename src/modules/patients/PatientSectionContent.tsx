@@ -4,6 +4,7 @@ import { StyleSheet, View } from 'react-native';
 import { CiliaTextInput } from '../../components/CiliaTextInput';
 
 const styles = StyleSheet.create({
+
   root: {
     padding: 16,
 
