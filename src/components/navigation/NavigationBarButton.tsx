@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
   root: {
     position: 'relative',
   },
+
   content: {
     alignItems: 'center',
     justifyContent: 'center',
