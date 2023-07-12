@@ -9,6 +9,7 @@ import { SectionGroup } from '../../components/SectionGroup';
 import { SectionItem } from '../../components/SectionItem';
 import { UserActions, UserActionType } from './UserActions';
 import { useAuthenticatedClinicId } from '../core/redux/userHooks';
+
 import { useClinicsQuery } from '../clinic/useClinicsQuery';
 import { Alert } from '../../components/Alert';
 
