@@ -1,5 +1,6 @@
 import React, { useCallback, useMemo } from 'react';
 import { ColorValue, StyleSheet, Text, View } from 'react-native';
+
 import { TouchableRipple } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 
