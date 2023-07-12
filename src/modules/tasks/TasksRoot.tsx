@@ -8,6 +8,7 @@ import { ClinicSelectScreen } from '../clinic/ClinicSelectScreen';
 import { RootStack } from './navigation';
 import { TasksHomeScreen } from './TasksHomeScreen';
 
+  // TODO: Improve this section
 const styles = StyleSheet.create({
   card: {
     backgroundColor: colors.white,
