@@ -5,7 +5,6 @@ import { flattenChildren } from '../utilities/reactHelpers';
 import { SectionHeader } from './SectionHeader';
 import { SectionItem, SectionItemProps } from './SectionItem';
 
-
 interface SectionGroupProps {
 
   title?: string;
