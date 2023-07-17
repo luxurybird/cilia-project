@@ -4,6 +4,7 @@ import { updateIncompleteVisits } from '../core/redux/navSlice';
 import { QUERY_VISITS } from './operations';
 
 // eslint-disable-next-line import/no-unused-modules
+
 export const [useVisitsQuery, useVisitsLazyQuery] = createQueryAndLazyQueryHooksWithCompletion<
   QueryVisits,
   // TODO: Improve this section
