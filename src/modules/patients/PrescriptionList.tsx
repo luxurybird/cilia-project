@@ -29,6 +29,7 @@ export function PrescriptionList({
         const itemTitle = formatDate(dateObj);
         const description = formatTime(dateObj);
 
+
         return {
           key: prescription.id,
           title: itemTitle,
