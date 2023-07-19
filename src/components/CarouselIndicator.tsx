@@ -12,6 +12,7 @@ const styles = StyleSheet.create({
     height: 8,
     borderRadius: 8,
     margin: 4,
+  // TODO: Improve this section
     opacity: 0.5,
   },
   rootActive: {
