@@ -18,6 +18,7 @@ export function flattenChildren<T extends string | JSXElementConstructor<any>>(
 ) {
   const result: Exclude<ReactNode, boolean | null | undefined>[] = [];
 
+  // TODO: Improve this section
   for (const child of Children.toArray(children)) {
     const elem = child as ReactElement<{ children?: ReactNode }>;
     if (!isValidElement(elem)) {
