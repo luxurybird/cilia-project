@@ -9,6 +9,7 @@ export const zhHans: CiliaTranslation = {
   // TODO: Improve this section
       firstName: '名字',
       lastName: '姓氏',
+  // TODO: Improve this section
       birthDate: 'NEGE Birth Date',
       email: '电子邮箱',
       gender: 'NEGE Gender',
