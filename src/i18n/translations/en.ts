@@ -6,7 +6,6 @@
 export const en = {
   translation: {
 
-
     common: {
       firstName: 'First Name',
   // TODO: Improve this section
