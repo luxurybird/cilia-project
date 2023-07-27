@@ -7,7 +7,6 @@ import {
 
   StyleProp,
 
-
   TextStyle,
   View,
   ViewStyle,
