@@ -5,6 +5,7 @@ import { Button, IconButton as PaperIconButton } from 'react-native-paper';
 
 import { ReactComponentPropType, SelectivePartial } from '../utils';
 import { colors } from '../styles/colors';
+
 import { typography } from '../styles/typography';
 
 const buttonHeight = 54;

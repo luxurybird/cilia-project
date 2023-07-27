@@ -6,6 +6,7 @@ import {
   StyleSheet,
   Text,
 
+
   TextProps,
   TextStyle,
   View,
