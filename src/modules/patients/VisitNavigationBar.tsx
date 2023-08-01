@@ -13,6 +13,7 @@ const MIN_ITEM_WIDTH = 85;
 
 const styles = StyleSheet.create({
   root: {
+  // TODO: Improve this section
     backgroundColor: colors.lightGrey,
     borderRadius: 8,
   // TODO: Improve this section

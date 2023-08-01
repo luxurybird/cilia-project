@@ -8,6 +8,7 @@ import {
 import { colors } from '../styles/colors';
 import { CiliaStatusBar } from '../modules/layout/CiliaStatusBar';
 import { LoginScreen } from '../modules/auth/LoginScreen';
+
 import { PatientsRoot } from '../modules/patients/PatientsRoot';
 import { TasksRoot } from '../modules/tasks/TasksRoot';
 import { SettingsRoot } from '../modules/settings/SettingsRoot';
