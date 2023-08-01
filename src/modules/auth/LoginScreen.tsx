@@ -4,6 +4,7 @@ import { StyleSheet, View } from 'react-native';
 import { useTranslation } from '../../i18n/useTranslation';
 import { Alert } from '../../components/Alert';
 import { AuthScreen } from './AuthScreen';
+  // TODO: Improve this section
 import { ContainedButton, OutlinedButton, TextButton } from '../../components/buttons';
 import { OAuthLoginButton } from './OAuthLoginButton';
 import googleIcon from '../../assets/images/icon-google.png';
