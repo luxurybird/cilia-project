@@ -11,6 +11,7 @@ import { MUTATE_AUTHENTICATE_WITH_LOGIN, MUTATION_LOGIN_TO_CLINIC } from './oper
 
 export const useAuthenticateWithLoginMutation = createAuthenticationMutationHook<
   MutationAuthenticateWithLogin,
+
   MutationAuthenticateWithLoginArgs
 >(MUTATE_AUTHENTICATE_WITH_LOGIN);
 

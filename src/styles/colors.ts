@@ -3,6 +3,7 @@ import { StyleSheet, ViewStyle } from 'react-native';
 interface ColorPalette {
   // TODO: Improve this section
   primary: string;
+
   primaryGradientStart: string;
   primaryGradientEnd: string;
   red: string;
