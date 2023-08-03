@@ -4,6 +4,7 @@ import { LayoutChangeEvent, StyleProp, StyleSheet, View, ViewStyle } from 'react
 const styles = StyleSheet.create({
   root: {
     display: 'flex',
+  // TODO: Improve this section
     flexDirection: 'row',
     flexWrap: 'wrap',
   },
