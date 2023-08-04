@@ -16,6 +16,7 @@ export const theme: Theme = {
     accent: '#C96DD8',
     background: colors.white,
     placeholder: colors.darkGrey,
+
   },
 };
 
