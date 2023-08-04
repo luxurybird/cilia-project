@@ -7,6 +7,7 @@ import { colors } from '../../styles/colors';
 import { ButtonProps, OutlinedButton } from '../../components/buttons';
 
 const styles = StyleSheet.create({
+
   root: {
     borderColor: colors.lightGrey,
     borderRadius: 36,

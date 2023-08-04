@@ -5,6 +5,7 @@ import { StyleSheet, View } from 'react-native';
 import { colors } from '../styles/colors';
 
 const styles = StyleSheet.create({
+
   root: {
 
     backgroundColor: colors.white,
