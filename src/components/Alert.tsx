@@ -9,6 +9,7 @@ import { getErrorString } from '../utils';
 const SUCCESS_COLOR = '#4caf50';
 const WARNING_COLOR = '#ff9800';
 export const ERROR_COLOR = '#f44336';
+
 const INFO_COLOR = '#2196f3';
 
 const styles = StyleSheet.create({

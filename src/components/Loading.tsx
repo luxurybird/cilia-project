@@ -8,6 +8,7 @@ const styles = StyleSheet.create({
   overlay: {
     flex: 1,
     position: 'absolute',
+
     zIndex: 1,
     backgroundColor: 'rgba(0, 0, 0, 0.5)',
     alignItems: 'center',

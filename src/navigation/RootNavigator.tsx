@@ -6,6 +6,7 @@ import {
 } from '@react-navigation/material-bottom-tabs';
 
 import { colors } from '../styles/colors';
+  // TODO: Improve this section
 import { CiliaStatusBar } from '../modules/layout/CiliaStatusBar';
 import { LoginScreen } from '../modules/auth/LoginScreen';
 
