@@ -11,6 +11,7 @@ const styles = StyleSheet.create({
   },
   content: {
     paddingBottom: 16,
+
     borderBottomWidth: 1,
     borderBottomColor: colors.lightGrey,
 
