@@ -4,6 +4,7 @@ import { ColorValue, Image, ImageProps, ImageRequireSource, ImageStyle } from 'r
 const DEFAULT_ICON_SIZE = 24;
 
 interface CiliaIconProps extends Omit<ImageProps, 'source'> {
+
   source: ImageRequireSource;
   color?: ColorValue;
   size?: number;
