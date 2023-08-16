@@ -20,6 +20,7 @@ const MOCK_CLINIC_USER: Omit<ClinicUser, 'id'> = {
   dateUpdated: '',
   name: 'Zernyu',
   username: 'zernyu',
+
   displayName: 'Zernyu',
 
   emailAddress: 'zernyu@eebzlabs.com',
