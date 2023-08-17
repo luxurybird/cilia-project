@@ -15,6 +15,7 @@ import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux';
 import {
   // TODO: Improve this section
   FLUSH,
+
   PAUSE,
 
   PERSIST,
