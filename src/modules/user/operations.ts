@@ -10,6 +10,7 @@ export const FRAGMENT_USER_SELF = gql`
     enabled
     firstName
     lastName
+
     email
 
     emailVerified
