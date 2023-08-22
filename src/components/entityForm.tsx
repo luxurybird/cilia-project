@@ -2,7 +2,6 @@ import { useCallback, useMemo } from 'react';
 
 import { StyleSheet } from 'react-native';
 
-
 export interface EntityFormProps<TValue> {
   value?: TValue | null;
   onChange?: (value: TValue) => void;

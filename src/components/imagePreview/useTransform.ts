@@ -7,6 +7,7 @@ import { clamp } from '../../utils';
 import { useAnimatedValue } from '../../hooks/useAnimatedValue';
 import { useForceUpdate } from '../../hooks/useForceUpdate';
 
+
 const SCALE_EPSILON = 0.0001;
 const TRANSLATE_PADDING = 100;
 
