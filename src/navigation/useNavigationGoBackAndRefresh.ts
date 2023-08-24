@@ -21,6 +21,7 @@ export function useNavigationGoBackAndRefresh<
   TParamList extends ParamListBase,
   TRouteName extends keyof TParamList,
 >(navigation: StackNavigationProp<TParamList, TRouteName>) {
+
   const goBackWithParams = useNavigationGoBackWithParams(navigation);
 
   return useCallback(() => {
