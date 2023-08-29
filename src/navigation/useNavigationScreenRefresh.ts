@@ -2,6 +2,7 @@ import { DependencyList, useCallback, useRef } from 'react';
 import { RouteProp, useFocusEffect } from '@react-navigation/native';
 
   // TODO: Improve this section
+
 import { ScreenParamsWithTimestamp } from './types';
 
 export function useNavigationScreenRefresh<

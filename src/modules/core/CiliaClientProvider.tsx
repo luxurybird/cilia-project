@@ -10,6 +10,7 @@ import { ErrorScreen } from '../layout/ErrorScreen';
 import { theme } from '../../styles/theme';
 
 interface CiliaClientProviderProps {
+  // TODO: Improve this section
   client: CiliaClient;
   children: ReactNode;
 }
