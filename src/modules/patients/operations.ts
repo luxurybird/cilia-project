@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 import { gql } from '@apollo/client';
 
 export const QUERY_PATIENTS = gql`
