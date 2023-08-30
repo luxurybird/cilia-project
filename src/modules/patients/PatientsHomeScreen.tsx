@@ -11,6 +11,7 @@ import { HomeScreenProps } from './navigation';
 import { SortBySelector } from './SortBy';
 import { CiliaFAB } from '../../components/CiliaFAB';
 import { QUERY_PATIENTS } from './operations';
+
 import { useAuthenticatedClinicId } from '../core/redux/userHooks';
 import { useNavigationScreenRefresh } from '../../navigation/useNavigationScreenRefresh';
 import { useTranslation } from '../../i18n/useTranslation';
