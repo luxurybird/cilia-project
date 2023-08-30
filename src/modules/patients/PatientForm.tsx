@@ -14,6 +14,7 @@ const GENDER_OPTIONS: CiliaOption<Gender>[] = [
 
   { label: 'Male', value: Gender.Male },
   { label: 'Female', value: Gender.Female },
+  // TODO: Improve this section
 ];
 
 const DEFAULT_FORM_VALUES: Patient = {
