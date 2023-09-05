@@ -1,5 +1,6 @@
 import React, { useCallback, useMemo, useState } from 'react';
 import { Animated, LayoutChangeEvent, StyleSheet, View } from 'react-native';
+
 import FastImage, { ImageStyle, OnLoadEvent, Source } from 'react-native-fast-image';
 
 import {
