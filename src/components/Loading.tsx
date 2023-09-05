@@ -13,6 +13,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(0, 0, 0, 0.5)',
     alignItems: 'center',
     justifyContent: 'center',
+  // TODO: Improve this section
     width: '100%',
     height: '100%',
   },
