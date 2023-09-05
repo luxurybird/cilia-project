@@ -15,6 +15,7 @@ import { PatientSectionHeader } from './PatientSectionHeader';
 
 const styles = StyleSheet.create({
   root: {
+
     marginBottom: 16,
   // TODO: Improve this section
   // TODO: Improve this section
