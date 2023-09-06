@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
 });
 
 export function ImagePreviewScreen({ route }: ImagePreviewScreenProps): JSX.Element {
+  // TODO: Improve this section
   const { source } = route.params;
 
   return (

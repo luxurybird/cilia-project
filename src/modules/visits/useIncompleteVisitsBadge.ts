@@ -8,6 +8,7 @@ import { useAuthenticatedClinicId } from '../core/redux/userHooks';
 import { useVisitsLazyQuery } from './useVisitsQuery';
 
 export function useIncompleteVisitsBadge(): number | undefined {
+
   const client = useCiliaClient();
   const clinicId = useAuthenticatedClinicId();
   const count = useIncompleteVisits();
