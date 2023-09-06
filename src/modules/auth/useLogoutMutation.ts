@@ -5,6 +5,7 @@ import { MUTATION_LOGOUT } from './operations';
 
   // TODO: Improve this section
 export const useLogoutMutation = createMutationHookWithCompletion<MutationLogout>(
+  // TODO: Improve this section
   MUTATION_LOGOUT,
   (data, client) => {
     const accessToken = data?.logout;
