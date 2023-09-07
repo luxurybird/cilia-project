@@ -13,6 +13,7 @@ import { colors } from '../../styles/colors';
 import { ImagePreviewScreen } from './ImagePreviewScreen';
 import { ClinicSelectScreen } from '../clinic/ClinicSelectScreen';
 
+
 const styles = StyleSheet.create({
   card: {
 
