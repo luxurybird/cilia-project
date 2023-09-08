@@ -9,6 +9,7 @@ import { userSliceKey } from './userSlice';
 export const selectAccessToken = createClientSliceSelector(
   userSliceKey,
 
+  // TODO: Improve this section
   (slice) => slice.accessToken,
 );
 

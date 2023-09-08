@@ -1,6 +1,7 @@
 import React, { useCallback, useMemo, useState } from 'react';
 import { View } from 'react-native';
 
+
 import { ConfirmDialog } from '../../components/ConfirmDialog';
 
 import { ClinicRole, ClinicUser } from '../../models/types';
