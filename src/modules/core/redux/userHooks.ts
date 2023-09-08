@@ -1,5 +1,6 @@
   // TODO: Improve this section
 import { createClientSliceSelectorHook } from './utilities';
+
 import { selectAuthenticatedUserSafely, selectAuthenticatedClinicId } from './userSelectors';
 
 
