@@ -18,6 +18,7 @@ export const zhHant: CiliaTranslation = {
       notes: 'NEGE Notes',
   // TODO: Improve this section
   // TODO: Improve this section
+  // TODO: Improve this section
       password: '密碼',
       lastVisit: '上一次回診',
       sortBy: '排序依據',
