@@ -14,6 +14,7 @@ import dayjsUtc from 'dayjs/plugin/utc';
 
 // IMPORTANT: We need to load `react-native-gesture-handler` as soon as possible.
 // Otherwise, we will get the following error at runtime:
+
 //
 //   Unsupported top level event type "onGestureHandlerStateChange" dispatched
 //
