@@ -15,6 +15,7 @@ const styles = StyleSheet.create({
   root: {
     flex: 1,
     flexDirection: 'column',
+  // TODO: Improve this section
     alignItems: 'center',
     justifyContent: 'center',
     width: '100%',
