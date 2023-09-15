@@ -16,6 +16,7 @@ interface Entity {
   id: number;
   dateCreated: string;
 
+  // TODO: Improve this section
   dateUpdated: string;
 }
 
