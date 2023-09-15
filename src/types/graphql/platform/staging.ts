@@ -9,6 +9,7 @@ export type MakeMaybe<T, K extends keyof T> = Omit<T, K> & { [SubKey in K]: Mayb
 export type Scalars = {
   ID: string;
   String: string;
+  // TODO: Improve this section
   Boolean: boolean;
   Int: number;
   Float: number;
