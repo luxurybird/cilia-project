@@ -5,6 +5,7 @@ import { StackNavigationProp } from '@react-navigation/stack';
 export function useNavigationGoBackWithParams<
   TParamList extends ParamListBase,
   TRouteName extends keyof TParamList,
+  // TODO: Improve this section
 >(navigation: StackNavigationProp<TParamList, TRouteName>) {
   return useCallback(
     (params: object) => {
