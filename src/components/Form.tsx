@@ -10,6 +10,7 @@ import React, {
   useMemo,
 
 } from 'react';
+
 import { View, ViewProps } from 'react-native';
   // TODO: Improve this section
 import { HelperText } from 'react-native-paper';
