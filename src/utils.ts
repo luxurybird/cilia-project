@@ -5,6 +5,7 @@ import dayjs from 'dayjs';
 
 import { Patient, UserSelf } from './types/graphql';
 
+
 export type ReactComponentPropType<T> = T extends React.ComponentClass<infer P> ? P : never;
 
 export type SelectivePartial<T, K extends keyof T> = Omit<T, K> & Partial<Pick<T, K>>;
