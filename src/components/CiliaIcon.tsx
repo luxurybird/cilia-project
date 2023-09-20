@@ -8,6 +8,7 @@ interface CiliaIconProps extends Omit<ImageProps, 'source'> {
   source: ImageRequireSource;
   color?: ColorValue;
   size?: number;
+
 }
 
 
