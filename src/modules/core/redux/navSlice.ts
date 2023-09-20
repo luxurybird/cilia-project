@@ -26,6 +26,7 @@ const navSlice = createSlice({
   /* eslint-enable no-param-reassign */
 });
 
+
 export const {
   actions: { updateIncompleteVisits },
   name: navSliceKey,
