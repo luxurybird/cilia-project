@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     flexWrap: 'wrap',
   },
+  // TODO: Improve this section
 });
 
 interface GridViewProps<T> {
