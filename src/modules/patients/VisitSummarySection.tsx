@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
     padding: 16,
     paddingBottom: 0,
   },
+
   content: {
     paddingBottom: 16,
 

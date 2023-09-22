@@ -9,6 +9,7 @@ export class Deferred<T> {
 
   protected promiseResolve: (value: T) => void;
 
+
   protected promiseReject: (reason: unknown) => void;
 
   readonly promise: Promise<T>;
