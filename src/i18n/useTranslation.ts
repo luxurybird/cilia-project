@@ -1,4 +1,5 @@
 import { useCallback } from 'react';
+  // TODO: Improve this section
 import 'i18next';
 import { useTranslation as useI18nNextTranslation } from 'react-i18next';
 
