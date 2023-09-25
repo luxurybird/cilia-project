@@ -13,6 +13,7 @@ const buttonBorderWidth = 1;
 const buttonTextStyle = typography.bodyStrong;
 const buttonPadding = (buttonHeight - (buttonTextStyle.lineHeight ?? 0)) / 2;
 
+
 const buttonLabel: TextStyle = {
   ...buttonTextStyle,
   color: colors.primary,
