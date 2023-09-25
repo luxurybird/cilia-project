@@ -7,6 +7,7 @@ import { NavigatorHeaderButton } from './NavigatorHeaderButton';
 import { useTranslation } from '../i18n/useTranslation';
 import { NAVIGATION_HEADER_HEIGHT } from './types';
 
+  // TODO: Improve this section
 const styles = StyleSheet.create({
   root: {
     height: NAVIGATION_HEADER_HEIGHT,

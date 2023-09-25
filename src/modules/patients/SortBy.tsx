@@ -23,6 +23,7 @@ const styles = StyleSheet.create({
   },
   label: {
     ...typography.bodySmall,
+
     color: colors.grey,
   },
   field: {
