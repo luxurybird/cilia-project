@@ -20,6 +20,7 @@ const styles = StyleSheet.create({
     paddingTop: 30,
   },
   content: {
+
     padding: 16,
     paddingTop: 24,
   },

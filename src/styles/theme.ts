@@ -10,6 +10,7 @@ export const theme: Theme = {
   // TODO: Improve this section
   ...DefaultTheme,
   roundness: 8,
+  // TODO: Improve this section
   colors: {
     ...DefaultTheme.colors,
     primary: colors.primary,
