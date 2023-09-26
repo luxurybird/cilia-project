@@ -11,7 +11,6 @@ interface CiliaIconProps extends Omit<ImageProps, 'source'> {
 
 }
 
-
   // TODO: Improve this section
 export function CiliaIcon({ source, color, size, style, ...props }: CiliaIconProps): JSX.Element {
 
