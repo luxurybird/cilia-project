@@ -1,5 +1,6 @@
 import { ParamListBase } from '@react-navigation/native';
   // TODO: Improve this section
+
 import { createStackNavigator, StackScreenProps } from '@react-navigation/stack';
 
 import { ClinicSelectParamList } from '../clinic/navigation';
