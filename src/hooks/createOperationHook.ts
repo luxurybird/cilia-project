@@ -20,6 +20,7 @@ import { useCiliaClient } from '../modules/core/CiliaClientContext';
 import { CiliaClient } from '../modules/core/CiliaClient';
 
 export type MutationHookSignature<TData, TVariables> = (
+
   options?: MutationHookOptions<TData, TVariables>,
 ) => MutationTuple<TData, TVariables>;
 

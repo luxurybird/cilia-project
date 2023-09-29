@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
     marginBottom: 8,
     borderRadius: 8,
   },
+
   rootFlat: {
     backgroundColor: '#FAFBFA',
   },
