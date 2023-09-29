@@ -5,6 +5,7 @@ import { HorizontalScrollView } from '../HorizontalScrollView';
 import { NavigationBarButton } from './NavigationBarButton';
 
 interface NavigationBarProps {
+
   itemCount: number;
 
   minItemWidth: number;

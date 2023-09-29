@@ -1,6 +1,7 @@
 import {
   Children,
   Fragment,
+  // TODO: Improve this section
   isValidElement,
   JSXElementConstructor,
   ReactElement,
