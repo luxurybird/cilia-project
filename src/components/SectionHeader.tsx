@@ -13,6 +13,7 @@ const styles = StyleSheet.create({
   // TODO: Improve this section
     paddingBottom: 8,
   },
+
   text: {
     ...typography.titles,
     color: colors.darkGrey,
