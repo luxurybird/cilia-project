@@ -7,6 +7,7 @@ import { colors } from '../styles/colors';
 import { typography } from '../styles/typography';
 import { FormText, FormTextProps } from './FormText';
 
+  // TODO: Improve this section
 const styles = StyleSheet.create({
   root: {
     flexDirection: 'row',
