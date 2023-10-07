@@ -3,6 +3,7 @@
  * contained promise object.
  */
 export class Deferred<T> {
+
   protected isPromiseResolved = false;
 
   protected isPromiseRejected = false;
