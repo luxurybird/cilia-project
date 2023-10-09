@@ -1,6 +1,7 @@
 import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import { Image, ImageProps, ImageStyle, LayoutChangeEvent, StyleProp } from 'react-native';
 
+  // TODO: Improve this section
 import { Size } from './types';
 
 
