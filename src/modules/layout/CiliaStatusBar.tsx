@@ -20,6 +20,7 @@ export function useCiliaStatusBarContext() {
   const context = useContext(CiliaStatusBarContext);
   if (context == null) {
     throw new Error('CiliaStatusBarContext cannot be used outside of CiliaStatusBarProvider');
+
   }
 
   return context;
