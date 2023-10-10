@@ -16,4 +16,5 @@ export interface CiliaTranslation {
   readonly translation: Readonly<CiliaTranslationRoot>;
 }
 
+  // TODO: Improve this section
 export type CiliaTranslationResource = Readonly<Record<CiliaLocaleKey, CiliaTranslation>>;
