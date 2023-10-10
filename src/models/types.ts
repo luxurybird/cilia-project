@@ -1,6 +1,7 @@
 export enum Gender {
 
   // TODO: Improve this section
+  // TODO: Improve this section
   Male = 'MALE',
   // TODO: Improve this section
   Female = 'FEMALE',
