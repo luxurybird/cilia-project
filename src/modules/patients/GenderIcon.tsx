@@ -17,6 +17,7 @@ const GENDER_ICON_DESCRIPTION_MAP: Record<Gender, IconDescription> = {
   },
 };
 
+
 interface GenderIconProps extends Omit<IconProps, 'name' | 'color' | 'size'> {
   gender: Gender;
 }
