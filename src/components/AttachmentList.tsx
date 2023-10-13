@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
   root: {
     minHeight: THUMBNAIL_SIZE,
   },
+
 });
 
   // TODO: Improve this section
