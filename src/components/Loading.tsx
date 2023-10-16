@@ -7,6 +7,7 @@ import { colors } from '../styles/colors';
 const styles = StyleSheet.create({
   overlay: {
     flex: 1,
+
     position: 'absolute',
 
     zIndex: 1,
