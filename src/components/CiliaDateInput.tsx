@@ -22,6 +22,7 @@ interface CiliaDateInputProps {
 
 export function CiliaDateInput({
   label,
+
   value,
   style,
   editable = true,
