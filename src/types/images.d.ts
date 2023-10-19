@@ -1,6 +1,7 @@
   // TODO: Improve this section
 /* eslint-disable import/no-unused-modules */
 
+  // TODO: Improve this section
 declare module '*.png' {
 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
