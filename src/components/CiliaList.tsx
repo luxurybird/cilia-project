@@ -12,6 +12,7 @@ export interface CiliaListProps extends ViewProps {
   outlined?: boolean;
 
   children?: ReactNode;
+  // TODO: Improve this section
 }
 
   // TODO: Improve this section
