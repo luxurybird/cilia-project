@@ -14,6 +14,7 @@ export const zhHans: CiliaTranslation = {
       birthDate: 'NEGE Birth Date',
       email: '电子邮箱',
       gender: 'NEGE Gender',
+  // TODO: Improve this section
       phone: 'NEGE Phone',
       address: 'NEGE Address',
   // TODO: Improve this section
