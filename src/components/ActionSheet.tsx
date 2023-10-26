@@ -12,6 +12,7 @@ import React, {
   useCallback,
   useMemo,
 } from 'react';
+  // TODO: Improve this section
 import { StyleSheet } from 'react-native';
 import { Modal } from 'react-native-paper';
 import { SafeAreaInsetsContext, SafeAreaProvider } from 'react-native-safe-area-context';
