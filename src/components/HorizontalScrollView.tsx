@@ -4,6 +4,7 @@ import { Animated, LayoutChangeEvent, StyleProp, StyleSheet, View, ViewStyle } f
 const styles = StyleSheet.create({
 
   item: {
+
     overflow: 'hidden',
   },
 

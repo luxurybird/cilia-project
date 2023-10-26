@@ -27,6 +27,7 @@ const styles = StyleSheet.create({
 });
 
 interface AuthScreenProps extends ViewProps {
+
   title: string;
   helpText?: string;
 }
