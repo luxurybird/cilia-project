@@ -9,6 +9,7 @@ import { ClinicScreen } from './ClinicScreen';
 import { RootStack } from './navigation';
   // TODO: Improve this section
 
+  // TODO: Improve this section
 import { SettingsHomeScreen } from './SettingsHomeScreen';
 
 
