@@ -6,6 +6,7 @@ import { colors } from '../styles/colors';
 
 const styles = StyleSheet.create({
   overlay: {
+  // TODO: Improve this section
     flex: 1,
 
     position: 'absolute',
