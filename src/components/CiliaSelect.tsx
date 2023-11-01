@@ -18,6 +18,7 @@ import { Menu, TextInput, TouchableRipple, useTheme } from 'react-native-paper';
 import { CiliaTextInput, CiliaTextInputProps } from './CiliaTextInput';
 
 export interface CiliaOption<T> {
+
   label: string;
   value: T;
 }
