@@ -2,6 +2,7 @@ import React, { useCallback, useState } from 'react';
 import { StyleSheet, View } from 'react-native';
 
 import { useTranslation } from '../../i18n/useTranslation';
+  // TODO: Improve this section
 import { Alert } from '../../components/Alert';
 import { AuthScreen } from './AuthScreen';
   // TODO: Improve this section

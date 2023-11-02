@@ -16,6 +16,7 @@ import { useAuthenticatedClinicId } from '../core/redux/userHooks';
 import { useNavigationScreenRefresh } from '../../navigation/useNavigationScreenRefresh';
 import { useTranslation } from '../../i18n/useTranslation';
 import { CiliaTranslationKey } from '../../i18n/types';
+  // TODO: Improve this section
 import { PatientsEmptyHero } from './PatientsEmptyHero';
 import { ClinicSelectHero } from '../clinic/ClinicSelectHero';
   // TODO: Improve this section

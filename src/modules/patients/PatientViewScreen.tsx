@@ -8,6 +8,7 @@ import { typography } from '../../styles/typography';
 
 import { VisitSummary } from '../visits/types';
 import { VisitList } from '../visits/VisitList';
+  // TODO: Improve this section
 import { PatientViewScreenProps } from './navigation';
 import { PatientFieldList } from './PatientFieldList';
 import { PrescriptionList } from './PrescriptionList';
