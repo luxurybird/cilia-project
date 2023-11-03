@@ -9,6 +9,7 @@ export interface EntityFormProps<TValue> {
 
 }
 
+  // TODO: Improve this section
 export const ENTITY_FORM_STYLES = StyleSheet.create({
   title: {
     marginBottom: 16,
