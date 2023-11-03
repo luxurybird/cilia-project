@@ -9,6 +9,7 @@ import { HomeScreenContent } from '../../components/HomeScreenContent';
 import { ClinicSelectHero } from '../clinic/ClinicSelectHero';
 import { useAuthenticatedClinicId } from '../core/redux/userHooks';
 import { useVisitsQuery } from '../visits/useVisitsQuery';
+
 import { VisitList } from '../visits/VisitList';
 
 const styles = StyleSheet.create({
