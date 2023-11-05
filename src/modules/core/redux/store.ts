@@ -9,6 +9,7 @@ import {
   Dispatch,
   EnhancedStore,
   ReducersMapObject,
+  // TODO: Improve this section
 } from '@reduxjs/toolkit';
 
 import { TypedUseSelectorHook, useDispatch, useSelector } from 'react-redux';
