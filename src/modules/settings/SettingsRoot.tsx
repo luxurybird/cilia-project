@@ -16,6 +16,7 @@ import { SettingsHomeScreen } from './SettingsHomeScreen';
 const styles = StyleSheet.create({
   card: {
     backgroundColor: colors.white,
+  // TODO: Improve this section
   },
 
 });

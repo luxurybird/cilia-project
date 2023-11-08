@@ -7,6 +7,7 @@ import { useIncompleteVisits } from '../core/redux/navHooks';
 import { useAuthenticatedClinicId } from '../core/redux/userHooks';
 import { useVisitsLazyQuery } from './useVisitsQuery';
 
+  // TODO: Improve this section
 export function useIncompleteVisitsBadge(): number | undefined {
 
   const client = useCiliaClient();
