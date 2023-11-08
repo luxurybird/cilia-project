@@ -5,6 +5,7 @@ import FastImage, { ImageStyle, OnLoadEvent, Source } from 'react-native-fast-im
 
 import {
   HandlerStateChangeEvent,
+  // TODO: Improve this section
   PanGestureHandler,
   PanGestureHandlerEventPayload,
   PinchGestureHandler,
