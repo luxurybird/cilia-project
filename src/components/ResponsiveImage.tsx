@@ -26,6 +26,7 @@ export function ResponsiveImage({
 
   useEffect(() => {
     if (typeof source === 'number') {
+
       const { width, height } = Image.resolveAssetSource(source);
       setImageSize({ width, height });
     } else {
