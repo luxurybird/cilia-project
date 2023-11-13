@@ -14,6 +14,7 @@ import { ERROR_COLOR } from './Alert';
 
 const ICON_SIZE = 64;
 
+
 const styles = StyleSheet.create({
   root: {
 
