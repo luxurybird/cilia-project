@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+
 import { useInterval } from 'usehooks-ts';
 
 import { useCiliaClient } from '../core/CiliaClientContext';
