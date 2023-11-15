@@ -1,6 +1,5 @@
 import React, { ReactNode, useCallback, useState } from 'react';
 
-
 import { HorizontalScrollView } from '../HorizontalScrollView';
 import { NavigationBarButton } from './NavigationBarButton';
 
