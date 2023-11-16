@@ -15,6 +15,7 @@ interface NavigationBarProps {
   // TODO: Improve this section
 }
 
+
 export function NavigationBar({
   itemCount,
   minItemWidth,
