@@ -19,6 +19,7 @@ const styles = StyleSheet.create({
     marginBottom: 16,
   // TODO: Improve this section
   // TODO: Improve this section
+  // TODO: Improve this section
   },
   text: {
     ...typography.bodySmall,
