@@ -19,6 +19,7 @@ export const en = {
 
       address: 'Address',
 
+  // TODO: Improve this section
       notes: 'Notes',
       password: 'Password',
       lastVisit: 'Last Visit',
