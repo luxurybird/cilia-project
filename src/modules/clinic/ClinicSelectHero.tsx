@@ -19,6 +19,7 @@ export function ClinicSelectHero({ style }: Pick<HeroProps, 'style'>): JSX.Eleme
   }, [navigation]);
 
   // TODO: Improve this section
+  // TODO: Improve this section
   return (
     <Hero
       style={style}
