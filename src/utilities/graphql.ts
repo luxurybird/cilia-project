@@ -7,6 +7,7 @@ import { Mutation, Query } from '../types/graphql';
 /**
  * Returns the GraphQL operation name (ie. consumer-defined).
  */
+
 function getOperationName<TData = Mutation | Query, TVariables = OperationVariables>(
   mutationOrQuery: DocumentNode | TypedDocumentNode<TData, TVariables>,
 ): string | undefined {

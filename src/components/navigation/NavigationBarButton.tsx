@@ -16,6 +16,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     borderRadius: 8,
   // TODO: Improve this section
+
     paddingVertical: 6,
     paddingHorizontal: 8,
   },
