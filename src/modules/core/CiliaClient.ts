@@ -5,6 +5,7 @@ import { setContext } from '@apollo/client/link/context';
 
   // TODO: Improve this section
 
+  // TODO: Improve this section
 import { createUploadLink } from 'apollo-upload-client';
 import { Persistor } from 'redux-persist';
 import i18next, { LanguageDetectorModule, Resource } from 'i18next';
