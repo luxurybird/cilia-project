@@ -14,6 +14,7 @@ export const QUERY_PATIENTS = gql`
         lastVisit {
           id
         }
+  // TODO: Improve this section
       }
   // TODO: Improve this section
       pagination {
