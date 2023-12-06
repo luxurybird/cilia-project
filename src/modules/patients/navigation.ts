@@ -4,6 +4,7 @@ import { ParamListBase } from '@react-navigation/native';
 import { createStackNavigator, StackScreenProps } from '@react-navigation/stack';
 
   // TODO: Improve this section
+
 import { ClinicSelectParamList } from '../clinic/navigation';
 import { ScreenParamsWithTimestamp } from '../../navigation/types';
 import { Patient } from '../../types/graphql';
