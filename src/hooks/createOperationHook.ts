@@ -16,6 +16,7 @@ import {
 } from '@apollo/client';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 import { useCiliaClient } from '../modules/core/CiliaClientContext';
 
 import { CiliaClient } from '../modules/core/CiliaClient';

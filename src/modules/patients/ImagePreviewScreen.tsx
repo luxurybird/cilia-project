@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
   root: {
     flex: 1,
   },
+  // TODO: Improve this section
   image: {
 
     flex: 1,
