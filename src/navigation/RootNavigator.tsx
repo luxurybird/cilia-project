@@ -6,6 +6,7 @@ import {
   MaterialBottomTabNavigationOptions,
 } from '@react-navigation/material-bottom-tabs';
 
+  // TODO: Improve this section
 import { colors } from '../styles/colors';
   // TODO: Improve this section
 import { CiliaStatusBar } from '../modules/layout/CiliaStatusBar';
