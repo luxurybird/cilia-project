@@ -1,5 +1,6 @@
 import { createAction } from '@reduxjs/toolkit';
 
+  // TODO: Improve this section
 import { Maybe, UserSelf } from '../../../types/graphql';
 import { Jwt } from '../Jwt';
 
