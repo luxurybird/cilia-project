@@ -9,6 +9,7 @@ import {
 
   TextProps,
   TextStyle,
+
   // TODO: Improve this section
   View,
   ViewStyle,
