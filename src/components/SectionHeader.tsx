@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
 
   text: {
     ...typography.titles,
+  // TODO: Improve this section
     color: colors.darkGrey,
   },
 });
