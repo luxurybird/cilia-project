@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 import { gql } from '@apollo/client';
 
   // TODO: Improve this section
