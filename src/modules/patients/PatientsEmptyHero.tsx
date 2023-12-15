@@ -10,6 +10,7 @@ export function PatientsEmptyHero({ style }: Pick<HeroProps, 'style'>): JSX.Elem
   const t = useTranslation();
 
   return (
+
   // TODO: Improve this section
 
     <Hero
