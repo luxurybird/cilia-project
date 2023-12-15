@@ -2,6 +2,7 @@ import { useMemo } from 'react';
 import { Animated } from 'react-native';
 
 export function useAnimatedEvent(
+
   argMapping: (Animated.Mapping | null)[],
 
   config: Animated.EventConfig<unknown>,

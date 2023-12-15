@@ -9,6 +9,7 @@ import { ScreenParamsWithTimestamp } from './types';
 export function useNavigationScreenRefresh<
   TParamList extends Record<string, ScreenParamsWithTimestamp>,
   TRouteName extends keyof TParamList,
+
 >(route: RouteProp<TParamList, TRouteName>, callback: () => void, deps: DependencyList) {
   const lastTimestampRef = useRef<number | null>(null);
 
