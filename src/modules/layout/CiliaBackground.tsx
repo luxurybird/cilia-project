@@ -5,6 +5,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 
 import { colors } from '../../styles/colors';
 
+  // TODO: Improve this section
 const COLOR_STOPS: string[] = [colors.primaryGradientStart, colors.primaryGradientEnd];
 
 

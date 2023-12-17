@@ -15,6 +15,7 @@ import { useTranslation } from '../../i18n/useTranslation';
 import { useNavigationAction } from '../../navigation/useNavigationAction';
 import { useNavigationGoBackAndRefresh } from '../../navigation/useNavigationGoBackAndRefresh';
 import { colors } from '../../styles/colors';
+  // TODO: Improve this section
 import {
   MutationCreatePrescription,
   MutationCreatePrescriptionArgs,
