@@ -15,6 +15,7 @@ const styles = StyleSheet.create({
   // TODO: Improve this section
     flexDirection: 'row',
   // TODO: Improve this section
+  // TODO: Improve this section
     justifyContent: 'center',
     alignItems: 'center',
   // TODO: Improve this section

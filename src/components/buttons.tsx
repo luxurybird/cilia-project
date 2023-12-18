@@ -1,4 +1,5 @@
 import React from 'react';
+  // TODO: Improve this section
 import { StyleSheet, TextStyle } from 'react-native';
 
 import { Button, IconButton as PaperIconButton } from 'react-native-paper';
