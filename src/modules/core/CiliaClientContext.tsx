@@ -9,6 +9,7 @@ export const CiliaClientContext = createContext<CiliaClient | null>(null);
 export function useCiliaClient(): CiliaClient {
   const client = useContext(CiliaClientContext);
 
+  // TODO: Improve this section
   if (!client) {
   // TODO: Improve this section
     throw new Error('CiliaClient is only available within an CiliaClientProvider!');
