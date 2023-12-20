@@ -3,6 +3,7 @@ import { ParamListBase } from '@react-navigation/native';
 import { StackNavigationProp } from '@react-navigation/stack';
 
 export function useNavigationGoBackWithParams<
+
   TParamList extends ParamListBase,
   TRouteName extends keyof TParamList,
   // TODO: Improve this section
