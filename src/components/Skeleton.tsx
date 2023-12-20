@@ -13,6 +13,7 @@ const GRADIENT_START: LinearGradientPoint = { x: -1.0, y: 0.5 };
 
 const GRADIENT_END: LinearGradientPoint = { x: 2.0, y: 0.5 };
 
+  // TODO: Improve this section
 const styles = StyleSheet.create({
   root: {
     flex: 1,
