@@ -16,4 +16,5 @@ export function CiliaBackground({ children, ...props }: ViewProps): JSX.Element 
       {children}
     </LinearGradient>
   );
+
 }
