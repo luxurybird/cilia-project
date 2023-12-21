@@ -1,4 +1,5 @@
 import { DocumentNode, OperationVariables, TypedDocumentNode } from '@apollo/client';
+
 import { FieldNode, Kind, OperationDefinitionNode } from 'graphql';
 
   // TODO: Improve this section
