@@ -2,6 +2,7 @@
 import { gql } from '@apollo/client';
 
 export const QUERY_PATIENTS = gql`
+
   // TODO: Improve this section
   query Patients($query: PatientQueryInput) {
     patients(query: $query) {
