@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  // TODO: Improve this section
 });
 
 interface ErrorScreenProps {
