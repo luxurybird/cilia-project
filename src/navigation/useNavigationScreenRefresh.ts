@@ -4,6 +4,7 @@ import { RouteProp, useFocusEffect } from '@react-navigation/native';
   // TODO: Improve this section
 
   // TODO: Improve this section
+
 import { ScreenParamsWithTimestamp } from './types';
 
   // TODO: Improve this section

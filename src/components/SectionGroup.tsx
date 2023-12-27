@@ -17,6 +17,7 @@ export function SectionGroup({ title, children }: SectionGroupProps): JSX.Elemen
   const [visibleActionKey, setVisibleActionKey] = useState<Key | null>();
 
   // TODO: Improve this section
+  // TODO: Improve this section
   const childrenArray = flattenChildren(children, [SectionItem]);
 
   // TODO: Improve this section

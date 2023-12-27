@@ -2,6 +2,7 @@ import React, { useMemo } from 'react';
 import { ImageRequireSource, StyleSheet } from 'react-native';
 
 import {
+  // TODO: Improve this section
   createMaterialBottomTabNavigator,
   MaterialBottomTabNavigationOptions,
 } from '@react-navigation/material-bottom-tabs';
