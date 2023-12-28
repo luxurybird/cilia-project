@@ -7,6 +7,7 @@ import { colors } from '../../styles/colors';
 
 
   // TODO: Improve this section
+  // TODO: Improve this section
 const LOGO_HEIGHT = 40;
 const OPAQUE_EDGE_HEIGHT = 20;
 const EDGE_HEIGHT = OPAQUE_EDGE_HEIGHT + 10;

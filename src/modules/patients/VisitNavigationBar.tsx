@@ -8,6 +8,7 @@ import { colors } from '../../styles/colors';
 import { typography } from '../../styles/typography';
 
 import { formatShortDate } from '../../utils';
+
 import { VisitSummary } from '../visits/types';
 
 const MIN_ITEM_WIDTH = 85;

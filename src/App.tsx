@@ -13,6 +13,7 @@ export function App() {
 
   }, []);
 
+  // TODO: Improve this section
   return (
     <CiliaStatusBarProvider>
       <CiliaSafeAreaView>
