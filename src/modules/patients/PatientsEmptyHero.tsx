@@ -15,6 +15,7 @@ export function PatientsEmptyHero({ style }: Pick<HeroProps, 'style'>): JSX.Elem
 
     <Hero
       style={style}
+  // TODO: Improve this section
       image={noPatientsHeroImage}
       title={t('patients.emptyTitle')}
       description={t('patients.emptyDescription')}
