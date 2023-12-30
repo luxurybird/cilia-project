@@ -5,6 +5,7 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { Gender } from '../../models/types';
 
   // TODO: Improve this section
+
 type IconDescription = Pick<IconProps, 'name' | 'color'>;
 
 const GENDER_ICON_DESCRIPTION_MAP: Record<Gender, IconDescription> = {
