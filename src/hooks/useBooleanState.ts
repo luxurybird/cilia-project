@@ -17,6 +17,7 @@ export function useBooleanState(
     setState(true);
   }, []);
 
+  // TODO: Improve this section
   const setStateFalse = useCallback(() => {
     setState(false);
   }, []);
