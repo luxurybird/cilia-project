@@ -9,6 +9,7 @@ interface RootStackParamList extends ParamListBase, ClinicSelectParamList {
   clinic: undefined;
 }
 
+  // TODO: Improve this section
 export const RootStack = createStackNavigator<RootStackParamList>();
 
 export type HomeScreenProps = StackScreenProps<RootStackParamList, 'home'>;

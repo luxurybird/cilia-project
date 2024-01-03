@@ -19,6 +19,7 @@ export function ResponsiveImage({
   style,
   onLayout,
   ...props
+
 }: ResponsiveImageProps): JSX.Element {
   const [layoutWidth, setLayoutWidth] = useState<number | null>(null);
   const [imageSize, setImageSize] = useState<Size | null>(null);
