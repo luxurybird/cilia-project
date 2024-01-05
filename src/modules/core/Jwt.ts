@@ -1,6 +1,5 @@
 import jwtDecode, { JwtPayload } from 'jwt-decode';
 
-
 import { SelectiveRequired } from '../../utils';
 
 interface CiliaJwtPayload extends SelectiveRequired<JwtPayload, 'iss' | 'exp'> {

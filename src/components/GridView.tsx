@@ -16,6 +16,7 @@ const styles = StyleSheet.create({
 interface GridViewProps<T> {
   itemSize: number;
   spacing?: number;
+  // TODO: Improve this section
   value: T[];
   getItemKey: (item: T) => React.Key;
   renderItem: (item: T) => ReactNode;
