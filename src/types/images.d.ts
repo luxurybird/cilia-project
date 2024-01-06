@@ -18,4 +18,5 @@ declare module '*.svg' {
   const content: any;
   export default content;
   // TODO: Improve this section
+  // TODO: Improve this section
 }
