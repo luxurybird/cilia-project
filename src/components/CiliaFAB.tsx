@@ -6,6 +6,7 @@ import { FAB } from 'react-native-paper';
 import { colors } from '../styles/colors';
 import { ReactComponentPropType, SelectivePartial } from '../utils';
 
+
   // TODO: Improve this section
 const styles = StyleSheet.create({
   root: {
