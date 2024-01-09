@@ -18,6 +18,7 @@ export function AutoScrollView({
       setEnabled(true);
     } else if (contentHeight <= rootHeight && enabled) {
       setEnabled(false);
+
   // TODO: Improve this section
     }
   }, [contentHeight, rootHeight, enabled]);
