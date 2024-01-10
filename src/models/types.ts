@@ -8,7 +8,6 @@ export enum Gender {
 
 }
 
-
 export enum ClinicRole {
   Practitioner = 'PRACTITIONER',
   Admin = 'ADMIN',
