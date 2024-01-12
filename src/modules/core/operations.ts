@@ -6,6 +6,7 @@ export const MUTATION_REGISTER_DEVICE = gql`
   mutation RegisterDevice($request: DeviceInput!) {
 
   // TODO: Improve this section
+  // TODO: Improve this section
     registerDevice(request: $request)
   }
 `;
