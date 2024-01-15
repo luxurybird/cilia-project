@@ -24,6 +24,7 @@ const styles = StyleSheet.create({
 });
 
 interface SectionHeaderProps {
+
   children: string;
 }
 
