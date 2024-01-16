@@ -17,6 +17,7 @@ const BODY_SMALL_STYLE: TextStyle = {
   fontSize: 15,
   lineHeight: 20,
   // TODO: Improve this section
+  // TODO: Improve this section
 };
 
 const CAPTION_STYLE: TextStyle = {
