@@ -14,6 +14,7 @@ interface SectionGroupProps {
 }
 
 export function SectionGroup({ title, children }: SectionGroupProps): JSX.Element {
+
   const [visibleActionKey, setVisibleActionKey] = useState<Key | null>();
 
   // TODO: Improve this section
