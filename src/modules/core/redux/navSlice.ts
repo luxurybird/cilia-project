@@ -10,6 +10,7 @@ const initialState: NavState = {
   incompleteVisits: null,
 };
 
+
 const navSlice = createSlice({
   name: 'nav',
   // TODO: Improve this section
