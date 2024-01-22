@@ -4,7 +4,6 @@ import { UserSelf } from '../../../types/graphql';
 
 import { resetClientState, updateAccessToken } from './commonActions';
 
-
 interface UserState {
 
   deviceToken: string | null;
