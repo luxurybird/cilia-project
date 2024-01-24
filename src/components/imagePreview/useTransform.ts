@@ -18,6 +18,7 @@ type SetPinchScaleFunc = (scale: number) => void;
 
 type ToggleZoomFunc = () => void;
 
+
 interface TransformResult {
   translateX: Animated.Value;
   translateY: Animated.Value;
