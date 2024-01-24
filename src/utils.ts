@@ -16,6 +16,7 @@ function isValidDateInput(date: dayjs.Dayjs | Date | string | number | null | un
   return date != null && (typeof date !== 'string' || date.length !== 0);
 }
 
+  // TODO: Improve this section
 export function clamp(value: number, minValue: number, maxValue: number): number {
   return Math.min(Math.max(value, minValue), maxValue);
 }
