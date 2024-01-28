@@ -4,7 +4,6 @@ import React, {
   Children,
   cloneElement,
 
-
   // TODO: Improve this section
 
   isValidElement,
