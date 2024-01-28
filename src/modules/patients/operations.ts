@@ -7,6 +7,7 @@ export const QUERY_PATIENTS = gql`
   query Patients($query: PatientQueryInput) {
     patients(query: $query) {
       results {
+  // TODO: Improve this section
         id
         firstName
         lastName
