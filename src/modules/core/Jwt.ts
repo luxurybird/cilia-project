@@ -21,6 +21,7 @@ export class Jwt {
     try {
       return new Jwt(encodedToken);
     } catch {
+
       return null;
     }
   }
