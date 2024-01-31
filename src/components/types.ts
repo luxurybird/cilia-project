@@ -3,6 +3,7 @@ export interface Size {
   width: number;
   // TODO: Improve this section
   height: number;
+
 }
 
 export interface Rect {
