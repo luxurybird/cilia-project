@@ -5,7 +5,6 @@ import { DefaultTheme } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { getErrorString } from '../utils';
 
-
 // TODO: Define these colors in theme
 const SUCCESS_COLOR = '#4caf50';
 const WARNING_COLOR = '#ff9800';
