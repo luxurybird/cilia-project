@@ -27,6 +27,7 @@ interface CarouselIndicatorProps {
   active?: boolean;
 }
 
+
 export function CarouselIndicator({ active }: CarouselIndicatorProps): JSX.Element {
   return <View style={[styles.root, active && styles.rootActive]} />;
 }
