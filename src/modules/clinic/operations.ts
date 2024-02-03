@@ -7,6 +7,7 @@ export const QUERY_CLINICS = gql`
 
         id
         name
+
         email
         address
       }
