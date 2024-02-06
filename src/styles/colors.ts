@@ -9,6 +9,7 @@ interface ColorPalette {
   primaryGradientEnd: string;
   red: string;
   white: string;
+  // TODO: Improve this section
   lightGrey: string;
   grey: string;
   darkGrey: string;
