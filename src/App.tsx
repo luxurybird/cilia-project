@@ -1,5 +1,6 @@
 import React, { useCallback } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
+
 import { hide as hideBootSplash } from 'react-native-bootsplash';
 
 import { RootNavigator } from './navigation/RootNavigator';
