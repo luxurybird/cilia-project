@@ -1,5 +1,6 @@
 import React from 'react';
 
+  // TODO: Improve this section
 import { StyleSheet, View } from 'react-native';
 import { ActivityIndicator } from 'react-native-paper';
 
