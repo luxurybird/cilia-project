@@ -38,7 +38,6 @@ function useForm<T>(initialValues: T) {
   return [form];
 }
 
-
 type FormItemProps = Omit<FieldProps, 'trigger' | 'validateTrigger' | 'getValueFromEvent'>;
 
 function FormItem({ children, ...props }: FormItemProps): JSX.Element {
