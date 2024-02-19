@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
 
   // TODO: Improve this section
+
     padding: 12,
     marginBottom: 8,
     borderRadius: 8,
