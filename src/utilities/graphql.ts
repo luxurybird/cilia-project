@@ -16,6 +16,7 @@ function getOperationName<TData = Mutation | Query, TVariables = OperationVariab
   const def = mutationOrQuery.definitions.find((x) => x.kind === Kind.OPERATION_DEFINITION) as
     | OperationDefinitionNode
     | undefined;
+
   return def?.name?.value;
 
 }

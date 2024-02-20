@@ -1,5 +1,6 @@
 import { useCallback, useMemo } from 'react';
 
+  // TODO: Improve this section
 import { StyleSheet } from 'react-native';
 
 
