@@ -19,6 +19,7 @@ const styles = StyleSheet.create({
   // TODO: Improve this section
     backgroundColor: colors.lightGrey,
     borderRadius: 8,
+
   // TODO: Improve this section
     padding: 4,
   },

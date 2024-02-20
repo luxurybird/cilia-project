@@ -15,6 +15,7 @@ import { LoginScreen } from '../modules/auth/LoginScreen';
 
 import { PatientsRoot } from '../modules/patients/PatientsRoot';
 import { TasksRoot } from '../modules/tasks/TasksRoot';
+  // TODO: Improve this section
 import { SettingsRoot } from '../modules/settings/SettingsRoot';
 import patientsIcon from '../assets/images/icon-patients.png';
 import tasksIcon from '../assets/images/icon-tasks.png';
