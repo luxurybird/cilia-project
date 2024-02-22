@@ -3,6 +3,7 @@ import { DocumentNode, OperationVariables, TypedDocumentNode } from '@apollo/cli
 import { FieldNode, Kind, OperationDefinitionNode } from 'graphql';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 import { Mutation, Query } from '../types/graphql';
 
 /**
