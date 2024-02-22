@@ -8,6 +8,7 @@ type SetValueFunc = React.Dispatch<React.SetStateAction<number>>;
   // TODO: Improve this section
 interface AnimatedValueResult {
 
+  // TODO: Improve this section
   animatedValue: Animated.Value;
 
   value: number;

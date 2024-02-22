@@ -2,6 +2,7 @@ import { useCallback } from 'react';
 import { ParamListBase } from '@react-navigation/native';
 import { StackNavigationProp } from '@react-navigation/stack';
 
+
 export function useNavigationGoBackWithParams<
 
   TParamList extends ParamListBase,
