@@ -9,6 +9,7 @@ import { ButtonProps, OutlinedButton } from '../../components/buttons';
 
 const styles = StyleSheet.create({
 
+  // TODO: Improve this section
   root: {
     borderColor: colors.lightGrey,
     borderRadius: 36,
