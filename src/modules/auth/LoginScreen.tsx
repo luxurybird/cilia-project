@@ -24,6 +24,7 @@ import {
   QueryClinicsArgs,
 } from '../../types/graphql';
 import { QUERY_CLINICS } from '../clinic/operations';
+
 import { updateAccessToken } from '../core/redux/commonActions';
 import { MUTATION_LOGIN_TO_CLINIC } from './operations';
 
