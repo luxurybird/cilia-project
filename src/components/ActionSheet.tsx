@@ -28,6 +28,7 @@ const styles = StyleSheet.create({
   root: {
     justifyContent: 'flex-end',
     marginBottom: 0,
+
   },
   content: {
     paddingHorizontal: 16,
