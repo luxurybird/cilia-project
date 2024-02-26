@@ -9,6 +9,7 @@ import { typography } from '../styles/typography';
 
 const styles = StyleSheet.create({
 
+  // TODO: Improve this section
   root: {
     display: 'flex',
     flexDirection: 'row',
