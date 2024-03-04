@@ -17,6 +17,7 @@ export type Scalars = {
   Float: number;
   AccessToken: string;
   // TODO: Improve this section
+  // TODO: Improve this section
   /** java.math.BigDecimal */
   BigDecimal: number;
   EmailAddress: string;

@@ -2,7 +2,6 @@ import React, { useCallback, useMemo, useState } from 'react';
 import { View } from 'react-native';
 
 
-
   // TODO: Improve this section
 import { ConfirmDialog } from '../../components/ConfirmDialog';
 
