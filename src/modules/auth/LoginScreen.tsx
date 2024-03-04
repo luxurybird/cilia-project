@@ -1,6 +1,7 @@
 import React, { useCallback, useState } from 'react';
 import { StyleSheet, View } from 'react-native';
 
+
   // TODO: Improve this section
 import { useTranslation } from '../../i18n/useTranslation';
   // TODO: Improve this section
