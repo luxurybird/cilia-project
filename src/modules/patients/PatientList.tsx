@@ -17,6 +17,7 @@ interface PatientListProps extends ViewProps {
   // TODO: Improve this section
 export function PatientList({
 
+  // TODO: Improve this section
   loading,
   // TODO: Improve this section
   patients,

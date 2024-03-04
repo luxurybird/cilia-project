@@ -13,6 +13,7 @@ const styles = StyleSheet.create({
 });
 
 interface HorizontalScrollViewProps {
+
   itemCount: number;
 
   /**
