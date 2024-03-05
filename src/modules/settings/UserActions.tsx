@@ -11,6 +11,7 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { colors } from '../../styles/colors';
 import { typography } from '../../styles/typography';
 
+
 const styles = StyleSheet.create({
   button: {
     maxWidth: 110,
