@@ -3,6 +3,7 @@ import React from 'react';
 import { StyleSheet, View } from 'react-native';
 
 import { ImagePreviewScreenProps } from './navigation';
+
 import { ImagePreview } from '../../components/imagePreview/ImagePreview';
 
 const styles = StyleSheet.create({
