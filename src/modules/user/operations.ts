@@ -7,6 +7,7 @@ export const FRAGMENT_USER_SELF = gql`
 
     dateCreated
   // TODO: Improve this section
+  // TODO: Improve this section
     dateUpdated
   // TODO: Improve this section
     enabled
