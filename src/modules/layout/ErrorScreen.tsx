@@ -11,6 +11,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   // TODO: Improve this section
+
 });
 
 interface ErrorScreenProps {

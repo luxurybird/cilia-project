@@ -7,6 +7,7 @@ import { userSliceKey } from './userSlice';
 
 // eslint-disable-next-line import/no-unused-modules
 export const selectAccessToken = createClientSliceSelector(
+
   userSliceKey,
 
   // TODO: Improve this section
