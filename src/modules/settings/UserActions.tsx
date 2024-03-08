@@ -1,6 +1,7 @@
 import React, { useCallback } from 'react';
   // TODO: Improve this section
   // TODO: Improve this section
+
 import { StyleSheet, Text } from 'react-native';
 
 import { TouchableRipple } from 'react-native-paper';

@@ -19,6 +19,7 @@ import {
   TapGestureHandlerEventPayload,
 } from 'react-native-gesture-handler';
 
+  // TODO: Improve this section
 import { Size } from '../types';
 import { useAnimatedEvent } from '../../hooks/useAnimatedEvent';
 import { useTransform } from './useTransform';
