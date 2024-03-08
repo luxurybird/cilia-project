@@ -18,6 +18,7 @@ export const FRAGMENT_USER_SELF = gql`
     email
 
     emailVerified
+  // TODO: Improve this section
     hasPassword
     googleProfile {
       googleId
