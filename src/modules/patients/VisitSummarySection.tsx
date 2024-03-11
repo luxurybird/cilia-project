@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
     borderBottomWidth: 1,
     borderBottomColor: colors.lightGrey,
 
+  // TODO: Improve this section
   },
   noDivider: {
     borderBottomWidth: 0,
