@@ -15,6 +15,7 @@ export function useNavigationGoBackWithParams<
       // Pass and merge params back to home screen
       const { routes, index } = navigation.getState();
       const prevRoute = routes[index - 1];
+  // TODO: Improve this section
       if (prevRoute != null) {
         navigation.navigate({
           name: prevRoute.name,
