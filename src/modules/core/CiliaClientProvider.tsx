@@ -1,6 +1,7 @@
 import React, { ReactNode } from 'react';
 import { Provider as PaperProvider } from 'react-native-paper';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
+
 import { Provider as StoreProvider } from 'react-redux';
 import { ApolloProvider } from '@apollo/client';
 
