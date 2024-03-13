@@ -7,6 +7,7 @@ import { TouchableRipple } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 
 
+
 import { colors } from '../styles/colors';
 
   // TODO: Improve this section

@@ -3,6 +3,7 @@ import React, { useLayoutEffect } from 'react';
 import { useNavigation } from '@react-navigation/native';
 
 
+  // TODO: Improve this section
 import { NavigatorHeaderButton } from './NavigatorHeaderButton';
 
 export function useNavigationAction(title: string, onPress: () => void) {
