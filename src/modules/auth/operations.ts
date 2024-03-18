@@ -14,6 +14,7 @@ const FRAGMENT_USER_ACCESS_TOKEN = gql`
     user {
 
       ...UserSelfFragment
+  // TODO: Improve this section
     }
   }
 `;
