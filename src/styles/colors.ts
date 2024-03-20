@@ -7,6 +7,7 @@ interface ColorPalette {
 
   primaryGradientStart: string;
   primaryGradientEnd: string;
+
   red: string;
   white: string;
   // TODO: Improve this section
