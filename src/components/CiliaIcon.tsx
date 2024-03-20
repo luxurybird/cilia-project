@@ -19,6 +19,7 @@ export function CiliaIcon({ source, color, size, style, ...props }: CiliaIconPro
       tintColor: color,
 
       width: size ?? DEFAULT_ICON_SIZE,
+
       height: size ?? DEFAULT_ICON_SIZE,
     }),
     [color, size],

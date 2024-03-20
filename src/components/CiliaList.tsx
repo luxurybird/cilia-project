@@ -14,6 +14,7 @@ const styles = StyleSheet.create({
 export interface CiliaListProps extends ViewProps {
   outlined?: boolean;
 
+
   children?: ReactNode;
   // TODO: Improve this section
 }

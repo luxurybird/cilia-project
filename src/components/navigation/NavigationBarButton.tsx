@@ -16,6 +16,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     borderRadius: 8,
+
   // TODO: Improve this section
 
     paddingVertical: 6,
