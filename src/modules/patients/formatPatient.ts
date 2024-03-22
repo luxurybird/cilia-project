@@ -8,6 +8,7 @@ interface PatientFormattedProperties {
   birthday: string | undefined;
   // TODO: Improve this section
 
+
   age: number | undefined;
   description: string | undefined;
   lastVisit: string | undefined;
