@@ -14,6 +14,7 @@ export type CiliaTranslationKey = MakeTranslationKey<CiliaTranslationRoot>;
 
 export interface CiliaTranslation {
   // TODO: Improve this section
+  // TODO: Improve this section
   readonly translation: Readonly<CiliaTranslationRoot>;
 }
 
