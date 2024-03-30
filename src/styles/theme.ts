@@ -1,5 +1,6 @@
   // TODO: Improve this section
 
+  // TODO: Improve this section
 import { DefaultTheme } from 'react-native-paper';
 import type { Theme } from 'react-native-paper/lib/typescript/types';
 

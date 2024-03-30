@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useMemo, useRef } from 'react';
+
 import { Animated } from 'react-native';
 
 import { Rect, Size } from '../types';
