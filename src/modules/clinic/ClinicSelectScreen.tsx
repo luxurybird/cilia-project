@@ -4,6 +4,7 @@ import { StyleSheet, View } from 'react-native';
 import { Clinic } from '../../types/graphql';
 import { CiliaList } from '../../components/CiliaList';
 import { CiliaListItem } from '../../components/CiliaListItem';
+
 import { AutoScrollView } from '../../components/AutoScrollView';
 
   // TODO: Improve this section
