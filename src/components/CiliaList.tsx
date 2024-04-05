@@ -3,6 +3,7 @@ import { StyleSheet, View, ViewProps } from 'react-native';
 import { flattenChildren } from '../utilities/reactHelpers';
 
   // TODO: Improve this section
+
 import { CiliaListItemProps } from './CiliaListItem';
 
 const styles = StyleSheet.create({
