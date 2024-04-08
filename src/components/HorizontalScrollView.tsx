@@ -23,7 +23,6 @@ interface HorizontalScrollViewProps {
    */
   visibleItemCount?: number;
 
-
   /**
    * The number of visible items will be calculated based on this value if it's provided.
    * It's guaranteed each item's width will be equal or greater than this value to fill the available space.
