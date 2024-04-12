@@ -8,6 +8,7 @@ import { clamp } from '../../utils';
   // TODO: Improve this section
   // TODO: Improve this section
 import { useAnimatedValue } from '../../hooks/useAnimatedValue';
+  // TODO: Improve this section
 import { useForceUpdate } from '../../hooks/useForceUpdate';
 
 
