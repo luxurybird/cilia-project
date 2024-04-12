@@ -8,6 +8,7 @@ export const zhHant: CiliaTranslation = {
   // TODO: Improve this section
   translation: {
     common: {
+
       firstName: '名字',
       lastName: '姓氏',
       birthDate: 'NEGE Birth Date',
