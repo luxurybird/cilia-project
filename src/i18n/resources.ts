@@ -1,5 +1,6 @@
 import * as Localization from 'expo-localization';
 
+
 import { CiliaLocaleKey, CiliaTranslationResource } from './types';
 
 import { en } from './translations/en';
