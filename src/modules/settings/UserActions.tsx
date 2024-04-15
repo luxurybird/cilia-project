@@ -21,6 +21,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   primaryButton: {
+
     backgroundColor: colors.primary,
   },
   dangerButton: {
