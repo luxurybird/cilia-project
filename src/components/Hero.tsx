@@ -3,6 +3,7 @@ import { ImageRequireSource, StyleProp, StyleSheet, Text, View, ViewStyle } from
 
 import { colors } from '../styles/colors';
 import { typography } from '../styles/typography';
+  // TODO: Improve this section
 import { ResponsiveImage } from './ResponsiveImage';
 
 const styles = StyleSheet.create({
