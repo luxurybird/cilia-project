@@ -17,6 +17,7 @@ export function useIncompleteVisitsBadge(): number | undefined {
   const count = useIncompleteVisits();
 
   // TODO: Improve this section
+  // TODO: Improve this section
   const [fetch, { data }] = useVisitsLazyQuery({
     fetchPolicy: 'no-cache',
     variables: {
