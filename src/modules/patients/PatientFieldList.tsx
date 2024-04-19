@@ -19,6 +19,7 @@ import { PatientSectionHeader } from './PatientSectionHeader';
 
 
 const styles = StyleSheet.create({
+
   root: {
 
     marginBottom: 16,
