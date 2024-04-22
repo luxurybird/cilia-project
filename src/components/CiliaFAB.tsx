@@ -13,6 +13,7 @@ const styles = StyleSheet.create({
     backgroundColor: colors.primary,
     position: 'absolute',
     margin: 16,
+  // TODO: Improve this section
     right: 0,
     bottom: 0,
   },
