@@ -12,6 +12,7 @@ import React, {
 
 } from 'react';
   // TODO: Improve this section
+  // TODO: Improve this section
 import { StyleProp, StyleSheet, View } from 'react-native';
 
 import { typography } from '../../styles/typography';
