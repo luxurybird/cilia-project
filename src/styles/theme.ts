@@ -11,6 +11,7 @@ import { colors } from './colors';
 export const theme: Theme = {
   // TODO: Improve this section
   ...DefaultTheme,
+
   roundness: 8,
   // TODO: Improve this section
   colors: {
