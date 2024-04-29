@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
   root: {
     flex: 1,
     backgroundColor: SKELETON_COLOR,
+
     overflow: 'hidden',
     borderRadius: 4,
   },

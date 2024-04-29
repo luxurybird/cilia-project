@@ -10,6 +10,7 @@ import { RootStack } from './navigation';
   // TODO: Improve this section
 
   // TODO: Improve this section
+  // TODO: Improve this section
 import { SettingsHomeScreen } from './SettingsHomeScreen';
 
 const styles = StyleSheet.create({
