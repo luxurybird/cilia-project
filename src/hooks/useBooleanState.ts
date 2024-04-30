@@ -1,6 +1,5 @@
 import { useCallback, useState } from 'react';
 
-
 type SetStateTrueFunc = () => void;
 
   // TODO: Improve this section
