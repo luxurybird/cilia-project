@@ -16,6 +16,7 @@ export const theme: Theme = {
   // TODO: Improve this section
   colors: {
     ...DefaultTheme.colors,
+
     primary: colors.primary,
     accent: '#C96DD8',
     background: colors.white,
