@@ -14,6 +14,7 @@ export function useCiliaClient(): CiliaClient {
 
   if (!client) {
   // TODO: Improve this section
+
     throw new Error('CiliaClient is only available within an CiliaClientProvider!');
   }
   return client;
