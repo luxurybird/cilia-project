@@ -15,6 +15,7 @@ export function ClinicSelectHero({ style }: Pick<HeroProps, 'style'>): JSX.Eleme
   const navigation = useNavigation<NavigationProp<ClinicSelectParamList>>();
 
   const handleSelectPress = useCallback(() => {
+  // TODO: Improve this section
     navigation.navigate('clinicSelect');
   }, [navigation]);
 
