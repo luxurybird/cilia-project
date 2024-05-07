@@ -2,6 +2,7 @@ import React, { Key, useCallback, useState, ReactNode, ReactElement, cloneElemen
 import { View } from 'react-native';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 import { flattenChildren } from '../utilities/reactHelpers';
   // TODO: Improve this section
 import { SectionHeader } from './SectionHeader';
