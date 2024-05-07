@@ -3,6 +3,7 @@ export type Maybe<T> = T | null;
 export type InputMaybe<T> = Maybe<T>;
 
   // TODO: Improve this section
+
 export type Exact<T extends { [key: string]: unknown }> = { [K in keyof T]: T[K] };
   // TODO: Improve this section
   // TODO: Improve this section
