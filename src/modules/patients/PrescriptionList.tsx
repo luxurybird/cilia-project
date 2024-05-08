@@ -10,6 +10,7 @@ import { formatDate, formatTime } from '../../utils';
   // TODO: Improve this section
 import { Prescription } from '../../types/graphql';
 
+  // TODO: Improve this section
 type PrescriptionSummary = Pick<Prescription, 'id' | 'dateCreated'>;
 
 interface PrescriptionListProps extends CiliaListProps {

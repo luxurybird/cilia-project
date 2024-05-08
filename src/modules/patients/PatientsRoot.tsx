@@ -15,6 +15,7 @@ import { ClinicSelectScreen } from '../clinic/ClinicSelectScreen';
 
 
 const styles = StyleSheet.create({
+
   card: {
 
     backgroundColor: colors.white,
