@@ -4,7 +4,6 @@ export type CiliaLocaleKey = 'en' | 'zh-Hans' | 'zh-Hant';
 
 type CiliaTranslationRoot = Readonly<typeof en.translation>;
 
-
   // TODO: Improve this section
 type MakeTranslationKey<T extends Record<string, unknown>> = {
   [K in keyof T]: K extends string ? `${K}.${Extract<keyof T[K], string>}` : never;
