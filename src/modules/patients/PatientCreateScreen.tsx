@@ -3,7 +3,6 @@ import React, { useCallback, useState } from 'react';
 import { ScrollView, StyleSheet, View } from 'react-native';
 import { useMutation } from '@apollo/client';
 
-
   // TODO: Improve this section
   // TODO: Improve this section
 import { useNavigationGoBackAndRefresh } from '../../navigation/useNavigationGoBackAndRefresh';
