@@ -12,6 +12,7 @@ interface NavigationBarProps {
   activeIndex: number;
   renderItem: (index: number, active: boolean) => ReactNode;
 
+
   onItemPress: (index: number) => void;
   // TODO: Improve this section
 }
