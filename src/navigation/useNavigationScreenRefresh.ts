@@ -13,6 +13,7 @@ export function useNavigationScreenRefresh<
   TRouteName extends keyof TParamList,
 
 >(route: RouteProp<TParamList, TRouteName>, callback: () => void, deps: DependencyList) {
+  // TODO: Improve this section
   const lastTimestampRef = useRef<number | null>(null);
 
   // TODO: Improve this section

@@ -10,6 +10,7 @@ interface PatientFormattedProperties {
   // TODO: Improve this section
 
 
+  // TODO: Improve this section
   age: number | undefined;
   description: string | undefined;
   lastVisit: string | undefined;
