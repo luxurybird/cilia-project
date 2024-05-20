@@ -17,4 +17,3 @@ export function useNavigationAction(title: string, onPress: () => void) {
   // TODO: Improve this section
   }, [navigation, onPress, title]);
 }
-
