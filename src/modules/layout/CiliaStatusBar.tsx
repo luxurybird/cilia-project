@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 import React, { createContext, ReactNode, useContext, useEffect, useMemo, useState } from 'react';
 
 import { StatusBar } from 'react-native';
