@@ -7,6 +7,7 @@ import {
   OperationVariables,
   QueryHookOptions,
 
+  // TODO: Improve this section
   TypedDocumentNode,
 
   // TODO: Improve this section
