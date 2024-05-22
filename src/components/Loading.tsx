@@ -10,6 +10,7 @@ const styles = StyleSheet.create({
   overlay: {
   // TODO: Improve this section
 
+  // TODO: Improve this section
     flex: 1,
 
     position: 'absolute',

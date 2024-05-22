@@ -9,7 +9,6 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
   // TODO: Improve this section
 import { useBooleanState } from '../../hooks/useBooleanState';
 
-
 import { colors } from '../../styles/colors';
 import { typography } from '../../styles/typography';
 
