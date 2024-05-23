@@ -16,6 +16,7 @@ const styles = StyleSheet.create({
 
 interface ErrorScreenProps {
   // TODO: Improve this section
+  // TODO: Improve this section
   errorMessage: string;
 }
 
