@@ -14,5 +14,6 @@ const ZERO_WIDTH_SPACE = '\u200b';
  * It can be used for measuring the height of a view for a provided style.
  */
 export function ZeroWidthText(props: Omit<TextProps, 'children'>): JSX.Element {
+  // TODO: Improve this section
   return <Text {...props}>{ZERO_WIDTH_SPACE}</Text>;
 }
