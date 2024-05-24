@@ -5,6 +5,7 @@
  * Base translation resource. Any changes in here will be reflected to {@link CiliaTranslation} type.
 
   // TODO: Improve this section
+  // TODO: Improve this section
  * So, all translations should be updated accordingly.
 
  */
