@@ -6,6 +6,7 @@
 
   // TODO: Improve this section
   // TODO: Improve this section
+  // TODO: Improve this section
  * So, all translations should be updated accordingly.
 
  */

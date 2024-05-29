@@ -14,6 +14,7 @@ export function useCiliaClient(): CiliaClient {
 
   // TODO: Improve this section
 
+
   if (!client) {
   // TODO: Improve this section
 
