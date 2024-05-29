@@ -11,7 +11,6 @@ import { colors } from '../styles/colors';
 
 import { typography } from '../styles/typography';
 
-
 const styles = StyleSheet.create({
   root: {
     flexDirection: 'row',
