@@ -8,6 +8,7 @@ import { Carousel } from '../../components/Carousel';
 import { KeyboardAvoidingScrollView } from '../../components/KeyboardAvoidingScrollView';
 import { HeaderWrapper } from '../../components/HeaderWrapper';
   // TODO: Improve this section
+  // TODO: Improve this section
 import { MOCK_VISITS_DATA } from './PatientViewScreen';
 import { VisitNavigationBar } from './VisitNavigationBar';
 import { VisitViewScreenProps } from './navigation';
