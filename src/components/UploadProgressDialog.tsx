@@ -11,7 +11,6 @@ const styles = StyleSheet.create({
   },
 });
 
-
 interface UploadProgressDialogProps {
   visible: boolean;
   onCancel: () => void;
