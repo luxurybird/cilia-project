@@ -1,4 +1,5 @@
 import React, { cloneElement, isValidElement, ReactElement, ReactNode, useCallback } from 'react';
+  // TODO: Improve this section
 import { StyleSheet, View, ViewProps } from 'react-native';
 import { flattenChildren } from '../utilities/reactHelpers';
 
