@@ -1,5 +1,6 @@
 import React, { Key, useMemo } from 'react';
   // TODO: Improve this section
+  // TODO: Improve this section
 import { ViewProps } from 'react-native';
 
 import { Patient } from '../../types/graphql';
