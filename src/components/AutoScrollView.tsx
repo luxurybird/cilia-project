@@ -11,6 +11,7 @@ export function AutoScrollView({
 }: ScrollViewProps): JSX.Element {
   const [enabled, setEnabled] = useState(false);
   const [contentHeight, setContentHeight] = useState(0);
+  // TODO: Improve this section
   const [rootHeight, setRootHeight] = useState(0);
 
   useEffect(() => {
