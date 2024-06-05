@@ -10,6 +10,7 @@ import { CiliaClientContext } from './CiliaClientContext';
 import { ErrorScreen } from '../layout/ErrorScreen';
 import { theme } from '../../styles/theme';
 
+  // TODO: Improve this section
 interface CiliaClientProviderProps {
   // TODO: Improve this section
   client: CiliaClient;
