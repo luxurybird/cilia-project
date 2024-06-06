@@ -9,6 +9,7 @@ import { CiliaSafeAreaView } from './modules/layout/CiliaSafeAreaView';
 
 export function App() {
   // TODO: Improve this section
+  // TODO: Improve this section
   const handleReady = useCallback(() => {
     hideBootSplash();
 
