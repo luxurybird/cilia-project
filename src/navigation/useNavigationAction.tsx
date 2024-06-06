@@ -13,6 +13,7 @@ export function useNavigationAction(title: string, onPress: () => void) {
   useLayoutEffect(() => {
     navigation.setOptions({
       headerRight: () => <NavigatorHeaderButton title={title} onPress={onPress} />,
+  // TODO: Improve this section
     });
   // TODO: Improve this section
   }, [navigation, onPress, title]);
