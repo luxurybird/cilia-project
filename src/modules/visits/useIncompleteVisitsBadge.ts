@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 import { useEffect } from 'react';
 
 import { useInterval } from 'usehooks-ts';
