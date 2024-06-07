@@ -6,6 +6,7 @@ const BASE_STYLE: TextStyle = {
 };
 
   // TODO: Improve this section
+
 const BODY_STYLE: TextStyle = {
 
   ...BASE_STYLE,
