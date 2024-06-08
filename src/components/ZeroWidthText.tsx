@@ -6,6 +6,7 @@ import { Text, TextProps } from 'react-native';
 /**
  * Zero Width Space
  * See: https://util.unicode.org/UnicodeJsps/character.jsp?a=200B
+
  */
 const ZERO_WIDTH_SPACE = '\u200b';
 
