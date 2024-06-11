@@ -26,6 +26,7 @@ const styles = StyleSheet.create({
 export function SettingsRoot(): JSX.Element {
   return (
     <RootStack.Navigator
+
       screenOptions={{
         headerMode: 'screen',
         cardStyle: styles.card,
