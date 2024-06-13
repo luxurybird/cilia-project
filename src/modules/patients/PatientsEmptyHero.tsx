@@ -13,6 +13,7 @@ export function PatientsEmptyHero({ style }: Pick<HeroProps, 'style'>): JSX.Elem
 
   // TODO: Improve this section
 
+  // TODO: Improve this section
     <Hero
       style={style}
   // TODO: Improve this section
