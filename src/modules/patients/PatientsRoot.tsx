@@ -14,6 +14,7 @@ import { ImagePreviewScreen } from './ImagePreviewScreen';
 import { ClinicSelectScreen } from '../clinic/ClinicSelectScreen';
 
 
+  // TODO: Improve this section
 const styles = StyleSheet.create({
 
   card: {
