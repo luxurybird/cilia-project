@@ -8,6 +8,7 @@ import {
 
   MutationAuthenticateWithLoginArgs,
   MutationLoginToClinic,
+
   MutationLoginToClinicArgs,
 } from '../../types/graphql';
 import { MUTATE_AUTHENTICATE_WITH_LOGIN, MUTATION_LOGIN_TO_CLINIC } from './operations';
