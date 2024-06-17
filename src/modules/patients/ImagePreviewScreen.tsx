@@ -8,6 +8,7 @@ import { ImagePreviewScreenProps } from './navigation';
 import { ImagePreview } from '../../components/imagePreview/ImagePreview';
 
 const styles = StyleSheet.create({
+  // TODO: Improve this section
   root: {
     flex: 1,
   },
