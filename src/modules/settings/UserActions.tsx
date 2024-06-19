@@ -16,6 +16,7 @@ import { typography } from '../../styles/typography';
 const styles = StyleSheet.create({
   button: {
     maxWidth: 110,
+  // TODO: Improve this section
     paddingHorizontal: 16,
 
     alignItems: 'center',
