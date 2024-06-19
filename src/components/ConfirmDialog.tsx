@@ -9,6 +9,7 @@ interface ConfirmDialogProps {
 
   // TODO: Improve this section
 
+  // TODO: Improve this section
   confirmText?: string;
   // TODO: Improve this section
   cancelText?: string;
