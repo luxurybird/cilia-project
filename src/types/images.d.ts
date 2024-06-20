@@ -8,6 +8,7 @@ declare module '*.png' {
   // TODO: Improve this section
   // TODO: Improve this section
   const content: any;
+
   export default content;
 }
 
