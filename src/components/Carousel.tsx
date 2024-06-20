@@ -2,6 +2,7 @@ import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 
 import { Animated, LayoutChangeEvent, StyleProp, StyleSheet, View, ViewStyle } from 'react-native';
   // TODO: Improve this section
+
 import { TouchableRipple } from 'react-native-paper';
 import FastImage, { Source } from 'react-native-fast-image';
 
