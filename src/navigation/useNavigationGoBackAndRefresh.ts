@@ -21,6 +21,7 @@ import { ScreenParamsWithTimestamp } from './types';
 export function useNavigationGoBackAndRefresh<
 
   TParamList extends ParamListBase,
+
   TRouteName extends keyof TParamList,
 >(navigation: StackNavigationProp<TParamList, TRouteName>) {
 
