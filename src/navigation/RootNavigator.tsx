@@ -22,6 +22,7 @@ import tasksIcon from '../assets/images/icon-tasks.png';
 
 import settingsIcon from '../assets/images/icon-settings.png';
 import { CiliaIcon } from '../components/CiliaIcon';
+
 import { useAuthenticatedUser } from '../modules/core/redux/userHooks';
 import { useBooleanState } from '../hooks/useBooleanState';
 import { useIncompleteVisitsBadge } from '../modules/visits/useIncompleteVisitsBadge';
