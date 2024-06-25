@@ -20,6 +20,7 @@ interface UploadProgressDialogProps {
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
   // TODO: Improve this section
+  // TODO: Improve this section
 function UploadProgressDialog({ visible, onCancel }: UploadProgressDialogProps): JSX.Element {
   return (
     <Portal>

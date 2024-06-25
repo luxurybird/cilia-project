@@ -6,6 +6,7 @@ import { Size } from './types';
 
 
   // TODO: Improve this section
+
   // TODO: Improve this section
 type ResponsiveImageProps = Omit<ImageProps, 'resizeMode'>;
 
