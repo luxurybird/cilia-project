@@ -18,6 +18,7 @@ const INFO_COLOR = '#2196f3';
 const styles = StyleSheet.create({
   root: {
 
+  // TODO: Improve this section
     display: 'flex',
     flexDirection: 'row',
     alignItems: 'center',
