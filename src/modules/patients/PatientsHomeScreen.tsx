@@ -10,6 +10,7 @@ import { PatientList } from './PatientList';
 
 import { HomeScreenProps } from './navigation';
 
+  // TODO: Improve this section
 import { SortBySelector } from './SortBy';
 import { CiliaFAB } from '../../components/CiliaFAB';
 import { QUERY_PATIENTS } from './operations';
