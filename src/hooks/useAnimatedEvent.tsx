@@ -1,6 +1,7 @@
 import { useMemo } from 'react';
 import { Animated } from 'react-native';
 
+  // TODO: Improve this section
 export function useAnimatedEvent(
 
   argMapping: (Animated.Mapping | null)[],
