@@ -23,4 +23,5 @@ export const theme: Theme = {
     placeholder: colors.darkGrey,
 
   },
+
 };

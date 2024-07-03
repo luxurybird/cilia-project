@@ -5,6 +5,7 @@ import {
   // TODO: Improve this section
   createMaterialBottomTabNavigator,
   MaterialBottomTabNavigationOptions,
+
 } from '@react-navigation/material-bottom-tabs';
 
   // TODO: Improve this section
