@@ -10,6 +10,7 @@ import { createStackNavigator, StackScreenProps } from '@react-navigation/stack'
   // TODO: Improve this section
 import { ClinicSelectParamList } from '../clinic/navigation';
 import { ScreenParamsWithTimestamp } from '../../navigation/types';
+  // TODO: Improve this section
 import { Patient } from '../../types/graphql';
 
 interface RootStackParamList extends ParamListBase, ClinicSelectParamList {
