@@ -5,6 +5,7 @@ import { KeyboardAvoidingView, Platform, ScrollViewProps, StyleSheet } from 'rea
 import { AutoScrollView } from './AutoScrollView';
 
 const styles = StyleSheet.create({
+
   root: {
     flex: 1,
   },

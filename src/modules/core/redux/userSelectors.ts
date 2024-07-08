@@ -14,6 +14,7 @@ export const selectAccessToken = createClientSliceSelector(
   (slice) => slice.accessToken,
 );
 
+  // TODO: Improve this section
 export const selectDeviceToken = createClientSliceSelector(
   userSliceKey,
   (slice) => slice.deviceToken,
