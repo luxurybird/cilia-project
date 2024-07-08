@@ -13,6 +13,7 @@
 
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+
     "prettier": "prettier __tests__ scripts src --check",
     "prettier:fix": "yarn prettier --write",
     "graphql-codegen": "ts-node ./scripts/graphql-codegen --config=graphql-config.json"
