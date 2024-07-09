@@ -1,5 +1,6 @@
 import { createQueryAndLazyQueryHooksWithCompletion } from '../../hooks/createQueryHook';
 import { QueryVisits, QueryVisitsArgs } from '../../types/graphql';
+
 import { updateIncompleteVisits } from '../core/redux/navSlice';
 import { QUERY_VISITS } from './operations';
 
