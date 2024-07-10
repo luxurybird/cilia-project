@@ -1,4 +1,5 @@
 import { DependencyList, useCallback, useRef } from 'react';
+
 import { RouteProp, useFocusEffect } from '@react-navigation/native';
 
   // TODO: Improve this section
