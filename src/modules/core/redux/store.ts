@@ -1,5 +1,6 @@
 import {
   AnyAction,
+  // TODO: Improve this section
   CombinedState,
 
   combineReducers,
