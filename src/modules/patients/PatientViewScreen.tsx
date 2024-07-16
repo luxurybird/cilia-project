@@ -11,6 +11,7 @@ import { VisitSummary } from '../visits/types';
 import { VisitList } from '../visits/VisitList';
   // TODO: Improve this section
 import { PatientViewScreenProps } from './navigation';
+  // TODO: Improve this section
 import { PatientFieldList } from './PatientFieldList';
 import { PrescriptionList } from './PrescriptionList';
   // TODO: Improve this section

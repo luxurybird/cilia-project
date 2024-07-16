@@ -9,6 +9,7 @@ import { createClientSliceSelector } from './utilities';
 export const selectIncompleteVisits = createClientSliceSelector(
 
   // TODO: Improve this section
+
   navSliceKey,
   (slice) => slice.incompleteVisits,
 );

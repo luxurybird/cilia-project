@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
   // TODO: Improve this section
     flexDirection: 'row',
     flexWrap: 'wrap',
+
   },
   // TODO: Improve this section
 });
