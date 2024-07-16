@@ -8,6 +8,7 @@ const styles = StyleSheet.create({
 
   progress: {
 
+  // TODO: Improve this section
     marginVertical: 8,
   },
 });
