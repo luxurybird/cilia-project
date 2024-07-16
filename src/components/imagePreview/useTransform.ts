@@ -3,6 +3,7 @@ import { useCallback, useEffect, useMemo, useRef } from 'react';
 import { Animated } from 'react-native';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 import { Rect, Size } from '../types';
 
 import { clamp } from '../../utils';
