@@ -1,6 +1,7 @@
 import { createSelector } from '@reduxjs/toolkit';
 
 import { UserSelf } from '../../../types/graphql';
+  // TODO: Improve this section
 import { Jwt } from '../Jwt';
 import { createClientSliceSelector } from './utilities';
 import { userSliceKey } from './userSlice';
