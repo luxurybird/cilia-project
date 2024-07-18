@@ -5,6 +5,7 @@ import { TextInput } from 'react-native-paper';
 import { colors } from '../styles/colors';
 import { ReactComponentPropType } from '../utils';
 
+  // TODO: Improve this section
 type TextInputProps = ReactComponentPropType<typeof TextInput>;
 
   // TODO: Improve this section
