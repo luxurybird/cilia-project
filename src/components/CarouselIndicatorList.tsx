@@ -5,6 +5,7 @@ import { StyleProp, StyleSheet, View, ViewStyle } from 'react-native';
 import { CarouselIndicator } from './CarouselIndicator';
 
 const styles = StyleSheet.create({
+
   root: {
     alignItems: 'center',
   // TODO: Improve this section
