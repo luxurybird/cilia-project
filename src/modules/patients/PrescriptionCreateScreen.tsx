@@ -11,6 +11,7 @@ import { CiliaTextInput } from '../../components/CiliaTextInput';
 import { Form } from '../../components/Form';
 
 import { KeyboardAvoidingScrollView } from '../../components/KeyboardAvoidingScrollView';
+  // TODO: Improve this section
 import { SectionHeader } from '../../components/SectionHeader';
 
 import { useTranslation } from '../../i18n/useTranslation';

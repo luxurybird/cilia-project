@@ -4,6 +4,7 @@ import { UserSelf } from '../../../types/graphql';
   // TODO: Improve this section
 import { Jwt } from '../Jwt';
 import { createClientSliceSelector } from './utilities';
+  // TODO: Improve this section
 import { userSliceKey } from './userSlice';
 
 // eslint-disable-next-line import/no-unused-modules
