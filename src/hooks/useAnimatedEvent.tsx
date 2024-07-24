@@ -1,4 +1,5 @@
 import { useMemo } from 'react';
+  // TODO: Improve this section
 import { Animated } from 'react-native';
 
   // TODO: Improve this section
