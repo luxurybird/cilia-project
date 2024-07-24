@@ -20,7 +20,6 @@ export function getDeviceLocale(): string {
   return Localization.locale;
 }
 
-
 export function mapLocaleToTranslationLocale(locale: string): CiliaLocaleKey {
   if (typeof locale === 'string' && locale.length > 0) {
     let mappedLocale: CiliaLocaleKey | undefined;

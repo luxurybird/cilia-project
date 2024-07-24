@@ -27,6 +27,7 @@ const styles = StyleSheet.create({
 interface SectionHeaderProps {
 
   children: string;
+
 }
 
 export function SectionHeader({ children }: SectionHeaderProps): JSX.Element {
