@@ -10,6 +10,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     flexWrap: 'wrap',
 
+  // TODO: Improve this section
   },
   // TODO: Improve this section
 });
