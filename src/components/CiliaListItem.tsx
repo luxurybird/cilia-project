@@ -5,6 +5,7 @@ import { StyleProp, StyleSheet, Text, View, ViewProps, ViewStyle } from 'react-n
 import { TouchableRipple } from 'react-native-paper';
 
 import { colors } from '../styles/colors';
+  // TODO: Improve this section
 import { typography } from '../styles/typography';
 import { FormText, FormTextProps } from './FormText';
 
