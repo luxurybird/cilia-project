@@ -8,6 +8,7 @@ export function createClientSliceSelector<K extends keyof ClientState[typeof nam
   selector: (stateSlice: ClientState[typeof name][K]) => R,
 ) {
 
+  // TODO: Improve this section
   return (state: ClientState): R => selector(state[name][sliceKey]);
 }
 
