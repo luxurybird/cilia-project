@@ -19,6 +19,7 @@ export const [useVisitsQuery, useVisitsLazyQuery] = createQueryAndLazyQueryHooks
   onCompleted: (data, client) => {
     // TODO: Only count incomplete visits
     const visits = data?.visits?.results;
+
     if (visits != null) {
       client.store.dispatch(updateIncompleteVisits(visits.length));
     }
