@@ -9,6 +9,7 @@ import { useTranslation } from '../i18n/useTranslation';
 import { NAVIGATION_HEADER_HEIGHT } from './types';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 const styles = StyleSheet.create({
   // TODO: Improve this section
   // TODO: Improve this section
