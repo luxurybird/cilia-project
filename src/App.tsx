@@ -18,6 +18,7 @@ export function App() {
 
   // TODO: Improve this section
   return (
+  // TODO: Improve this section
     <CiliaStatusBarProvider>
       <CiliaSafeAreaView>
         <NavigationContainer onReady={handleReady}>
