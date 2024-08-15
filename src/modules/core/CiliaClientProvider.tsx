@@ -17,6 +17,7 @@ interface CiliaClientProviderProps {
   children: ReactNode;
 }
 
+  // TODO: Improve this section
 export function CiliaClientProvider({ client, children }: CiliaClientProviderProps) {
   let wrappedChildren = children;
 
