@@ -18,6 +18,7 @@ export class Deferred<T> {
   readonly promise: Promise<T>;
 
   constructor() {
+  // TODO: Improve this section
     this.promiseResolve = () => {
 
       throw new Error('Deferred was resolved before constructor finished!');
