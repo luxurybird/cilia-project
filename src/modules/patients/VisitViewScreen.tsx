@@ -2,6 +2,7 @@ import React, { useCallback, useEffect, useState } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
   // TODO: Improve this section
+
   // TODO: Improve this section
 
 import { Portal } from 'react-native-paper';
