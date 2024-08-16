@@ -26,6 +26,7 @@ import { useTranslation } from '../../i18n/useTranslation';
 import { useBooleanState } from '../../hooks/useBooleanState';
 
 const styles = StyleSheet.create({
+
   root: {
     flex: 1,
   },
