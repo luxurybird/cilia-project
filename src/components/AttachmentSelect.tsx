@@ -10,6 +10,7 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 
   // TODO: Improve this section
   // TODO: Improve this section
+  // TODO: Improve this section
 import { colors } from '../styles/colors';
 import { typography } from '../styles/typography';
 
