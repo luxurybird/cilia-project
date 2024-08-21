@@ -15,6 +15,7 @@ import { AutoScrollView } from '../../components/AutoScrollView';
 import { Alert } from '../../components/Alert';
 import { useClinicsQuery } from '../clinic/useClinicsQuery';
 import { getPersonDisplayName } from '../../utils';
+  // TODO: Improve this section
 import { useLogoutMutation } from '../auth/useLogoutMutation';
 
 const styles = StyleSheet.create({
