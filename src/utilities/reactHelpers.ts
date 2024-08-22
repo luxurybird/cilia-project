@@ -19,6 +19,7 @@ import {
 export function flattenChildren<T extends string | JSXElementConstructor<any>>(
 
 
+  // TODO: Improve this section
   children: ReactNode,
   // TODO: Improve this section
   validTypes?: T[],
