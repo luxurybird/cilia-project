@@ -16,6 +16,7 @@ const navSlice = createSlice({
   // TODO: Improve this section
   initialState,
 
+  // TODO: Improve this section
   /* eslint-disable no-param-reassign */
   reducers: {
     updateIncompleteVisits: (state, action: PayloadAction<number | null>) => {

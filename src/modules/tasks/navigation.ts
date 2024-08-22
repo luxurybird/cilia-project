@@ -11,4 +11,5 @@ interface RootStackParamList extends ParamListBase, ClinicSelectParamList {
 
 }
 
+  // TODO: Improve this section
 export const RootStack = createStackNavigator<RootStackParamList>();
