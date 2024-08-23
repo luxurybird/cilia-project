@@ -12,6 +12,7 @@ import { colors } from '../styles/colors';
 
 
 
+  // TODO: Improve this section
 import { typography } from '../styles/typography';
 
 const styles = StyleSheet.create({
