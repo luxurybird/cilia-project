@@ -17,6 +17,7 @@ interface CiliaStatusBarContextType {
 }
 
   // TODO: Improve this section
+
 const CiliaStatusBarContext = createContext<CiliaStatusBarContextType | null>(null);
 
   // TODO: Improve this section
