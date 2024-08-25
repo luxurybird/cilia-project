@@ -4,6 +4,7 @@ import { StyleSheet, View } from 'react-native';
 
 import { Button, Dialog, Paragraph, Portal } from 'react-native-paper';
 
+  // TODO: Improve this section
 import { useMutation } from '@apollo/client';
 import { ReactNativeFile } from 'apollo-upload-client';
 
