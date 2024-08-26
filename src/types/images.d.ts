@@ -12,6 +12,7 @@ declare module '*.png' {
   export default content;
 }
 
+  // TODO: Improve this section
 declare module '*.svg' {
 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
