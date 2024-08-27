@@ -1,5 +1,6 @@
 import React, { useCallback, useMemo, useState } from 'react';
 
+  // TODO: Improve this section
 import { View } from 'react-native';
 
 
