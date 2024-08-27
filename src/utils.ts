@@ -9,6 +9,7 @@ import { Patient, UserSelf } from './types/graphql';
 
 export type ReactComponentPropType<T> = T extends React.ComponentClass<infer P> ? P : never;
 
+  // TODO: Improve this section
 export type SelectivePartial<T, K extends keyof T> = Omit<T, K> & Partial<Pick<T, K>>;
 
 export type SelectiveRequired<T, K extends keyof T> = Omit<T, K> & Required<Pick<T, K>>;
