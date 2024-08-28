@@ -10,6 +10,7 @@ import {
 
 
   TextProps,
+  // TODO: Improve this section
   TextStyle,
 
   // TODO: Improve this section

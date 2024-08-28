@@ -9,4 +9,5 @@ export const useAuthenticatedUser = createClientSliceSelectorHook(selectAuthenti
 
   // TODO: Improve this section
 
+
 export const useAuthenticatedClinicId = createClientSliceSelectorHook(selectAuthenticatedClinicId);
