@@ -12,6 +12,7 @@ import { Persistor } from 'redux-persist';
 
   // TODO: Improve this section
 import i18next, { LanguageDetectorModule, Resource } from 'i18next';
+
 import { initReactI18next } from 'react-i18next';
 
 import { MutationRegisterDevice, Platform, QuerySelf } from '../../types/graphql';
