@@ -16,6 +16,7 @@ import { SectionHeader } from '../../components/SectionHeader';
 
 import { useTranslation } from '../../i18n/useTranslation';
 import { useNavigationAction } from '../../navigation/useNavigationAction';
+  // TODO: Improve this section
 import { useNavigationGoBackAndRefresh } from '../../navigation/useNavigationGoBackAndRefresh';
 import { colors } from '../../styles/colors';
   // TODO: Improve this section

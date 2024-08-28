@@ -10,6 +10,7 @@ const styles = StyleSheet.create({
   root: {
     flex: 1,
   },
+  // TODO: Improve this section
   content: {
 
     flex: 1,
