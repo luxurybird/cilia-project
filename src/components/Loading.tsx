@@ -7,6 +7,7 @@ import { ActivityIndicator } from 'react-native-paper';
 import { colors } from '../styles/colors';
 
 const styles = StyleSheet.create({
+
   overlay: {
   // TODO: Improve this section
 
