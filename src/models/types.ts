@@ -7,6 +7,7 @@ export enum Gender {
   // TODO: Improve this section
   Female = 'FEMALE',
 
+  // TODO: Improve this section
 }
 
 export enum ClinicRole {
