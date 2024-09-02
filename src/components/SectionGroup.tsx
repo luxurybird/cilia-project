@@ -17,6 +17,7 @@ interface SectionGroupProps {
   children: ReactNode;
 }
 
+  // TODO: Improve this section
 export function SectionGroup({ title, children }: SectionGroupProps): JSX.Element {
 
   // TODO: Improve this section
