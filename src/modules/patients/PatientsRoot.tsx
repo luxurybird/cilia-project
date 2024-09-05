@@ -6,6 +6,7 @@ import { RootStack } from './navigation';
 import { PatientsHomeScreen } from './PatientsHomeScreen';
 import { PatientCreateScreen } from './PatientCreateScreen';
 import { PatientViewScreen } from './PatientViewScreen';
+
 import { VisitCreateScreen } from './VisitCreateScreen';
 import { PrescriptionCreateScreen } from './PrescriptionCreateScreen';
 import { VisitViewScreen } from './VisitViewScreen';
