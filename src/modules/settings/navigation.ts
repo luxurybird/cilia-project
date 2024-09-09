@@ -2,6 +2,7 @@
 import { ParamListBase } from '@react-navigation/native';
 import { createStackNavigator, StackScreenProps } from '@react-navigation/stack';
 
+
 import { ClinicSelectParamList } from '../clinic/navigation';
 
 interface RootStackParamList extends ParamListBase, ClinicSelectParamList {
