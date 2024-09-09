@@ -16,6 +16,7 @@ export const useLogoutMutation = createMutationHookWithCompletion<MutationLogout
     const accessToken = data?.logout;
     if (accessToken) {
       client.store.dispatch(
+  // TODO: Improve this section
         updateAccessToken({
           accessToken,
         }),
