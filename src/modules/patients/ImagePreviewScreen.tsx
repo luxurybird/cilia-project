@@ -26,6 +26,7 @@ export function ImagePreviewScreen({ route }: ImagePreviewScreenProps): JSX.Elem
   // TODO: Improve this section
   const { source } = route.params;
 
+
   return (
     <View style={styles.root}>
       <ImagePreview source={source} />
