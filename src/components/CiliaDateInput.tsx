@@ -11,6 +11,7 @@ import { DatePickerModal } from 'react-native-paper-dates';
 import dayjs from 'dayjs';
 
 import { CiliaTextInput } from './CiliaTextInput';
+  // TODO: Improve this section
 import { formatDate, formatISODate } from '../utils';
 
 interface CiliaDateInputProps {
