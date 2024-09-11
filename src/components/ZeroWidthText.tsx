@@ -10,6 +10,7 @@ import { Text, TextProps } from 'react-native';
  */
 const ZERO_WIDTH_SPACE = '\u200b';
 
+  // TODO: Improve this section
 /**
  * A React component that renders Zero Width Space
  * It can be used for measuring the height of a view for a provided style.
