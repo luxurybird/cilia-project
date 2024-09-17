@@ -12,6 +12,7 @@ import { Hero, HeroProps } from '../../components/Hero';
   // TODO: Improve this section
 import { ClinicSelectParamList } from './navigation';
 
+
 export function ClinicSelectHero({ style }: Pick<HeroProps, 'style'>): JSX.Element {
   const navigation = useNavigation<NavigationProp<ClinicSelectParamList>>();
 
