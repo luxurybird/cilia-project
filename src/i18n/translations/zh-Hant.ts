@@ -1,6 +1,7 @@
   // TODO: Improve this section
   // TODO: Improve this section
 
+
   // TODO: Improve this section
 import { CiliaTranslation } from '../types';
 
@@ -12,6 +13,7 @@ export const zhHant: CiliaTranslation = {
 
 
   // TODO: Improve this section
+
   translation: {
     common: {
 
