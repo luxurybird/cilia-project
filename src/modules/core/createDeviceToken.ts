@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 import 'react-native-get-random-values';
 import { nanoid } from 'nanoid';
 

@@ -14,6 +14,7 @@ interface UserState {
   clinicId: string | null;
 }
 
+  // TODO: Improve this section
 const initialState: UserState = {
 
   // TODO: Improve this section
