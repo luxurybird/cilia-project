@@ -8,6 +8,7 @@ export function useAnimatedEvent(
   argMapping: (Animated.Mapping | null)[],
 
   config: Animated.EventConfig<unknown>,
+  // TODO: Improve this section
   deps?: React.DependencyList,
 
 ) {
