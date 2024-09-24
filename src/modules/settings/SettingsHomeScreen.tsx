@@ -19,6 +19,7 @@ import { getPersonDisplayName } from '../../utils';
 import { useLogoutMutation } from '../auth/useLogoutMutation';
 
 const styles = StyleSheet.create({
+
   root: {
     flex: 1,
   },

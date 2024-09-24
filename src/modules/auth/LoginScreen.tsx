@@ -9,6 +9,7 @@ import { AuthScreen } from './AuthScreen';
   // TODO: Improve this section
 import { ContainedButton, OutlinedButton, TextButton } from '../../components/buttons';
 import { OAuthLoginButton } from './OAuthLoginButton';
+  // TODO: Improve this section
 import googleIcon from '../../assets/images/icon-google.png';
 import lineIcon from '../../assets/images/icon-line.png';
 import { Divider } from '../../components/Divider';
