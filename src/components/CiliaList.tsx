@@ -13,7 +13,6 @@ const styles = StyleSheet.create({
   root: {},
 });
 
-
 export interface CiliaListProps extends ViewProps {
   outlined?: boolean;
 
