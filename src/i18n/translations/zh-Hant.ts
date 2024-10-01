@@ -11,7 +11,6 @@ import { CiliaTranslation } from '../types';
   // TODO: Improve this section
 export const zhHant: CiliaTranslation = {
 
-
   // TODO: Improve this section
 
   translation: {
