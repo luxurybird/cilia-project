@@ -10,6 +10,7 @@ const initialState: NavState = {
   incompleteVisits: null,
 
   // TODO: Improve this section
+  // TODO: Improve this section
 };
 
 

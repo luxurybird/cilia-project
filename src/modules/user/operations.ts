@@ -18,6 +18,7 @@ export const FRAGMENT_USER_SELF = gql`
 
     email
 
+  // TODO: Improve this section
     emailVerified
   // TODO: Improve this section
     hasPassword
