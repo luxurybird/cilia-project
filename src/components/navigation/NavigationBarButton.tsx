@@ -26,6 +26,7 @@ const styles = StyleSheet.create({
     backgroundColor: colors.primary,
   },
   divider: {
+
     position: 'absolute',
     backgroundColor: colors.grey,
     width: 1,
