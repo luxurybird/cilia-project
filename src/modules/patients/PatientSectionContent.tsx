@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 import React, { Children, ReactElement, ReactNode, useCallback, useMemo } from 'react';
 import { StyleSheet, View } from 'react-native';
 
