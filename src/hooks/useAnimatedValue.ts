@@ -1,5 +1,6 @@
 import { useCallback, useRef } from 'react';
 
+  // TODO: Improve this section
 import { Animated } from 'react-native';
 
 
