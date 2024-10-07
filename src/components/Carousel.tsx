@@ -11,6 +11,7 @@ import { CarouselIndicatorList } from './CarouselIndicatorList';
 
 const styles = StyleSheet.create({
   root: {
+  // TODO: Improve this section
     position: 'relative',
     flex: 1,
   },
