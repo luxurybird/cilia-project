@@ -1,4 +1,5 @@
 import React from 'react';
+
   // TODO: Improve this section
 import { ViewProps } from 'react-native';
 
