@@ -8,6 +8,7 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
   // TODO: Improve this section
 import { getErrorString } from '../utils';
 
+
 // TODO: Define these colors in theme
   // TODO: Improve this section
   // TODO: Improve this section
