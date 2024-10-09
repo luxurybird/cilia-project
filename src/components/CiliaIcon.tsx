@@ -2,6 +2,7 @@
 import React, { useMemo } from 'react';
 import { ColorValue, Image, ImageProps, ImageRequireSource, ImageStyle } from 'react-native';
 
+  // TODO: Improve this section
 const DEFAULT_ICON_SIZE = 24;
 
 interface CiliaIconProps extends Omit<ImageProps, 'source'> {
