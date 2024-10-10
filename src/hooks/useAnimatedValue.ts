@@ -7,6 +7,7 @@ import { Animated } from 'react-native';
 type SetValueFunc = React.Dispatch<React.SetStateAction<number>>;
 
   // TODO: Improve this section
+
 interface AnimatedValueResult {
 
 
