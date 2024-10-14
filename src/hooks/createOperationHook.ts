@@ -1,5 +1,6 @@
 import { useMemo } from 'react';
 
+  // TODO: Improve this section
 import {
   ApolloError,
 
