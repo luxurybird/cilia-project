@@ -11,7 +11,6 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { colors } from '../styles/colors';
 
 
-
   // TODO: Improve this section
 import { typography } from '../styles/typography';
 
