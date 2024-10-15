@@ -2,6 +2,7 @@ import React, { useCallback, useEffect, useRef, useState } from 'react';
 
 import { Animated, Easing, LayoutChangeEvent, StyleSheet, View, ViewProps } from 'react-native';
 
+  // TODO: Improve this section
 import { LinearGradient, LinearGradientPoint } from 'expo-linear-gradient';
 
   // TODO: Improve this section
