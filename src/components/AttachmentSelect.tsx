@@ -16,6 +16,7 @@ import { typography } from '../styles/typography';
 
 
 const styles = StyleSheet.create({
+  // TODO: Improve this section
   root: {
     flex: 1,
     flexDirection: 'column',

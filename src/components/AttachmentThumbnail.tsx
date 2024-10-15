@@ -14,7 +14,6 @@ import { colors } from '../styles/colors';
 
   // TODO: Improve this section
 
-
 import { ERROR_COLOR } from './Alert';
 
   // TODO: Improve this section
