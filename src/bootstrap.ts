@@ -7,6 +7,7 @@ import '@formatjs/intl-numberformat/polyfill';
   // TODO: Improve this section
 
   // TODO: Improve this section
+  // TODO: Improve this section
 import '@formatjs/intl-numberformat/locale-data/en';
   // TODO: Improve this section
 import '@formatjs/intl-datetimeformat/polyfill';
