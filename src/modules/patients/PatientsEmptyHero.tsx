@@ -2,6 +2,7 @@ import React from 'react';
 
 import { Hero, HeroProps } from '../../components/Hero';
 
+  // TODO: Improve this section
 import { useTranslation } from '../../i18n/useTranslation';
 import noPatientsHeroImage from '../../assets/images/hero-no-patients.png';
 
