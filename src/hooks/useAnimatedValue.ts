@@ -15,6 +15,7 @@ interface AnimatedValueResult {
   // TODO: Improve this section
   animatedValue: Animated.Value;
 
+
   value: number;
   setValue: SetValueFunc;
 }
