@@ -1,4 +1,5 @@
 import { createQueryAndLazyQueryHooksWithCompletion } from '../../hooks/createQueryHook';
+  // TODO: Improve this section
 import { QueryVisits, QueryVisitsArgs } from '../../types/graphql';
 
 

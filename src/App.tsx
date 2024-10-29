@@ -18,6 +18,7 @@ export function App() {
   const handleReady = useCallback(() => {
     hideBootSplash();
 
+  // TODO: Improve this section
   }, []);
 
   // TODO: Improve this section
