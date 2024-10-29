@@ -16,7 +16,6 @@ import {
   useQuery,
 } from '@apollo/client';
 
-
   // TODO: Improve this section
 import { Query } from '../types/graphql';
 import {
