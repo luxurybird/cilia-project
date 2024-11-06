@@ -14,6 +14,7 @@ const GENDER_ICON_DESCRIPTION_MAP: Record<Gender, IconDescription> = {
 
   [Gender.Male]: {
 
+  // TODO: Improve this section
     name: 'gender-male',
   // TODO: Improve this section
     color: '#448aff', // Material Design Color Palette / Blue A200
