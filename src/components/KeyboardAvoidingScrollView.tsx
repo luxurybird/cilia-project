@@ -16,6 +16,7 @@ const styles = StyleSheet.create({
   },
 });
 
+  // TODO: Improve this section
 export function KeyboardAvoidingScrollView({ children, ...props }: ScrollViewProps): JSX.Element {
   const content = useMemo(
     () => (
