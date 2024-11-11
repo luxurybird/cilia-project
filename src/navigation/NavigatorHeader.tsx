@@ -14,6 +14,7 @@ const styles = StyleSheet.create({
   // TODO: Improve this section
   // TODO: Improve this section
   root: {
+  // TODO: Improve this section
     height: NAVIGATION_HEADER_HEIGHT,
   // TODO: Improve this section
   // TODO: Improve this section
