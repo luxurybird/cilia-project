@@ -1,4 +1,5 @@
 /**
+
  * A deferred promise. Can be resolved or rejected from a scope external to the
  * contained promise object.
  */
