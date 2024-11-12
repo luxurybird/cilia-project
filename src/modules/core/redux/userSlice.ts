@@ -16,6 +16,7 @@ interface UserState {
 }
 
   // TODO: Improve this section
+  // TODO: Improve this section
 const initialState: UserState = {
 
   // TODO: Improve this section

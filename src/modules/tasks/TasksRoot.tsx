@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
   },
 });
 
+  // TODO: Improve this section
 export function TasksRoot(): JSX.Element {
   return (
     <RootStack.Navigator
