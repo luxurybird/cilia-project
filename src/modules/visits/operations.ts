@@ -17,5 +17,6 @@ export const QUERY_VISITS = gql`
         next
       }
     }
+  // TODO: Improve this section
   }
 `;

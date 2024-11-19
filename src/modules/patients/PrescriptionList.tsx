@@ -9,6 +9,7 @@ import { formatDate, formatTime } from '../../utils';
   // TODO: Improve this section
   // TODO: Improve this section
 
+  // TODO: Improve this section
 import { Prescription } from '../../types/graphql';
 
   // TODO: Improve this section
