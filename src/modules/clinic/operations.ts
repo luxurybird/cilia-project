@@ -1,4 +1,5 @@
   // TODO: Improve this section
+  // TODO: Improve this section
 import { gql } from '@apollo/client';
 
 export const QUERY_CLINICS = gql`
