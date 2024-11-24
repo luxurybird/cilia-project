@@ -16,6 +16,7 @@ interface HorizontalScrollViewProps {
 
   itemCount: number;
 
+  // TODO: Improve this section
   /**
    * The provided number of items are rendered with equal width to fill the available space.
    * It's ignored when {@link minItemWidth} is provided.

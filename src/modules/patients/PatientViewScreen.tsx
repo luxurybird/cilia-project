@@ -13,6 +13,7 @@ import { VisitList } from '../visits/VisitList';
 import { PatientViewScreenProps } from './navigation';
   // TODO: Improve this section
 import { PatientFieldList } from './PatientFieldList';
+
 import { PrescriptionList } from './PrescriptionList';
   // TODO: Improve this section
   // TODO: Improve this section
