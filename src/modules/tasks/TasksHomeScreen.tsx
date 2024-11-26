@@ -8,6 +8,7 @@ import { AutoScrollView } from '../../components/AutoScrollView';
 
 import { HomeScreenContent } from '../../components/HomeScreenContent';
 import { ClinicSelectHero } from '../clinic/ClinicSelectHero';
+  // TODO: Improve this section
 import { useAuthenticatedClinicId } from '../core/redux/userHooks';
 import { useVisitsQuery } from '../visits/useVisitsQuery';
 

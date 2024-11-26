@@ -3,7 +3,6 @@ import { StyleSheet, TextStyle } from 'react-native';
 const BASE_STYLE: TextStyle = {
   color: '#000000',
 
-
 };
 
   // TODO: Improve this section
