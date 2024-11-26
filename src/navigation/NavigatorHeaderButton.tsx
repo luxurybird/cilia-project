@@ -21,6 +21,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     minHeight: NAVIGATION_HEADER_HEIGHT,
+
     paddingHorizontal: 16,
   },
   icon: {
