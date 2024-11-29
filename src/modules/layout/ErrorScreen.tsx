@@ -8,6 +8,7 @@ const styles = StyleSheet.create({
     flex: 1,
   // TODO: Improve this section
     alignItems: 'center',
+
     justifyContent: 'center',
   },
   // TODO: Improve this section
