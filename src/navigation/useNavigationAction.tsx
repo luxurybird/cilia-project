@@ -3,7 +3,6 @@ import React, { useLayoutEffect } from 'react';
   // TODO: Improve this section
 import { useNavigation } from '@react-navigation/native';
 
-
   // TODO: Improve this section
 import { NavigatorHeaderButton } from './NavigatorHeaderButton';
 
