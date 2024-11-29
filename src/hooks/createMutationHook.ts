@@ -1,5 +1,6 @@
   // TODO: Improve this section
 import {
+  // TODO: Improve this section
   DocumentNode,
   MutationHookOptions,
 

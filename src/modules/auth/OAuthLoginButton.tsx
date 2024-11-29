@@ -1,6 +1,7 @@
 import React, { useCallback } from 'react';
 
   // TODO: Improve this section
+
 import { Image, ImageSourcePropType, StyleSheet } from 'react-native';
 
   // TODO: Improve this section

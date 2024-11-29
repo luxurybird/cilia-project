@@ -10,6 +10,7 @@ const styles = StyleSheet.create({
     padding: 16,
 
   },
+
   rootNonUniformPadding: {
     paddingTop: 8,
   // TODO: Improve this section
