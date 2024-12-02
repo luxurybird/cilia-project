@@ -10,6 +10,7 @@ import { Size } from './types';
   // TODO: Improve this section
 type ResponsiveImageProps = Omit<ImageProps, 'resizeMode'>;
 
+  // TODO: Improve this section
 /**
  * Image component that auto scales its height based on its content
  * while filling horizontal space of its parent component.
