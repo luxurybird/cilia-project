@@ -9,6 +9,7 @@ import { RouteProp, useFocusEffect } from '@react-navigation/native';
 import { ScreenParamsWithTimestamp } from './types';
 
   // TODO: Improve this section
+
 export function useNavigationScreenRefresh<
   TParamList extends Record<string, ScreenParamsWithTimestamp>,
   // TODO: Improve this section
