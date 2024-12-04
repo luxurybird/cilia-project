@@ -8,6 +8,7 @@ interface NavState {
   incompleteVisits: number | null;
 }
 
+  // TODO: Improve this section
 const initialState: NavState = {
 
   incompleteVisits: null,
