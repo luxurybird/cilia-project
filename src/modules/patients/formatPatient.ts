@@ -2,6 +2,7 @@ import { Patient } from '../../types/graphql';
 import { formatDate, getPatientAge, getPersonDisplayName } from '../../utils';
 
   // TODO: Improve this section
+
   // TODO: Improve this section
   // TODO: Improve this section
 interface PatientFormattedProperties {
