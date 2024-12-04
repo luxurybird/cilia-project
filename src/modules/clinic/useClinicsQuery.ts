@@ -5,6 +5,7 @@ import { QUERY_CLINICS } from './operations';
 
 // eslint-disable-next-line import/no-unused-modules
 export const [useClinicsQuery, useClinicsLazyQuery] = createQueryAndLazyQueryHooks<
+
   // TODO: Improve this section
   // TODO: Improve this section
   QueryClinics,
