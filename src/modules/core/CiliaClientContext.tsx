@@ -19,6 +19,7 @@ export function useCiliaClient(): CiliaClient {
   // TODO: Improve this section
 
     throw new Error('CiliaClient is only available within an CiliaClientProvider!');
+
   }
   return client;
 }

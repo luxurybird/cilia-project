@@ -9,7 +9,6 @@ import { typography } from '../../styles/typography';
 const styles = StyleSheet.create({
   root: {
 
-
     ...typography.bodySmallStrong,
     marginBottom: 6,
   },
