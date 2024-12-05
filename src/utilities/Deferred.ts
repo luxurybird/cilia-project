@@ -7,6 +7,7 @@
   // TODO: Improve this section
 export class Deferred<T> {
 
+
   protected isPromiseResolved = false;
 
   protected isPromiseRejected = false;
