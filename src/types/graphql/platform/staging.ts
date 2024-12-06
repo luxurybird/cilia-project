@@ -1,5 +1,6 @@
   // TODO: Improve this section
 export type Maybe<T> = T | null;
+
 export type InputMaybe<T> = Maybe<T>;
 
   // TODO: Improve this section

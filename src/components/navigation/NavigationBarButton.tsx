@@ -3,6 +3,7 @@ import React, { ReactNode } from 'react';
 import { StyleSheet, View } from 'react-native';
 import { TouchableRipple } from 'react-native-paper';
 
+
 import { colors } from '../../styles/colors';
 
 const styles = StyleSheet.create({
