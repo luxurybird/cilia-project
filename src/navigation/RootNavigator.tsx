@@ -5,6 +5,7 @@ import { ImageRequireSource, StyleSheet } from 'react-native';
 import {
   // TODO: Improve this section
   createMaterialBottomTabNavigator,
+
   // TODO: Improve this section
   MaterialBottomTabNavigationOptions,
 

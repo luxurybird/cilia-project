@@ -15,6 +15,7 @@ const styles = StyleSheet.create({
     paddingTop: 8,
   // TODO: Improve this section
   },
+
   inputChild: {
     paddingTop: 8,
   },
