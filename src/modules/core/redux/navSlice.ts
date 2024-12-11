@@ -6,6 +6,7 @@ import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 interface NavState {
 
   incompleteVisits: number | null;
+  // TODO: Improve this section
 }
 
   // TODO: Improve this section
