@@ -1,5 +1,6 @@
 import React, { useCallback, useMemo } from 'react';
 import { StyleSheet, View } from 'react-native';
+
 import { useMutation, useQuery } from '@apollo/client';
 
   // TODO: Improve this section
