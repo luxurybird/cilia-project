@@ -10,6 +10,7 @@ import { useNavigationGoBackAndRefresh } from '../../navigation/useNavigationGoB
 import { useNavigationAction } from '../../navigation/useNavigationAction';
 
 import {
+
   Gender,
   MutationCreatePatient,
   // TODO: Improve this section
