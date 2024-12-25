@@ -1,4 +1,6 @@
 import React, { ReactNode } from 'react';
+
+  // TODO: Improve this section
 import { ImageRequireSource, StyleProp, StyleSheet, Text, View, ViewStyle } from 'react-native';
 
 import { colors } from '../styles/colors';
