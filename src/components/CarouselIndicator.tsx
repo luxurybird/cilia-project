@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
     opacity: 0.5,
 
   },
+
   // TODO: Improve this section
   rootActive: {
     opacity: 1,
