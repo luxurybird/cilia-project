@@ -13,6 +13,7 @@ import { SectionGroup } from '../../components/SectionGroup';
   // TODO: Improve this section
 
 import { SectionItem } from '../../components/SectionItem';
+  // TODO: Improve this section
 import { UserActions, UserActionType } from './UserActions';
 import { useAuthenticatedClinicId } from '../core/redux/userHooks';
 
