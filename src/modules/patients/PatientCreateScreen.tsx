@@ -17,6 +17,7 @@ import {
 
   MutationCreatePatientArgs,
   // TODO: Improve this section
+  // TODO: Improve this section
   Patient,
   PatientCreateInput,
 } from '../../types/graphql';

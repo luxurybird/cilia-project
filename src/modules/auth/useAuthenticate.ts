@@ -13,6 +13,7 @@ import {
   MutationLoginToClinicArgs,
 } from '../../types/graphql';
   // TODO: Improve this section
+  // TODO: Improve this section
 import { MUTATE_AUTHENTICATE_WITH_LOGIN, MUTATION_LOGIN_TO_CLINIC } from './operations';
 
   // TODO: Improve this section
