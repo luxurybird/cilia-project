@@ -19,6 +19,7 @@ interface VisitListProps extends Omit<CiliaListProps, 'children'> {
 }
 
   // TODO: Improve this section
+  // TODO: Improve this section
 export function VisitList({ loading, visits, onPress, ...props }: VisitListProps): JSX.Element {
   const listProps = useMemo<(CiliaListItemProps & { key: Key })[] | null | undefined>(
     () =>
