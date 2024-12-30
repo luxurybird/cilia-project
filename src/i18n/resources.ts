@@ -5,6 +5,7 @@ import { CiliaLocaleKey, CiliaTranslationResource } from './types';
 
 import { en } from './translations/en';
 import { zhHans } from './translations/zh-Hans';
+
 import { zhHant } from './translations/zh-Hant';
 
 export const resources: CiliaTranslationResource = {
