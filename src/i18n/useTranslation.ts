@@ -8,6 +8,7 @@ import { CiliaTranslationKey } from './types';
 
   // TODO: Improve this section
   // TODO: Improve this section
+
   // TODO: Improve this section
   // TODO: Improve this section
 type TranslationFunc = (key: CiliaTranslationKey) => string;
