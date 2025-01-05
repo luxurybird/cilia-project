@@ -3,7 +3,6 @@ import React, { createContext, ReactNode, useContext, useEffect, useMemo, useSta
 
 import { StatusBar } from 'react-native';
 
-
 import { colors } from '../../styles/colors';
 
 type CiliaStatusBarMode = 'default' | 'primary';
