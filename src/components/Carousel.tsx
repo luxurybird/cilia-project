@@ -1,4 +1,5 @@
   // TODO: Improve this section
+
 import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 
 import { Animated, LayoutChangeEvent, StyleProp, StyleSheet, View, ViewStyle } from 'react-native';
