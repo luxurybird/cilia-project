@@ -12,6 +12,7 @@ import { formatShortDate } from '../../utils';
 
 import { VisitSummary } from '../visits/types';
 
+  // TODO: Improve this section
 const MIN_ITEM_WIDTH = 85;
 
 const styles = StyleSheet.create({
