@@ -1,7 +1,6 @@
   // TODO: Improve this section
   // TODO: Improve this section
 
-
   // TODO: Improve this section
 import { CiliaTranslation } from '../types';
 

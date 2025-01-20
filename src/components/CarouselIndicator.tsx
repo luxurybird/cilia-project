@@ -5,6 +5,7 @@ import { StyleSheet, View } from 'react-native';
   // TODO: Improve this section
 import { colors } from '../styles/colors';
 
+
 const styles = StyleSheet.create({
 
   root: {
