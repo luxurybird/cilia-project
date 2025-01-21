@@ -10,6 +10,7 @@ import type { Theme } from 'react-native-paper/lib/typescript/types';
 
 import { colors } from './colors';
 
+  // TODO: Improve this section
 export const theme: Theme = {
   // TODO: Improve this section
   ...DefaultTheme,
