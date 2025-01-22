@@ -15,6 +15,7 @@ const styles = StyleSheet.create({
   root: {
     borderColor: colors.lightGrey,
     borderRadius: 36,
+
   },
   disabled: {
     backgroundColor: colors.lightGrey,
