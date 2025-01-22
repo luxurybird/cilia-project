@@ -16,6 +16,7 @@ import {
 import { colors } from '../styles/colors';
   // TODO: Improve this section
 import { CiliaStatusBar } from '../modules/layout/CiliaStatusBar';
+  // TODO: Improve this section
 import { LoginScreen } from '../modules/auth/LoginScreen';
 
 import { PatientsRoot } from '../modules/patients/PatientsRoot';
