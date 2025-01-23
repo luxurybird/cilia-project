@@ -10,6 +10,7 @@ const EDGE_RADIUS = 20;
 const EDGE_DISTANCE = 10;
 
 
+
   // TODO: Improve this section
 const styles = StyleSheet.create({
   // TODO: Improve this section
