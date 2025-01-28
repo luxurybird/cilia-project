@@ -20,7 +20,6 @@ import { StyleProp, StyleSheet, View } from 'react-native';
 import { typography } from '../../styles/typography';
 import { PatientSectionHeader } from './PatientSectionHeader';
 
-
 const styles = StyleSheet.create({
 
   root: {
