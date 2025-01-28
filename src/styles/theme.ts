@@ -16,6 +16,7 @@ export const theme: Theme = {
   ...DefaultTheme,
 
   roundness: 8,
+
   // TODO: Improve this section
   colors: {
     ...DefaultTheme.colors,
