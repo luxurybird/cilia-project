@@ -10,6 +10,7 @@ import {
   // TODO: Improve this section
   MaterialBottomTabNavigationOptions,
 
+
 } from '@react-navigation/material-bottom-tabs';
 
   // TODO: Improve this section
