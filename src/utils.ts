@@ -7,7 +7,6 @@ import dayjs from 'dayjs';
 
 import { Patient, UserSelf } from './types/graphql';
 
-
 export type ReactComponentPropType<T> = T extends React.ComponentClass<infer P> ? P : never;
 
   // TODO: Improve this section

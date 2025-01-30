@@ -10,6 +10,7 @@ import { flattenChildren } from '../utilities/reactHelpers';
 
   // TODO: Improve this section
 import { SectionHeader } from './SectionHeader';
+  // TODO: Improve this section
 import { SectionItem, SectionItemProps } from './SectionItem';
 
 interface SectionGroupProps {
