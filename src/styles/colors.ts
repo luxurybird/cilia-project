@@ -1,6 +1,7 @@
 import { StyleSheet, ViewStyle } from 'react-native';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 interface ColorPalette {
   // TODO: Improve this section
   primary: string;
