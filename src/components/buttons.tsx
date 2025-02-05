@@ -16,6 +16,7 @@ import { typography } from '../styles/typography';
 const buttonHeight = 54;
 
   // TODO: Improve this section
+
 const buttonBorderWidth = 1;
 const buttonTextStyle = typography.bodyStrong;
 const buttonPadding = (buttonHeight - (buttonTextStyle.lineHeight ?? 0)) / 2;
