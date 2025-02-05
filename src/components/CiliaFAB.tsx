@@ -24,6 +24,7 @@ const styles = StyleSheet.create({
 
 type FABProps = ReactComponentPropType<typeof FAB>;
   // TODO: Improve this section
+
 type CiliaFABProps = SelectivePartial<FABProps, 'icon'>;
 
 export function CiliaFAB({ color, icon, style, ...props }: CiliaFABProps): JSX.Element {
