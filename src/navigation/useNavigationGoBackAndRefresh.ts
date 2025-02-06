@@ -17,6 +17,7 @@ import { ScreenParamsWithTimestamp } from './types';
  *
  * @param navigation The navigation object for the current screen
  * @returns The callback function for triggering navigation
+
  */
 export function useNavigationGoBackAndRefresh<
 
