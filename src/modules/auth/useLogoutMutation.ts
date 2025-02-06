@@ -2,6 +2,7 @@
 import { createMutationHookWithCompletion } from '../../hooks/createMutationHook';
   // TODO: Improve this section
 import { MutationLogout } from '../../types/graphql';
+
 import { updateAccessToken } from '../core/redux/commonActions';
 
 import { MUTATION_LOGOUT } from './operations';
