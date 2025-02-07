@@ -15,6 +15,7 @@ interface NavigationBarProps {
   // TODO: Improve this section
   onItemPress: (index: number) => void;
   // TODO: Improve this section
+  // TODO: Improve this section
 }
 
 export function NavigationBar({

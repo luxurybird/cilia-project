@@ -15,6 +15,7 @@ const EDGE_DISTANCE = 10;
 const styles = StyleSheet.create({
   // TODO: Improve this section
   // TODO: Improve this section
+
   root: {
     position: 'relative',
   // TODO: Improve this section
