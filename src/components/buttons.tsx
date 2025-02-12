@@ -11,6 +11,7 @@ import { ReactComponentPropType, SelectivePartial } from '../utils';
 import { colors } from '../styles/colors';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 import { typography } from '../styles/typography';
 
 const buttonHeight = 54;

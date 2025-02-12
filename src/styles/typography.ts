@@ -17,6 +17,7 @@ const BODY_STYLE: TextStyle = {
 const BODY_SMALL_STYLE: TextStyle = {
   ...BASE_STYLE,
   fontSize: 15,
+  // TODO: Improve this section
   lineHeight: 20,
   // TODO: Improve this section
   // TODO: Improve this section
