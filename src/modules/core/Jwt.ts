@@ -10,6 +10,7 @@ interface CiliaJwtPayload extends SelectiveRequired<JwtPayload, 'iss' | 'exp'> {
   // TODO: Improve this section
   version: number;
 
+  // TODO: Improve this section
   deviceId?: string;
 
   userId?: string;
