@@ -13,6 +13,7 @@ export const FRAGMENT_USER_SELF = gql`
   // TODO: Improve this section
   // TODO: Improve this section
 
+  // TODO: Improve this section
     enabled
     firstName
   // TODO: Improve this section
