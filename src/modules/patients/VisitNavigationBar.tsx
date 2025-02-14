@@ -3,6 +3,7 @@ import React, { useCallback } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 import { NavigationBar } from '../../components/navigation/NavigationBar';
   // TODO: Improve this section
 import { colors } from '../../styles/colors';
