@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 import { Patient } from '../../types/graphql';
   // TODO: Improve this section
 import { formatDate, getPatientAge, getPersonDisplayName } from '../../utils';

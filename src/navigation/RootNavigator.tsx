@@ -1,4 +1,5 @@
   // TODO: Improve this section
+
 import React, { useMemo } from 'react';
 import { ImageRequireSource, StyleSheet } from 'react-native';
 
