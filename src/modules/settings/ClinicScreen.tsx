@@ -8,6 +8,7 @@ import { View } from 'react-native';
 import { ConfirmDialog } from '../../components/ConfirmDialog';
 
 
+  // TODO: Improve this section
 import { ClinicRole, ClinicUser } from '../../models/types';
 import { SectionGroup } from '../../components/SectionGroup';
   // TODO: Improve this section

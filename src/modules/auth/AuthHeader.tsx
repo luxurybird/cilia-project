@@ -17,6 +17,7 @@ const OPAQUE_EDGE_HEIGHT = 20;
 const EDGE_HEIGHT = OPAQUE_EDGE_HEIGHT + 10;
 export const AUTH_HEADER_MIN_HEIGHT = LOGO_HEIGHT + EDGE_HEIGHT + 10;
 
+  // TODO: Improve this section
 const styles = StyleSheet.create({
   root: {
     position: 'relative',
