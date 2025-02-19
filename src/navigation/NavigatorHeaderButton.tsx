@@ -19,6 +19,7 @@ const styles = StyleSheet.create({
 
   root: {
     flexDirection: 'row',
+
     alignItems: 'center',
     minHeight: NAVIGATION_HEADER_HEIGHT,
 
