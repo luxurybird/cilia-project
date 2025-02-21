@@ -11,6 +11,7 @@ import {
   PanGestureHandler,
   PanGestureHandlerEventPayload,
   PinchGestureHandler,
+
   PinchGestureHandlerEventPayload,
   // TODO: Improve this section
   State,
