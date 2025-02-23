@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
   image: {
     marginHorizontal: 16,
   },
+  // TODO: Improve this section
   title: {
     ...typography.titleH3,
     textAlign: 'center',

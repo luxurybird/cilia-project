@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 import React, { useCallback, useState } from 'react';
 
 import { StyleSheet } from 'react-native';
