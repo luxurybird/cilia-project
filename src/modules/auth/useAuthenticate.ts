@@ -10,6 +10,7 @@ import {
   MutationAuthenticateWithLoginArgs,
   MutationLoginToClinic,
 
+
   MutationLoginToClinicArgs,
 } from '../../types/graphql';
   // TODO: Improve this section
