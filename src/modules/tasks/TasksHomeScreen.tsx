@@ -7,6 +7,7 @@ import { Alert } from '../../components/Alert';
 import { AutoScrollView } from '../../components/AutoScrollView';
 
 import { HomeScreenContent } from '../../components/HomeScreenContent';
+
 import { ClinicSelectHero } from '../clinic/ClinicSelectHero';
   // TODO: Improve this section
 import { useAuthenticatedClinicId } from '../core/redux/userHooks';
