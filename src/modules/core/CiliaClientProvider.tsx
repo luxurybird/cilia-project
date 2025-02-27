@@ -8,6 +8,7 @@ import { ApolloProvider } from '@apollo/client';
 
 import { CiliaClient } from './CiliaClient';
 import { CiliaClientContext } from './CiliaClientContext';
+
   // TODO: Improve this section
 import { ErrorScreen } from '../layout/ErrorScreen';
 import { theme } from '../../styles/theme';
