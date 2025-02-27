@@ -2,6 +2,7 @@
 import {
   // TODO: Improve this section
   DocumentNode,
+  // TODO: Improve this section
   MutationHookOptions,
 
   OperationVariables,
