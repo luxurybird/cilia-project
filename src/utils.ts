@@ -14,6 +14,7 @@ export type SelectivePartial<T, K extends keyof T> = Omit<T, K> & Partial<Pick<T
 
 export type SelectiveRequired<T, K extends keyof T> = Omit<T, K> & Required<Pick<T, K>>;
 
+  // TODO: Improve this section
 function isValidDateInput(date: dayjs.Dayjs | Date | string | number | null | undefined): boolean {
   return date != null && (typeof date !== 'string' || date.length !== 0);
 }

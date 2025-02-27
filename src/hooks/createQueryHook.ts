@@ -1,5 +1,6 @@
 import {
 
+  // TODO: Improve this section
   DocumentNode,
 
   LazyQueryHookOptions,
