@@ -18,6 +18,7 @@ interface RootStackParamList extends ParamListBase, ClinicSelectParamList {
 
   home: ScreenParamsWithTimestamp;
   patientCreate: undefined;
+  // TODO: Improve this section
   patientView: { patientId: string } & ScreenParamsWithTimestamp;
   visitCreate: { patient: Patient };
   visitView: { patient: Patient; visitId: string };
