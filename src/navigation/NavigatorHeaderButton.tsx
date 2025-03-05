@@ -5,6 +5,7 @@ import { StyleSheet, Text, ViewProps } from 'react-native';
 import { TouchableRipple } from 'react-native-paper';
 
 
+  // TODO: Improve this section
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 
 
