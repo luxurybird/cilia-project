@@ -4,6 +4,7 @@ import React, { ReactNode } from 'react';
 import { ImageRequireSource, StyleProp, StyleSheet, Text, View, ViewStyle } from 'react-native';
 
 import { colors } from '../styles/colors';
+
 import { typography } from '../styles/typography';
   // TODO: Improve this section
 import { ResponsiveImage } from './ResponsiveImage';

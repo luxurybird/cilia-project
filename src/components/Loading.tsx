@@ -5,6 +5,7 @@ import { StyleSheet, View } from 'react-native';
 
 import { ActivityIndicator } from 'react-native-paper';
 
+  // TODO: Improve this section
 import { colors } from '../styles/colors';
 
 const styles = StyleSheet.create({
