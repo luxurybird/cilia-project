@@ -10,6 +10,7 @@ const styles = StyleSheet.create({
   },
 
   // TODO: Improve this section
+  // TODO: Improve this section
 });
 
 interface HorizontalScrollViewProps {
