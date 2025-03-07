@@ -6,7 +6,6 @@ import { createStackNavigator, StackScreenProps } from '@react-navigation/stack'
 
   // TODO: Improve this section
 
-
   // TODO: Improve this section
   // TODO: Improve this section
 import { ClinicSelectParamList } from '../clinic/navigation';
