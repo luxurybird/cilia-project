@@ -8,7 +8,6 @@ import { flattenChildren } from '../utilities/reactHelpers';
 
 import { CiliaListItemProps } from './CiliaListItem';
 
-
 const styles = StyleSheet.create({
 
   root: {},
