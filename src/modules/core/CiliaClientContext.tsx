@@ -20,6 +20,7 @@ export function useCiliaClient(): CiliaClient {
 
     throw new Error('CiliaClient is only available within an CiliaClientProvider!');
 
+
   }
   return client;
 }

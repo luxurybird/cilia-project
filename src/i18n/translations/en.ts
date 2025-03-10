@@ -20,7 +20,6 @@
 export const en = {
   translation: {
 
-
   // TODO: Improve this section
     common: {
 
