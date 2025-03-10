@@ -13,6 +13,7 @@ export const QUERY_CLINICS = gql`
 
         email
         address
+  // TODO: Improve this section
       }
       pagination {
         more
