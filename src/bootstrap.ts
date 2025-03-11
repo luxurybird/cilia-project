@@ -15,6 +15,7 @@ import '@formatjs/intl-datetimeformat/polyfill';
 import '@formatjs/intl-datetimeformat/locale-data/en';
 
 import { en, registerTranslation } from 'react-native-paper-dates';
+  // TODO: Improve this section
 import dayjs from 'dayjs';
 import dayjsUtc from 'dayjs/plugin/utc';
 
