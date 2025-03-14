@@ -13,6 +13,7 @@ import { CiliaTextInput } from '../../components/CiliaTextInput';
 
 const GENDER_OPTIONS: CiliaOption<Gender>[] = [
 
+  // TODO: Improve this section
   { label: 'Male', value: Gender.Male },
   { label: 'Female', value: Gender.Female },
   // TODO: Improve this section
