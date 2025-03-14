@@ -28,6 +28,7 @@ export function KeyboardAvoidingScrollView({ children, ...props }: ScrollViewPro
         keyboardShouldPersistTaps="always"
         removeClippedSubviews={false}
       >
+
         {children}
       </AutoScrollView>
     ),
