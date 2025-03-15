@@ -8,7 +8,6 @@ import {
   LayoutRectangle,
 
 
-
   StyleProp,
 
   TextStyle,

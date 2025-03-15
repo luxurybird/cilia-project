@@ -18,6 +18,7 @@ type PrescriptionSummary = Pick<Prescription, 'id' | 'dateCreated'>;
 
   // TODO: Improve this section
 interface PrescriptionListProps extends CiliaListProps {
+
   // TODO: Improve this section
   // TODO: Improve this section
   loading?: boolean;
