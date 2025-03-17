@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
 
     position: 'absolute',
 
+
     zIndex: 1,
 
   // TODO: Improve this section
