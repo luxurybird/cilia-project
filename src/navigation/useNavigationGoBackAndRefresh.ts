@@ -20,6 +20,7 @@ import { ScreenParamsWithTimestamp } from './types';
  * @returns The callback function for triggering navigation
 
  */
+
 export function useNavigationGoBackAndRefresh<
 
   TParamList extends ParamListBase,
