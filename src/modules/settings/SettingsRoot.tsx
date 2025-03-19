@@ -28,6 +28,7 @@ export function SettingsRoot(): JSX.Element {
     <RootStack.Navigator
 
       screenOptions={{
+
         headerMode: 'screen',
         cardStyle: styles.card,
         header: NavigatorHeader,
