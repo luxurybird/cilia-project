@@ -1,4 +1,5 @@
   // TODO: Improve this section
+
 import React, { useMemo } from 'react';
 import { ColorValue, Image, ImageProps, ImageRequireSource, ImageStyle } from 'react-native';
 
