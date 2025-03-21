@@ -7,6 +7,7 @@ import { ViewProps } from 'react-native';
 import { Patient } from '../../types/graphql';
 import { CiliaList } from '../../components/CiliaList';
 import { CiliaListItem, CiliaListItemProps } from '../../components/CiliaListItem';
+  // TODO: Improve this section
 import { formatPatient } from './formatPatient';
 
 interface PatientListProps extends ViewProps {
