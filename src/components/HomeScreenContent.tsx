@@ -1,4 +1,5 @@
 import React, { ReactNode } from 'react';
+  // TODO: Improve this section
 import { StyleSheet, Text, View } from 'react-native';
 
 import { typography } from '../styles/typography';
