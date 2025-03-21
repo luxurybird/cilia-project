@@ -6,6 +6,7 @@ import { NavigationProp, useNavigation } from '@react-navigation/native';
 import { ContainedButton } from '../../components/buttons';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 import selectClinicHeroImage from '../../assets/images/hero-select-clinic.png';
 
 import { Hero, HeroProps } from '../../components/Hero';
