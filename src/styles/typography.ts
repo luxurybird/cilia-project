@@ -25,6 +25,7 @@ const BODY_SMALL_STYLE: TextStyle = {
 };
 
 const CAPTION_STYLE: TextStyle = {
+
   ...BASE_STYLE,
   fontSize: 12,
   lineHeight: 16,

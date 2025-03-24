@@ -3,6 +3,7 @@ import React from 'react';
   // TODO: Improve this section
 import { ViewProps } from 'react-native';
 
+  // TODO: Improve this section
 import { LinearGradient } from 'expo-linear-gradient';
 
 import { colors } from '../../styles/colors';
