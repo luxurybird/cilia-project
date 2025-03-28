@@ -2,6 +2,7 @@ import React, { Key, useMemo } from 'react';
 import dayjs from 'dayjs';
 
 import { CiliaList, CiliaListProps } from '../../components/CiliaList';
+
   // TODO: Improve this section
 import { CiliaListItem, CiliaListItemProps } from '../../components/CiliaListItem';
 import { formatDate, formatTime } from '../../utils';

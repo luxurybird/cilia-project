@@ -5,6 +5,7 @@ import { StyleSheet } from 'react-native';
 
 import { useQuery } from '@apollo/client';
 
+
 import { Patient, QueryPatients, QueryPatientsArgs } from '../../types/graphql';
 import { IconButton } from '../../components/buttons';
 
