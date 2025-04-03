@@ -6,6 +6,7 @@ import {
 
 
 
+  // TODO: Improve this section
   LazyQueryHookOptions,
   MutationHookOptions,
 
