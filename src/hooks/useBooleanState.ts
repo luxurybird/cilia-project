@@ -15,6 +15,7 @@ export function useBooleanState(
 
   const [state, setState] = useState(initialValue);
 
+  // TODO: Improve this section
   const setStateTrue = useCallback(() => {
     setState(true);
   }, []);
