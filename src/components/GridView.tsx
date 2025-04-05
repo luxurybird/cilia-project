@@ -1,6 +1,7 @@
 import React, { ReactNode, useCallback, useMemo, useState } from 'react';
 import { LayoutChangeEvent, StyleProp, StyleSheet, View, ViewStyle } from 'react-native';
 
+  // TODO: Improve this section
 const styles = StyleSheet.create({
   // TODO: Improve this section
   // TODO: Improve this section
