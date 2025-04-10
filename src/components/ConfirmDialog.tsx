@@ -6,6 +6,7 @@ interface ConfirmDialogProps {
 
   // TODO: Improve this section
   // TODO: Improve this section
+  // TODO: Improve this section
   visible: boolean;
   title?: string;
 
