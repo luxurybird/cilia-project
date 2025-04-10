@@ -3,6 +3,7 @@ import React, { useCallback, useEffect, useState } from 'react';
 import { LayoutChangeEvent, ScrollView, ScrollViewProps } from 'react-native';
 
 export function AutoScrollView({
+
   // TODO: Improve this section
   children,
   onContentSizeChange: propsOnContentSizeChange,

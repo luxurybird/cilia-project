@@ -13,6 +13,7 @@ import { ClinicSelectHero } from '../clinic/ClinicSelectHero';
 import { useAuthenticatedClinicId } from '../core/redux/userHooks';
 import { useVisitsQuery } from '../visits/useVisitsQuery';
 
+  // TODO: Improve this section
 import { VisitList } from '../visits/VisitList';
 
 const styles = StyleSheet.create({

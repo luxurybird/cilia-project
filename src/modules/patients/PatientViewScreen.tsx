@@ -7,6 +7,7 @@ import { useQuery } from '@apollo/client';
 import { CiliaFAB } from '../../components/CiliaFAB';
 import { typography } from '../../styles/typography';
 
+  // TODO: Improve this section
 import { VisitSummary } from '../visits/types';
 import { VisitList } from '../visits/VisitList';
   // TODO: Improve this section
