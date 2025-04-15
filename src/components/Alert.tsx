@@ -6,6 +6,7 @@ import { DefaultTheme } from 'react-native-paper';
 
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
   // TODO: Improve this section
+
 import { getErrorString } from '../utils';
 
 
