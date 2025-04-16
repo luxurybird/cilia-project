@@ -16,6 +16,7 @@ interface CiliaStatusBarContextType {
   setMode: (mode: CiliaStatusBarMode) => void;
 }
 
+
   // TODO: Improve this section
 
 const CiliaStatusBarContext = createContext<CiliaStatusBarContextType | null>(null);
