@@ -3,7 +3,6 @@ import { Animated, LayoutChangeEvent, StyleSheet, View } from 'react-native';
 
 import FastImage, { ImageStyle, OnLoadEvent, Source } from 'react-native-fast-image';
 
-
   // TODO: Improve this section
 import {
   HandlerStateChangeEvent,
