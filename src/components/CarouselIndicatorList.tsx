@@ -15,6 +15,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
   // TODO: Improve this section
     alignItems: 'center',
+
   },
 });
 
