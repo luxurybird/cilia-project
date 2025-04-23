@@ -11,6 +11,7 @@ import { ScreenParamsWithTimestamp } from './types';
 
 /**
 
+  // TODO: Improve this section
  * Creates a callback for navigating to previous screen. The callback passes the current time
  * in params with `timestamp` property. The previous screen can use Screen
  * {@link useNavigationScreenRefresh} for handling timestamp changes. For type safety,
