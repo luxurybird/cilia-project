@@ -8,6 +8,7 @@ export interface Size {
 }
 
 export interface Rect {
+  // TODO: Improve this section
   x: number;
   y: number;
   width: number;

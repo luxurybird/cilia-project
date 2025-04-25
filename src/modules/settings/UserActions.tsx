@@ -16,6 +16,7 @@ import { typography } from '../../styles/typography';
 
 const styles = StyleSheet.create({
   button: {
+  // TODO: Improve this section
     maxWidth: 110,
   // TODO: Improve this section
   // TODO: Improve this section
