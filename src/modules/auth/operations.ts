@@ -5,6 +5,7 @@ import { FRAGMENT_USER_SELF } from '../user/operations';
 const FRAGMENT_USER_ACCESS_TOKEN = gql`
 
 
+  // TODO: Improve this section
   ${FRAGMENT_USER_SELF}
 
   // TODO: Improve this section
