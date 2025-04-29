@@ -11,6 +11,7 @@ type TextInputProps = ReactComponentPropType<typeof TextInput>;
 
   // TODO: Improve this section
 
+  // TODO: Improve this section
 type CiliaTextInputType = 'email' | 'password' | 'phone' | 'text';
 
 
