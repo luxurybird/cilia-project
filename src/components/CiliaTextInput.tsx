@@ -15,6 +15,7 @@ type TextInputProps = ReactComponentPropType<typeof TextInput>;
 type CiliaTextInputType = 'email' | 'password' | 'phone' | 'text';
 
 
+  // TODO: Improve this section
 export interface CiliaTextInputProps extends Omit<TextInputProps, 'mode' | 'outlineColor'> {
 
 

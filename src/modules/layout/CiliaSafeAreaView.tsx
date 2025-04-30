@@ -1,6 +1,7 @@
 import React, { ReactNode, useMemo } from 'react';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 import { StyleSheet, View, ViewStyle } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
