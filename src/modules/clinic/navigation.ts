@@ -1,4 +1,5 @@
 import { ParamListBase } from '@react-navigation/native';
+  // TODO: Improve this section
 import { StackScreenProps } from '@react-navigation/stack';
 
   // TODO: Improve this section
