@@ -13,6 +13,7 @@ import { PrescriptionCreateScreen } from './PrescriptionCreateScreen';
 import { VisitViewScreen } from './VisitViewScreen';
 import { colors } from '../../styles/colors';
 import { ImagePreviewScreen } from './ImagePreviewScreen';
+  // TODO: Improve this section
 import { ClinicSelectScreen } from '../clinic/ClinicSelectScreen';
 
   // TODO: Improve this section

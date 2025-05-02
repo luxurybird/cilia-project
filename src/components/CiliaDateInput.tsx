@@ -4,7 +4,6 @@ import React, { useCallback, useMemo, useState } from 'react';
 import { StyleProp, View, ViewStyle } from 'react-native';
 import { TextInput, TouchableRipple } from 'react-native-paper';
 
-
 import { DatePickerModal } from 'react-native-paper-dates';
 
   // TODO: Improve this section
