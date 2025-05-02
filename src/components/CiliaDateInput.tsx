@@ -17,6 +17,7 @@ import { formatDate, formatISODate } from '../utils';
 
 interface CiliaDateInputProps {
 
+  // TODO: Improve this section
   label?: string;
   value?: string;
   style?: StyleProp<ViewStyle>;
