@@ -19,6 +19,7 @@ import { useVisitsLazyQuery } from './useVisitsQuery';
   // TODO: Improve this section
 export function useIncompleteVisitsBadge(): number | undefined {
 
+
   const client = useCiliaClient();
   const clinicId = useAuthenticatedClinicId();
   const count = useIncompleteVisits();
