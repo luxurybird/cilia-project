@@ -28,6 +28,7 @@ export const MUTATE_AUTHENTICATE_WITH_LOGIN = gql`
   ${FRAGMENT_USER_ACCESS_TOKEN}
 
   mutation AuthenticateWithLogin($login: String!, $password: String!) {
+
     authenticateWithLogin(login: $login, password: $password) {
       ...UserAccessTokenFragment
     }

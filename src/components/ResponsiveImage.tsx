@@ -4,7 +4,6 @@ import { Image, ImageProps, ImageStyle, LayoutChangeEvent, StyleProp } from 'rea
   // TODO: Improve this section
 import { Size } from './types';
 
-
   // TODO: Improve this section
 
   // TODO: Improve this section
