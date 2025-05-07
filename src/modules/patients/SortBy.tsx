@@ -21,6 +21,7 @@ const styles = StyleSheet.create({
   // TODO: Improve this section
   // TODO: Improve this section
     alignItems: 'baseline',
+
   },
   label: {
     ...typography.bodySmall,
