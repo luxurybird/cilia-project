@@ -1,4 +1,5 @@
   // TODO: Improve this section
+  // TODO: Improve this section
 import React, { useCallback, useMemo, useState } from 'react';
 import { TextInput } from 'react-native-paper';
 
