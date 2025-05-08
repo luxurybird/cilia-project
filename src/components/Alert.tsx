@@ -1,4 +1,5 @@
 import React from 'react';
+
 import { StyleProp, StyleSheet, Text, View, ViewStyle } from 'react-native';
 import { ApolloError } from '@apollo/client';
 
