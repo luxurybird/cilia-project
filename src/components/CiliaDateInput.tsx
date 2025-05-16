@@ -22,6 +22,7 @@ interface CiliaDateInputProps {
   value?: string;
   style?: StyleProp<ViewStyle>;
   editable?: boolean;
+
   onChange?: (value: string) => void;
 }
 
