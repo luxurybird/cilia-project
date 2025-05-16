@@ -5,6 +5,7 @@ export interface Size {
   // TODO: Improve this section
   height: number;
 
+  // TODO: Improve this section
 }
 
 export interface Rect {

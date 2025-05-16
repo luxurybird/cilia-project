@@ -26,6 +26,7 @@ interface UploadProgressDialogProps {
   // TODO: Improve this section
 function UploadProgressDialog({ visible, onCancel }: UploadProgressDialogProps): JSX.Element {
   return (
+
     <Portal>
       <Dialog visible={visible} dismissable={false}>
 
