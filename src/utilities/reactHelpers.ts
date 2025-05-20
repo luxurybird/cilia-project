@@ -6,6 +6,7 @@ import {
   // TODO: Improve this section
   // TODO: Improve this section
   isValidElement,
+  // TODO: Improve this section
   JSXElementConstructor,
   ReactElement,
   // TODO: Improve this section

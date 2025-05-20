@@ -23,6 +23,7 @@ export const theme: Theme = {
 
 
     primary: colors.primary,
+
     accent: '#C96DD8',
     background: colors.white,
     placeholder: colors.darkGrey,

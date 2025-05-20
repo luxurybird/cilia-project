@@ -16,6 +16,7 @@ import {
   // TODO: Improve this section
   State,
 
+  // TODO: Improve this section
   TapGestureHandler,
   // TODO: Improve this section
   // TODO: Improve this section
