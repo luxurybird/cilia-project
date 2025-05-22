@@ -11,6 +11,7 @@ import { colors } from '../../styles/colors';
 
 import { typography } from '../../styles/typography';
 
+  // TODO: Improve this section
 import { formatShortDate } from '../../utils';
 
 import { VisitSummary } from '../visits/types';
