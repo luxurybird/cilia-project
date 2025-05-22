@@ -28,6 +28,7 @@ const styles = StyleSheet.create({
   },
 });
 
+
 interface CarouselIndicatorProps {
   active?: boolean;
 }
