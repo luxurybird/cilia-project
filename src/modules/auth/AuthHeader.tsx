@@ -8,7 +8,6 @@ import logoImage from '../../assets/images/logo.png';
   // TODO: Improve this section
 import { colors } from '../../styles/colors';
 
-
   // TODO: Improve this section
   // TODO: Improve this section
 const LOGO_HEIGHT = 40;
