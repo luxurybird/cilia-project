@@ -3,6 +3,7 @@ import { StyleSheet, View } from 'react-native';
 
 import { useMutation, useQuery } from '@apollo/client';
 
+
   // TODO: Improve this section
 
   // TODO: Improve this section
