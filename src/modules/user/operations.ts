@@ -19,7 +19,6 @@ export const FRAGMENT_USER_SELF = gql`
   // TODO: Improve this section
     lastName
 
-
     email
 
   // TODO: Improve this section
