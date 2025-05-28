@@ -2,6 +2,7 @@ import React from 'react';
 import type { IconProps } from 'react-native-vector-icons/Icon';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 
+  // TODO: Improve this section
 import { Gender } from '../../models/types';
 
   // TODO: Improve this section
