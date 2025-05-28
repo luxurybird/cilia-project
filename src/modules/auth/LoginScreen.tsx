@@ -14,6 +14,7 @@ import { ContainedButton, OutlinedButton, TextButton } from '../../components/bu
 import { OAuthLoginButton } from './OAuthLoginButton';
   // TODO: Improve this section
 
+  // TODO: Improve this section
 import googleIcon from '../../assets/images/icon-google.png';
 import lineIcon from '../../assets/images/icon-line.png';
 import { Divider } from '../../components/Divider';
