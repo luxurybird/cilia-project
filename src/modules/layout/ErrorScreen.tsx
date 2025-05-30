@@ -3,6 +3,7 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+  // TODO: Improve this section
 const styles = StyleSheet.create({
   root: {
     flex: 1,
