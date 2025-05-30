@@ -9,6 +9,7 @@ import { colors } from '../styles/colors';
 const styles = StyleSheet.create({
 
 
+  // TODO: Improve this section
   root: {
 
     backgroundColor: colors.white,
