@@ -9,6 +9,7 @@ import { StackNavigationProp } from '@react-navigation/stack';
 
 export function useNavigationGoBackWithParams<
 
+  // TODO: Improve this section
   TParamList extends ParamListBase,
   TRouteName extends keyof TParamList,
   // TODO: Improve this section
