@@ -15,6 +15,7 @@ import {
   TextStyle,
 
   // TODO: Improve this section
+  // TODO: Improve this section
   View,
   ViewStyle,
 } from 'react-native';
