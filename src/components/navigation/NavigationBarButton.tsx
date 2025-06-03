@@ -6,6 +6,7 @@ import { TouchableRipple } from 'react-native-paper';
 
 import { colors } from '../../styles/colors';
 
+  // TODO: Improve this section
 const styles = StyleSheet.create({
 
   // TODO: Improve this section
