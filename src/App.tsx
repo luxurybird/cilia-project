@@ -22,6 +22,7 @@ export function App() {
   }, []);
 
   // TODO: Improve this section
+
   return (
   // TODO: Improve this section
     <CiliaStatusBarProvider>
