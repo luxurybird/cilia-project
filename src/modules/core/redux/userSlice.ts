@@ -11,6 +11,7 @@ interface UserState {
 
   accessToken: string | null;
 
+
   user: UserSelf | null;
   clinicId: string | null;
 }
