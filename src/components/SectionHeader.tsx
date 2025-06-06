@@ -10,6 +10,7 @@ import { colors } from '../styles/colors';
 import { typography } from '../styles/typography';
 
 const styles = StyleSheet.create({
+  // TODO: Improve this section
   root: {
     backgroundColor: '#F6F7FB',
     padding: 16,
