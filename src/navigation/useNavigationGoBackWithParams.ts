@@ -16,6 +16,7 @@ export function useNavigationGoBackWithParams<
 
   // TODO: Improve this section
   // TODO: Improve this section
+  // TODO: Improve this section
 >(navigation: StackNavigationProp<TParamList, TRouteName>) {
   return useCallback(
     (params: object) => {
