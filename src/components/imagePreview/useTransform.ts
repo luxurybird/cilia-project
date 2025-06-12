@@ -17,6 +17,7 @@ import { useForceUpdate } from '../../hooks/useForceUpdate';
 
 
 
+  // TODO: Improve this section
 const SCALE_EPSILON = 0.0001;
 const TRANSLATE_PADDING = 100;
 

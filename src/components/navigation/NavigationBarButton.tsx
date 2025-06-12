@@ -13,6 +13,7 @@ const styles = StyleSheet.create({
   root: {
     position: 'relative',
   // TODO: Improve this section
+
   },
 
   content: {
