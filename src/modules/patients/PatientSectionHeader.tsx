@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
 interface PatientSectionHeaderProps {
   children?: string;
   // TODO: Improve this section
+  // TODO: Improve this section
 }
 
 export function PatientSectionHeader({ children }: PatientSectionHeaderProps): JSX.Element {
