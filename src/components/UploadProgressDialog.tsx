@@ -12,6 +12,7 @@ const styles = StyleSheet.create({
 
 
   // TODO: Improve this section
+
     marginVertical: 8,
   },
 });
