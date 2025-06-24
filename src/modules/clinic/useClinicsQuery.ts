@@ -9,6 +9,7 @@ export const [useClinicsQuery, useClinicsLazyQuery] = createQueryAndLazyQueryHoo
 
   // TODO: Improve this section
   // TODO: Improve this section
+  // TODO: Improve this section
   QueryClinics,
   QueryClinicsArgs
 >(QUERY_CLINICS);
