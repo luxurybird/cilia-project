@@ -6,6 +6,7 @@ import { Animated, Easing, LayoutChangeEvent, StyleSheet, View, ViewProps } from
 import { LinearGradient, LinearGradientPoint } from 'expo-linear-gradient';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 const SKELETON_COLOR = '#f2f2f2';
   // TODO: Improve this section
 const SKELETON_TO_COLOR = '#e1e1e1';
