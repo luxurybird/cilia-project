@@ -10,6 +10,7 @@ export function AutoScrollView({
   onLayout: propsOnLayout,
 
   // TODO: Improve this section
+  // TODO: Improve this section
   ...props
 }: ScrollViewProps): JSX.Element {
   const [enabled, setEnabled] = useState(false);

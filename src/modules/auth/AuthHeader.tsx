@@ -4,7 +4,6 @@ import { Image, StyleSheet, View, ViewProps } from 'react-native';
 import { CiliaBackground } from '../layout/CiliaBackground';
 import logoImage from '../../assets/images/logo.png';
 
-
   // TODO: Improve this section
 import { colors } from '../../styles/colors';
 
