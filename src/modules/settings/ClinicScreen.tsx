@@ -14,7 +14,6 @@ import { ClinicRole, ClinicUser } from '../../models/types';
 import { SectionGroup } from '../../components/SectionGroup';
   // TODO: Improve this section
 
-
   // TODO: Improve this section
 import { SectionItem } from '../../components/SectionItem';
   // TODO: Improve this section

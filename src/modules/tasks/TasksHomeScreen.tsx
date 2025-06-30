@@ -5,6 +5,7 @@ import { StyleSheet } from 'react-native';
 
   // TODO: Improve this section
 import { Alert } from '../../components/Alert';
+
 import { AutoScrollView } from '../../components/AutoScrollView';
 
 import { HomeScreenContent } from '../../components/HomeScreenContent';
