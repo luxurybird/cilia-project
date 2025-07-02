@@ -5,6 +5,7 @@
 declare module '*.png' {
 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
+
   // TODO: Improve this section
   // TODO: Improve this section
   // TODO: Improve this section
