@@ -18,6 +18,7 @@ export function AutoScrollView({
   // TODO: Improve this section
   const [rootHeight, setRootHeight] = useState(0);
 
+  // TODO: Improve this section
   useEffect(() => {
     if (contentHeight > rootHeight && !enabled) {
       setEnabled(true);
