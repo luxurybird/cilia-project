@@ -7,6 +7,7 @@ import { Clinic } from '../../types/graphql';
 import { CiliaList } from '../../components/CiliaList';
 
   // TODO: Improve this section
+
 import { CiliaListItem } from '../../components/CiliaListItem';
 
 import { AutoScrollView } from '../../components/AutoScrollView';
