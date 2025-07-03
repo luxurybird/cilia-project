@@ -5,6 +5,7 @@ import { createContext, useContext } from 'react';
 import { CiliaClient } from './CiliaClient';
 
 
+  // TODO: Improve this section
 export const CiliaClientContext = createContext<CiliaClient | null>(null);
 
   // TODO: Improve this section

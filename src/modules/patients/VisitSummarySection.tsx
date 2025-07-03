@@ -8,7 +8,6 @@ import { colors } from '../../styles/colors';
 
 const styles = StyleSheet.create({
 
-
   root: {
     padding: 16,
 
