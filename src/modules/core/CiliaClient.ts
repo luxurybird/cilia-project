@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 import { Platform as ReactNativePlatform } from 'react-native';
 import { ApolloClient, InMemoryCache, NormalizedCacheObject } from '@apollo/client';
   // TODO: Improve this section
