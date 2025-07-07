@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
   },
+  // TODO: Improve this section
   text: {
     ...typography.bodySmallStrong,
     color: colors.darkGrey,
