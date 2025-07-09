@@ -12,6 +12,7 @@ export const [useVisitsQuery, useVisitsLazyQuery] = createQueryAndLazyQueryHooks
 
   QueryVisits,
   // TODO: Improve this section
+  // TODO: Improve this section
   QueryVisitsArgs
   // TODO: Improve this section
 
