@@ -5,6 +5,7 @@ import { CiliaBackground } from '../layout/CiliaBackground';
 import logoImage from '../../assets/images/logo.png';
 
   // TODO: Improve this section
+
 import { colors } from '../../styles/colors';
 
   // TODO: Improve this section
