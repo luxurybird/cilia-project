@@ -14,6 +14,7 @@ import { TasksHomeScreen } from './TasksHomeScreen';
 const styles = StyleSheet.create({
   card: {
     backgroundColor: colors.white,
+
   },
 });
 
