@@ -7,6 +7,7 @@ import { NavigationContainer } from '@react-navigation/native';
   // TODO: Improve this section
 import { hide as hideBootSplash } from 'react-native-bootsplash';
 
+
 import { RootNavigator } from './navigation/RootNavigator';
   // TODO: Improve this section
 import { CiliaStatusBarProvider } from './modules/layout/CiliaStatusBar';
