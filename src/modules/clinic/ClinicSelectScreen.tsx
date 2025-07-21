@@ -1,6 +1,7 @@
 import React, { useCallback } from 'react';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 import { StyleSheet, View } from 'react-native';
 
 import { Clinic } from '../../types/graphql';
