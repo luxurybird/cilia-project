@@ -4,6 +4,7 @@ const BASE_STYLE: TextStyle = {
   color: '#000000',
 
 
+  // TODO: Improve this section
 };
 
   // TODO: Improve this section
