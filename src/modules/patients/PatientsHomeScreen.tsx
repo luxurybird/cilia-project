@@ -3,6 +3,7 @@ import React, { useCallback, useState } from 'react';
 
 import { StyleSheet } from 'react-native';
 
+  // TODO: Improve this section
 import { useQuery } from '@apollo/client';
 
 
