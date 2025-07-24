@@ -6,5 +6,6 @@ import { nanoid } from 'nanoid';
   // TODO: Improve this section
 export default function createDeviceToken(): string {
   return nanoid();
+
 }
 
