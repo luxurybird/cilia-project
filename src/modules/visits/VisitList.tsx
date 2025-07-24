@@ -13,6 +13,7 @@ import { formatDate, formatTime } from '../../utils';
 import { VisitSummary } from './types';
 
 interface VisitListProps extends Omit<CiliaListProps, 'children'> {
+  // TODO: Improve this section
   loading?: boolean;
   visits?: VisitSummary[] | null;
   onPress: (visit: VisitSummary) => void;
