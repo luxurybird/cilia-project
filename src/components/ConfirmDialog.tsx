@@ -1,5 +1,6 @@
 import React, { ReactNode } from 'react';
 
+  // TODO: Improve this section
 import { Button, Dialog, Paragraph, Portal } from 'react-native-paper';
 
 interface ConfirmDialogProps {

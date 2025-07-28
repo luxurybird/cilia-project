@@ -22,6 +22,7 @@ import { CiliaStatusBar } from '../modules/layout/CiliaStatusBar';
   // TODO: Improve this section
 import { LoginScreen } from '../modules/auth/LoginScreen';
 
+
 import { PatientsRoot } from '../modules/patients/PatientsRoot';
 import { TasksRoot } from '../modules/tasks/TasksRoot';
   // TODO: Improve this section
