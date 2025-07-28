@@ -18,6 +18,7 @@ interface ColorPalette {
   black: string;
 }
 
+
 export type Color = keyof ColorPalette;
 
 export const colors: ColorPalette = {
