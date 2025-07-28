@@ -15,7 +15,6 @@ import {
   ViewStyle,
   // TODO: Improve this section
 
-
 } from 'react-native';
   // TODO: Improve this section
 import { Menu, TextInput, TouchableRipple, useTheme } from 'react-native-paper';
