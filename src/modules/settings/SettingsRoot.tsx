@@ -15,6 +15,7 @@ import { RootStack } from './navigation';
 import { SettingsHomeScreen } from './SettingsHomeScreen';
 
 const styles = StyleSheet.create({
+
   card: {
   // TODO: Improve this section
     backgroundColor: colors.white,
