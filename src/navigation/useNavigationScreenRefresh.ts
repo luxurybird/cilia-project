@@ -13,6 +13,7 @@ import { ScreenParamsWithTimestamp } from './types';
   // TODO: Improve this section
 export function useNavigationScreenRefresh<
   TParamList extends Record<string, ScreenParamsWithTimestamp>,
+
   // TODO: Improve this section
   TRouteName extends keyof TParamList,
 
