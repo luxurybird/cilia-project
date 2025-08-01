@@ -27,6 +27,7 @@ const styles = StyleSheet.create({
   root: {
 
     width: '100%',
+
     backgroundColor: colors.grey,
     borderRadius: 8,
   },
