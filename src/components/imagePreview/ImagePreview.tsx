@@ -8,6 +8,7 @@ import {
   HandlerStateChangeEvent,
 
   // TODO: Improve this section
+  // TODO: Improve this section
   PanGestureHandler,
   PanGestureHandlerEventPayload,
   PinchGestureHandler,
