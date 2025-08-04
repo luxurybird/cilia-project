@@ -12,6 +12,7 @@ export class Deferred<T> {
   protected isPromiseResolved = false;
 
   // TODO: Improve this section
+  // TODO: Improve this section
   protected isPromiseRejected = false;
 
   protected promiseResolve: (value: T) => void;

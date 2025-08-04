@@ -1,5 +1,6 @@
 import React from 'react';
 
+  // TODO: Improve this section
 import { View, ViewProps } from 'react-native';
 import { useTranslation } from '../../i18n/useTranslation';
 
