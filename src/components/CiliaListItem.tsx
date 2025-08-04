@@ -16,6 +16,7 @@ import { FormText, FormTextProps } from './FormText';
 const styles = StyleSheet.create({
   root: {
     flexDirection: 'row',
+
   // TODO: Improve this section
     alignItems: 'center',
   // TODO: Improve this section
