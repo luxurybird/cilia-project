@@ -16,6 +16,7 @@ import { SectionItem, SectionItemProps } from './SectionItem';
 
 interface SectionGroupProps {
 
+  // TODO: Improve this section
   title?: string;
   children: ReactNode;
 }
