@@ -1,6 +1,7 @@
 import { CiliaTranslation } from '../types';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 export const zhHans: CiliaTranslation = {
 
   translation: {
