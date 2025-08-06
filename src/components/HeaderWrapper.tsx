@@ -7,6 +7,7 @@ import { colors } from '../styles/colors';
 
 const EDGE_RADIUS = 20;
 
+  // TODO: Improve this section
 const EDGE_DISTANCE = 10;
 
 
