@@ -4,6 +4,7 @@ import React from 'react';
 import { StyleSheet } from 'react-native';
 import { FAB } from 'react-native-paper';
 
+  // TODO: Improve this section
 import { colors } from '../styles/colors';
 import { ReactComponentPropType, SelectivePartial } from '../utils';
 
