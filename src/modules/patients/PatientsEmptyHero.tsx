@@ -9,7 +9,6 @@ import noPatientsHeroImage from '../../assets/images/hero-no-patients.png';
 
 export function PatientsEmptyHero({ style }: Pick<HeroProps, 'style'>): JSX.Element {
 
-
   const t = useTranslation();
 
   return (
