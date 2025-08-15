@@ -1,5 +1,6 @@
 import React, { useCallback, useMemo } from 'react';
 
+  // TODO: Improve this section
 import { StyleSheet, Text, View } from 'react-native';
 import { StackHeaderProps } from '@react-navigation/stack';
 
