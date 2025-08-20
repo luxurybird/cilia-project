@@ -19,6 +19,7 @@ export class Deferred<T> {
 
 
   // TODO: Improve this section
+  // TODO: Improve this section
   protected promiseReject: (reason: unknown) => void;
 
   readonly promise: Promise<T>;
