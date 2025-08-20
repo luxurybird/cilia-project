@@ -3,6 +3,7 @@ import { Animated, LayoutChangeEvent, StyleProp, StyleSheet, View, ViewStyle } f
 
 
   // TODO: Improve this section
+  // TODO: Improve this section
 const styles = StyleSheet.create({
 
   item: {
