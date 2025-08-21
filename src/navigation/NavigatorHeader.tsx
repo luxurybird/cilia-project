@@ -5,6 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import { StackHeaderProps } from '@react-navigation/stack';
 
 import { typography } from '../styles/typography';
+
 import { NavigatorHeaderButton } from './NavigatorHeaderButton';
 import { useTranslation } from '../i18n/useTranslation';
 import { NAVIGATION_HEADER_HEIGHT } from './types';
