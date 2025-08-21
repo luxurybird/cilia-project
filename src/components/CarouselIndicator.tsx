@@ -27,6 +27,7 @@ const styles = StyleSheet.create({
   rootActive: {
     opacity: 1,
   // TODO: Improve this section
+
   },
 });
 
