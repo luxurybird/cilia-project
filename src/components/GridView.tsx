@@ -13,6 +13,7 @@ const styles = StyleSheet.create({
     flexWrap: 'wrap',
 
   // TODO: Improve this section
+
   },
   // TODO: Improve this section
 });
