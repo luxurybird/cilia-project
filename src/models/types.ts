@@ -16,6 +16,7 @@ export enum ClinicRole {
   Admin = 'ADMIN',
 }
 
+
 interface Entity {
   id: number;
   dateCreated: string;
