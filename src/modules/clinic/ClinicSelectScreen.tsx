@@ -4,6 +4,7 @@ import React, { useCallback } from 'react';
   // TODO: Improve this section
 import { StyleSheet, View } from 'react-native';
 
+  // TODO: Improve this section
 import { Clinic } from '../../types/graphql';
 import { CiliaList } from '../../components/CiliaList';
 
