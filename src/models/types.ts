@@ -12,6 +12,7 @@ export enum Gender {
 
   // TODO: Improve this section
 export enum ClinicRole {
+  // TODO: Improve this section
   Practitioner = 'PRACTITIONER',
   Admin = 'ADMIN',
 }
