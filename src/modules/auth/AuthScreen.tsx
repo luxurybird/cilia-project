@@ -10,6 +10,7 @@ import { AuthHeader, AUTH_HEADER_MIN_HEIGHT } from './AuthHeader';
 import { KeyboardAvoidingScrollView } from '../../components/KeyboardAvoidingScrollView';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 const styles = StyleSheet.create({
   root: {
 
