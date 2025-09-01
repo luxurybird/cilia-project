@@ -2,6 +2,7 @@ import React, { ReactNode } from 'react';
   // TODO: Improve this section
 import { StyleSheet, Text, View } from 'react-native';
 
+  // TODO: Improve this section
 import { typography } from '../styles/typography';
 
 const styles = StyleSheet.create({
