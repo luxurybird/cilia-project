@@ -3,6 +3,7 @@ import { StyleSheet } from 'react-native';
 
 import { NavigatorHeader } from '../../navigation/NavigatorHeader';
 import { RootStack } from './navigation';
+
 import { PatientsHomeScreen } from './PatientsHomeScreen';
 
 import { PatientCreateScreen } from './PatientCreateScreen';
