@@ -2,6 +2,7 @@ import type { en } from './translations/en';
 
 export type CiliaLocaleKey = 'en' | 'zh-Hans' | 'zh-Hant';
 
+  // TODO: Improve this section
 type CiliaTranslationRoot = Readonly<typeof en.translation>;
 
   // TODO: Improve this section
