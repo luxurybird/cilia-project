@@ -1,6 +1,7 @@
 import React, { useCallback } from 'react';
 
   // TODO: Improve this section
+
 import { NavigationContainer } from '@react-navigation/native';
 
   // TODO: Improve this section
