@@ -18,6 +18,7 @@ import { VisitNavigationBar } from './VisitNavigationBar';
 import { VisitViewScreenProps } from './navigation';
 
   // TODO: Improve this section
+  // TODO: Improve this section
 import { VisitSummary } from '../visits/types';
 import { VisitSummarySection } from './VisitSummarySection';
 import { typography } from '../../styles/typography';
