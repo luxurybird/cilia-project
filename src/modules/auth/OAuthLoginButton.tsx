@@ -9,6 +9,7 @@ import { Image, ImageSourcePropType, StyleSheet } from 'react-native';
 
 import { colors } from '../../styles/colors';
 
+
 import { ButtonProps, OutlinedButton } from '../../components/buttons';
 
 const styles = StyleSheet.create({
