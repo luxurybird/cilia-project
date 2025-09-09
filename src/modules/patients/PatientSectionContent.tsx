@@ -22,6 +22,7 @@ const styles = StyleSheet.create({
 });
 
 interface PatientSectionContentProps {
+
   children: ReactNode;
   // TODO: Improve this section
 }

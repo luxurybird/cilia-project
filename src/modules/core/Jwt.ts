@@ -22,6 +22,7 @@ interface CiliaJwtPayload extends SelectiveRequired<JwtPayload, 'iss' | 'exp'> {
   roles: string[];
 }
 
+
 export class Jwt {
   static parse(encodedToken: string): Jwt | null {
     try {
