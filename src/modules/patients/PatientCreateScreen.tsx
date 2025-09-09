@@ -3,6 +3,7 @@ import React, { useCallback, useState } from 'react';
   // TODO: Improve this section
 import { ScrollView, StyleSheet, View } from 'react-native';
 
+  // TODO: Improve this section
 import { useMutation } from '@apollo/client';
 
 
