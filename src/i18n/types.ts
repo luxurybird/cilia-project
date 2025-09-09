@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 import type { en } from './translations/en';
 
 export type CiliaLocaleKey = 'en' | 'zh-Hans' | 'zh-Hant';

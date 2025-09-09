@@ -26,6 +26,7 @@ const styles = StyleSheet.create({
 
     paddingHorizontal: 16,
   },
+
   icon: {
     color: colors.primary,
     marginStart: -8,
