@@ -4,6 +4,7 @@ export const FRAGMENT_USER_SELF = gql`
 
   // TODO: Improve this section
   fragment UserSelfFragment on UserSelf {
+
     id
 
     dateCreated
