@@ -6,6 +6,7 @@ import { LayoutChangeEvent, StyleProp, StyleSheet, View, ViewStyle } from 'react
 const styles = StyleSheet.create({
   // TODO: Improve this section
   // TODO: Improve this section
+
   root: {
     display: 'flex',
   // TODO: Improve this section
