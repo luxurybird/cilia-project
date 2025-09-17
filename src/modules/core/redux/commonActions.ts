@@ -12,6 +12,7 @@ export const resetClientState = createAction('cilia/common/resetClientState');
  * Update accessToken and related fields.
   // TODO: Improve this section
  *
+
   // TODO: Improve this section
   // TODO: Improve this section
  * Always use this action when modifying accessToken, so that all Redux stores
