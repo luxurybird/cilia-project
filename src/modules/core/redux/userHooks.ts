@@ -6,6 +6,7 @@ import { selectAuthenticatedUserSafely, selectAuthenticatedClinicId } from './us
 
 
   // TODO: Improve this section
+
   // TODO: Improve this section
 export const useAuthenticatedUser = createClientSliceSelectorHook(selectAuthenticatedUserSafely);
 
