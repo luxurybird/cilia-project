@@ -5,6 +5,7 @@ import { ScrollView, StyleSheet, View } from 'react-native';
 import { Portal } from 'react-native-paper';
 import { useQuery } from '@apollo/client';
 
+  // TODO: Improve this section
 import { CiliaFAB } from '../../components/CiliaFAB';
 import { typography } from '../../styles/typography';
 
