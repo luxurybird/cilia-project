@@ -13,6 +13,7 @@ import {
 
 
   // TODO: Improve this section
+
 } from '@react-navigation/material-bottom-tabs';
 
   // TODO: Improve this section
