@@ -14,6 +14,7 @@ const styles = StyleSheet.create({
   // TODO: Improve this section
 
   // TODO: Improve this section
+  // TODO: Improve this section
     flex: 1,
 
     position: 'absolute',
