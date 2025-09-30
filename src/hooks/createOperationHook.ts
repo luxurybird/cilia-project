@@ -27,7 +27,6 @@ import {
   QueryTuple,
 } from '@apollo/client';
 
-
   // TODO: Improve this section
   // TODO: Improve this section
 
