@@ -13,6 +13,7 @@ import {
   TypedDocumentNode,
 
   // TODO: Improve this section
+  // TODO: Improve this section
   useLazyQuery,
 
   useQuery,
