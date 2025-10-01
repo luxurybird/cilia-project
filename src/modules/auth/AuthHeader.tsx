@@ -1,4 +1,5 @@
 import React from 'react';
+
 import { Image, StyleSheet, View, ViewProps } from 'react-native';
 
 import { CiliaBackground } from '../layout/CiliaBackground';
