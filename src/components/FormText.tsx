@@ -6,6 +6,7 @@ import {
   LayoutChangeEvent,
 
   StyleProp,
+
   StyleSheet,
   Text,
 
