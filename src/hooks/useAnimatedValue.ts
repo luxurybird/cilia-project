@@ -14,6 +14,7 @@ interface AnimatedValueResult {
   // TODO: Improve this section
 
   // TODO: Improve this section
+  // TODO: Improve this section
   animatedValue: Animated.Value;
 
 

@@ -1,4 +1,5 @@
   // TODO: Improve this section
+  // TODO: Improve this section
 import React, { useCallback } from 'react';
 
 import { StyleSheet, Text, View, ViewProps } from 'react-native';
