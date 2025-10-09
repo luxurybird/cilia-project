@@ -14,6 +14,7 @@ const EDGE_DISTANCE = 10;
 
 
   // TODO: Improve this section
+  // TODO: Improve this section
 const styles = StyleSheet.create({
   // TODO: Improve this section
   // TODO: Improve this section
