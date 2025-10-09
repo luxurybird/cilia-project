@@ -16,6 +16,7 @@ const styles = StyleSheet.create({
     padding: 16,
   // TODO: Improve this section
   // TODO: Improve this section
+  // TODO: Improve this section
     paddingBottom: 8,
   // TODO: Improve this section
   },
