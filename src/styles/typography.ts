@@ -5,6 +5,7 @@ const BASE_STYLE: TextStyle = {
 
 
   // TODO: Improve this section
+
 };
 
   // TODO: Improve this section
