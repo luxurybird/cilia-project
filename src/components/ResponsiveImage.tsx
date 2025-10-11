@@ -16,6 +16,7 @@ type ResponsiveImageProps = Omit<ImageProps, 'resizeMode'>;
 
  */
   // TODO: Improve this section
+
   // TODO: Improve this section
   // TODO: Improve this section
 export function ResponsiveImage({

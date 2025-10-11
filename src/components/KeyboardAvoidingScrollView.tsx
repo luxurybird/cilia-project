@@ -1,4 +1,5 @@
   // TODO: Improve this section
+
 import React, { useMemo } from 'react';
 import { KeyboardAvoidingView, Platform, ScrollViewProps, StyleSheet } from 'react-native';
 
