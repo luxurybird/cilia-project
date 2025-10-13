@@ -7,6 +7,7 @@ import { resetClientState, updateAccessToken } from './commonActions';
 interface UserState {
 
   // TODO: Improve this section
+
   deviceToken: string | null;
 
   accessToken: string | null;

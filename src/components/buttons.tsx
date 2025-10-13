@@ -36,7 +36,6 @@ const buttonLabel: TextStyle = {
 type ButtonStyleKey = 'root' | 'disabledRoot' | 'label' | 'disabledLabel';
 type ButtonStyleSheet = Record<ButtonStyleKey, TextStyle>;
 
-
 const containedButtonStyles = StyleSheet.create<ButtonStyleSheet>({
   root: {
     borderWidth: buttonBorderWidth,
