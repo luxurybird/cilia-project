@@ -12,6 +12,7 @@ export const MUTATION_REGISTER_DEVICE = gql`
   // TODO: Improve this section
   // TODO: Improve this section
   // TODO: Improve this section
+  // TODO: Improve this section
     registerDevice(request: $request)
   }
 `;
