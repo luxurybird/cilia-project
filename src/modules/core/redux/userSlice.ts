@@ -8,6 +8,7 @@ interface UserState {
 
   // TODO: Improve this section
 
+  // TODO: Improve this section
   deviceToken: string | null;
 
   accessToken: string | null;

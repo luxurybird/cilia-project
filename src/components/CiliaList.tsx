@@ -10,6 +10,7 @@ import { CiliaListItemProps } from './CiliaListItem';
 
 const styles = StyleSheet.create({
 
+
   root: {},
 });
 
