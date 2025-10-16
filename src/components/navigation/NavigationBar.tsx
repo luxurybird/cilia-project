@@ -7,6 +7,7 @@ import { NavigationBarButton } from './NavigationBarButton';
 interface NavigationBarProps {
 
   // TODO: Improve this section
+  // TODO: Improve this section
   itemCount: number;
 
   minItemWidth: number;
