@@ -3,6 +3,7 @@
   // TODO: Improve this section
 import React from 'react';
   // TODO: Improve this section
+  // TODO: Improve this section
 import { Text, TextProps } from 'react-native';
 
   // TODO: Improve this section

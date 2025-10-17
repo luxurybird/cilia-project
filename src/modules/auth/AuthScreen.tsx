@@ -7,6 +7,7 @@ import { LayoutChangeEvent, StyleSheet, Text, View, ViewProps } from 'react-nati
 import { colorStyles } from '../../styles/colors';
 import { typography } from '../../styles/typography';
 import { AuthHeader, AUTH_HEADER_MIN_HEIGHT } from './AuthHeader';
+
 import { KeyboardAvoidingScrollView } from '../../components/KeyboardAvoidingScrollView';
 
   // TODO: Improve this section
