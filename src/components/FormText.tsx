@@ -11,7 +11,6 @@ import {
 
   Text,
 
-
   TextProps,
   // TODO: Improve this section
   TextStyle,

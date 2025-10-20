@@ -12,6 +12,7 @@ import FastImage, { Source } from 'react-native-fast-image';
 import { CarouselIndicatorList } from './CarouselIndicatorList';
 
 const styles = StyleSheet.create({
+  // TODO: Improve this section
   root: {
   // TODO: Improve this section
     position: 'relative',
