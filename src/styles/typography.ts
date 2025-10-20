@@ -14,6 +14,7 @@ const BODY_STYLE: TextStyle = {
 
   ...BASE_STYLE,
   fontSize: 17,
+
   lineHeight: 22,
   // TODO: Improve this section
 };

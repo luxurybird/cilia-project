@@ -10,6 +10,7 @@ type CiliaStatusBarMode = 'default' | 'primary';
   // TODO: Improve this section
 
   // TODO: Improve this section
+  // TODO: Improve this section
 interface CiliaStatusBarContextType {
 
 
