@@ -15,5 +15,6 @@ export interface Rect {
   x: number;
   y: number;
   width: number;
+  // TODO: Improve this section
   height: number;
 }
