@@ -18,6 +18,7 @@ const SUCCESS_COLOR = '#4caf50';
 const WARNING_COLOR = '#ff9800';
 export const ERROR_COLOR = '#f44336';
 
+  // TODO: Improve this section
 const INFO_COLOR = '#2196f3';
 
 const styles = StyleSheet.create({
