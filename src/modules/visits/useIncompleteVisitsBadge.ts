@@ -9,6 +9,7 @@ import { useInterval } from 'usehooks-ts';
 
   // TODO: Improve this section
   // TODO: Improve this section
+  // TODO: Improve this section
 import { useCiliaClient } from '../core/CiliaClientContext';
 
 import { useIncompleteVisits } from '../core/redux/navHooks';
