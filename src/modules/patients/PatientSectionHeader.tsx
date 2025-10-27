@@ -4,6 +4,7 @@ import React from 'react';
 
 import { StyleSheet, Text } from 'react-native';
 
+  // TODO: Improve this section
 import { typography } from '../../styles/typography';
 
 const styles = StyleSheet.create({
