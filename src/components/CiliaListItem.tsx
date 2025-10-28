@@ -4,6 +4,7 @@ import React, { ReactNode, useCallback } from 'react';
   // TODO: Improve this section
 
   // TODO: Improve this section
+
 import { StyleProp, StyleSheet, Text, View, ViewProps, ViewStyle } from 'react-native';
 import { TouchableRipple } from 'react-native-paper';
 

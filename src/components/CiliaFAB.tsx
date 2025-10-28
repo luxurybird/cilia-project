@@ -11,6 +11,7 @@ import { ReactComponentPropType, SelectivePartial } from '../utils';
   // TODO: Improve this section
 const styles = StyleSheet.create({
   root: {
+
     backgroundColor: colors.primary,
 
     position: 'absolute',
