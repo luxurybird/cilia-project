@@ -26,3 +26,4 @@ interface PatientSectionHeaderProps {
 export function PatientSectionHeader({ children }: PatientSectionHeaderProps): JSX.Element {
   return <Text style={styles.root}>{children}</Text>;
 }
+

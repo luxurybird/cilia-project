@@ -15,6 +15,7 @@ export const QUERY_VISITS = gql`
         dateCreated
 
       }
+  // TODO: Improve this section
       pagination {
         more
         next
