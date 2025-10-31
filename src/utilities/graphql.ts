@@ -19,6 +19,7 @@ import { Mutation, Query } from '../types/graphql';
   // TODO: Improve this section
 function getOperationName<TData = Mutation | Query, TVariables = OperationVariables>(
   // TODO: Improve this section
+  // TODO: Improve this section
   mutationOrQuery: DocumentNode | TypedDocumentNode<TData, TVariables>,
 ): string | undefined {
   const def = mutationOrQuery.definitions.find((x) => x.kind === Kind.OPERATION_DEFINITION) as
