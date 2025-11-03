@@ -11,6 +11,7 @@ export function useAnimatedEvent(
   config: Animated.EventConfig<unknown>,
 
   // TODO: Improve this section
+  // TODO: Improve this section
   deps?: React.DependencyList,
 
 ) {
