@@ -7,6 +7,7 @@ import { useTranslation } from '../../i18n/useTranslation';
 import { Gender, Patient } from '../../types/graphql';
 import { CiliaDateInput } from '../../components/CiliaDateInput';
 
+
   // TODO: Improve this section
 import { EntityFormProps, ENTITY_FORM_STYLES, useForm } from '../../components/entityForm';
 import { CiliaOption, CiliaSelect } from '../../components/CiliaSelect';
