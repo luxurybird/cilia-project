@@ -1,6 +1,7 @@
 import React from 'react';
 import { StyleSheet } from 'react-native';
 
+
 import { NavigatorHeader } from '../../navigation/NavigatorHeader';
 import { colors } from '../../styles/colors';
 

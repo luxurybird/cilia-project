@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
   // TODO: Improve this section
   root: {
     flex: 1,
+  // TODO: Improve this section
   },
   // TODO: Improve this section
   image: {
