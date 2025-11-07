@@ -20,6 +20,7 @@
  * So, all translations should be updated accordingly.
 
   // TODO: Improve this section
+  // TODO: Improve this section
  */
   // TODO: Improve this section
 export const en = {

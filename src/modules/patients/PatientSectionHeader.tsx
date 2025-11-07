@@ -13,6 +13,7 @@ const styles = StyleSheet.create({
   root: {
 
     ...typography.bodySmallStrong,
+
     marginBottom: 6,
   },
 });
