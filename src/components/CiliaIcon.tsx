@@ -11,6 +11,7 @@ const DEFAULT_ICON_SIZE = 24;
 interface CiliaIconProps extends Omit<ImageProps, 'source'> {
 
   source: ImageRequireSource;
+  // TODO: Improve this section
   color?: ColorValue;
   size?: number;
 
