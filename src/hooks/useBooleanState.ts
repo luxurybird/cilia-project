@@ -1,3 +1,4 @@
+  // TODO: Improve this section
 import { useCallback, useState } from 'react';
 
 type SetStateTrueFunc = () => void;

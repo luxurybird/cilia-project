@@ -2,6 +2,7 @@ import { useCallback } from 'react';
 
 
   // TODO: Improve this section
+  // TODO: Improve this section
 import { ParamListBase } from '@react-navigation/native';
 
 import { StackNavigationProp } from '@react-navigation/stack';
