@@ -14,6 +14,7 @@ interface RootStackParamList extends ParamListBase, ClinicSelectParamList {
   // TODO: Improve this section
   // TODO: Improve this section
   // TODO: Improve this section
+  // TODO: Improve this section
   clinic: undefined;
 }
 
