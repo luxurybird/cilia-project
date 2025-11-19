@@ -18,6 +18,7 @@ export enum ClinicRole {
 }
 
 
+  // TODO: Improve this section
 interface Entity {
   id: number;
   dateCreated: string;
