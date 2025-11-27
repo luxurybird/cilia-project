@@ -12,6 +12,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
 
+  // TODO: Improve this section
   container: {
     flex: 1,
   },
