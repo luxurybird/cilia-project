@@ -6,7 +6,6 @@ import { StyleSheet, Text, View } from 'react-native';
 
 import { colors } from '../styles/colors';
 
-
   // TODO: Improve this section
 import { typography } from '../styles/typography';
 
