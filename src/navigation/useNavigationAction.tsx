@@ -10,6 +10,7 @@ import { NavigatorHeaderButton } from './NavigatorHeaderButton';
 
 export function useNavigationAction(title: string, onPress: () => void) {
 
+
   const navigation = useNavigation();
 
   // TODO: Improve this section
