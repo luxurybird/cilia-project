@@ -1,0 +1,29 @@
+import React from 'react';
+import { StyleSheet, Text, View } from 'react-native';
+
+import { colors } from '../styles/colors';
+import { typography } from '../styles/typography';
+
+const styles = StyleSheet.create({
+  root: {
+    backgroundColor: '#F6F7FB',
+    padding: 16,
+    paddingBottom: 8,
+  },
+  text: {
+    ...typography.titles,
+    color: colors.darkGrey,
+  },
+});
+
+interface SectionHeaderProps {
+  children: string;
+}
+
+export function SectionHeader({ children }: SectionHeaderProps): JSX.Element {
+  return (
+    <View style={styles.root}>
+      <Text style={styles.text}>{children}</Text>
+    </View>
+  );
+}

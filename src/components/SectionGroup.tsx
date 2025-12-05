@@ -1,0 +1,43 @@
+import React, { Key, useCallback, useState, ReactNode, ReactElement, cloneElement } from 'react';
+import { View } from 'react-native';
+
+import { flattenChildren } from '../utilities/reactHelpers';
+import { SectionHeader } from './SectionHeader';
+import { SectionItem, SectionItemProps } from './SectionItem';
+
+interface SectionGroupProps {
+  title?: string;
+  children: ReactNode;
+}
+
+export function SectionGroup({ title, children }: SectionGroupProps): JSX.Element {
+  const [visibleActionKey, setVisibleActionKey] = useState<Key | null>();
+
+  const childrenArray = flattenChildren(children, [SectionItem]);
+
+  const handleHideAction = useCallback(() => {
+    setVisibleActionKey(null);
+  }, []);
+
+  const renderItem = useCallback(
+    (child: ReactNode, index: number) => {
+      const elem = child as ReactElement<SectionItemProps>;
+      const isLast = index === childrenArray.length - 1;
+
+      return cloneElement(elem, {
+        actionVisible: elem.key === visibleActionKey,
+        isLast,
+        onShowAction: () => setVisibleActionKey(elem.key),
+        onHideAction: handleHideAction,
+      });
+    },
+    [childrenArray.length, handleHideAction, visibleActionKey],
+  );
+
+  return (
+    <View>
+      {title && <SectionHeader>{title}</SectionHeader>}
+      {childrenArray.map(renderItem)}
+    </View>
+  );
+}

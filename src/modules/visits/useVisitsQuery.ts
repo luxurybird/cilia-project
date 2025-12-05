@@ -1,0 +1,18 @@
+import { createQueryAndLazyQueryHooksWithCompletion } from '../../hooks/createQueryHook';
+import { QueryVisits, QueryVisitsArgs } from '../../types/graphql';
+import { updateIncompleteVisits } from '../core/redux/navSlice';
+import { QUERY_VISITS } from './operations';
+
+// eslint-disable-next-line import/no-unused-modules
+export const [useVisitsQuery, useVisitsLazyQuery] = createQueryAndLazyQueryHooksWithCompletion<
+  QueryVisits,
+  QueryVisitsArgs
+>(QUERY_VISITS, {
+  onCompleted: (data, client) => {
+    // TODO: Only count incomplete visits
+    const visits = data?.visits?.results;
+    if (visits != null) {
+      client.store.dispatch(updateIncompleteVisits(visits.length));
+    }
+  },
+});

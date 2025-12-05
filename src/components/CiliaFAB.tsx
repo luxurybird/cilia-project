@@ -1,0 +1,31 @@
+import React from 'react';
+import { StyleSheet } from 'react-native';
+import { FAB } from 'react-native-paper';
+
+import { colors } from '../styles/colors';
+import { ReactComponentPropType, SelectivePartial } from '../utils';
+
+const styles = StyleSheet.create({
+  root: {
+    backgroundColor: colors.primary,
+    position: 'absolute',
+    margin: 16,
+    right: 0,
+    bottom: 0,
+  },
+});
+
+type FABProps = ReactComponentPropType<typeof FAB>;
+type CiliaFABProps = SelectivePartial<FABProps, 'icon'>;
+
+export function CiliaFAB({ color, icon, style, ...props }: CiliaFABProps): JSX.Element {
+  return (
+    // Only color and icon overridable
+    <FAB
+      {...props}
+      color={color ?? colors.white}
+      icon={icon ?? 'plus'}
+      style={[styles.root, style]}
+    />
+  );
+}

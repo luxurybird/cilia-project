@@ -1,0 +1,39 @@
+{
+  "endpoints": {
+    "platform": {
+      "staging": "https://platformapi-staging.possiblyfaulty.com/graphql"
+    }
+  },
+  "scalars": {
+    "AccessToken": "string",
+    "ApiKey": "unknown",
+    "BigDecimal": "number",
+    "EmailAddress": "string",
+    "FlowAddress": "string",
+    "FlowId": "string",
+    "Id": "string",
+    "JSON": "unknown",
+    "JWT": "string",
+    "Latitude": "number",
+    "LocalDate": "string",
+    "LocalDateTime": "string",
+    "Locale": "string",
+    "Longitude": "number",
+    "NegativeFloat": "number",
+    "NegativeInt": "number",
+    "NonNegativeFloat": "number",
+    "NonNegativeInt": "number",
+    "NonPositiveFloat": "number",
+    "NonPositiveInt": "number",
+    "Object": "unknown",
+    "PhoneNumber": "string",
+    "PositiveFloat": "number",
+    "PositiveInt": "number",
+    "Sid": "string",
+    "Time": "string",
+    "Upload": "unknown",
+    "Url": "string",
+    "ZonedDateTime": "string",
+    "_FieldSet": "unknown"
+  }
+}

@@ -1,0 +1,96 @@
+import React, {
+  Children,
+  cloneElement,
+  isValidElement,
+  ReactElement,
+  ReactNode,
+  useCallback,
+  useMemo,
+} from 'react';
+import { StyleSheet } from 'react-native';
+import { Modal } from 'react-native-paper';
+import { SafeAreaInsetsContext, SafeAreaProvider } from 'react-native-safe-area-context';
+
+import { Color, colors } from '../styles/colors';
+
+import { ButtonProps, TextButton } from './buttons';
+
+const styles = StyleSheet.create({
+  root: {
+    justifyContent: 'flex-end',
+    marginBottom: 0,
+  },
+  content: {
+    paddingHorizontal: 16,
+  },
+  button: {
+    backgroundColor: colors.white,
+    marginBottom: 16,
+  },
+});
+
+interface ActionSheetButtonProps extends Pick<ButtonProps, 'onPress'> {
+  color?: Extract<Color, 'primary' | 'red'>;
+  children: string;
+}
+
+export function ActionSheetButton({
+  color = 'primary',
+  children,
+  ...props
+}: ActionSheetButtonProps): JSX.Element {
+  const labelStyle = useMemo(
+    () => ({
+      color: colors[color],
+    }),
+    [color],
+  );
+
+  return (
+    <TextButton {...props} style={styles.button} labelStyle={labelStyle}>
+      {children}
+    </TextButton>
+  );
+}
+
+interface ActionSheetProps {
+  visible: boolean;
+  children?: ReactElement<ActionSheetButtonProps> | ReactElement<ActionSheetButtonProps>[];
+  onDismiss?: () => void;
+}
+
+export function ActionSheet({
+  visible,
+  children,
+  onDismiss,
+}: ActionSheetProps): JSX.Element | null {
+  const renderChild = useCallback(
+    (elem: ReactNode) => (isValidElement(elem) ? cloneElement(elem, {}) : null),
+    [],
+  );
+
+  // FIXME: Find a way to enable animations on show/hide while fixing overlay issue
+  if (!visible) {
+    return null;
+  }
+
+  return (
+    <SafeAreaProvider>
+      <SafeAreaInsetsContext.Consumer>
+        {(insets) => (
+          <Modal
+            visible={visible}
+            style={styles.root}
+            contentContainerStyle={{
+              ...styles.content,
+              paddingBottom: insets?.bottom,
+            }}
+            onDismiss={onDismiss}
+          >
+            {Children.toArray(children).map(renderChild)}
+          </Modal>
+        )}
+      </SafeAreaInsetsContext.Consumer>
+    </SafeAreaProvider>
+  );
+}

@@ -1,0 +1,53 @@
+import React, { Key, useMemo } from 'react';
+import dayjs from 'dayjs';
+
+import { CiliaList, CiliaListProps } from '../../components/CiliaList';
+import { CiliaListItem, CiliaListItemProps } from '../../components/CiliaListItem';
+import { formatDate, formatTime } from '../../utils';
+import { Prescription } from '../../types/graphql';
+
+type PrescriptionSummary = Pick<Prescription, 'id' | 'dateCreated'>;
+
+interface PrescriptionListProps extends CiliaListProps {
+  loading?: boolean;
+  prescriptions?: PrescriptionSummary[] | null;
+  onPress: (lensOrder: PrescriptionSummary) => void;
+}
+
+export function PrescriptionList({
+  loading,
+  prescriptions,
+  onPress,
+  ...props
+}: PrescriptionListProps): JSX.Element {
+  const listProps = useMemo<(CiliaListItemProps & { key: Key })[] | null | undefined>(
+    () =>
+      prescriptions?.map((prescription) => {
+        const dateObj = dayjs(prescription.dateCreated);
+        const itemTitle = formatDate(dateObj);
+        const description = formatTime(dateObj);
+
+        return {
+          key: prescription.id,
+          title: itemTitle,
+          description,
+          onPress: () => onPress(prescription),
+        };
+      }),
+    [prescriptions, onPress],
+  );
+
+  return (
+    <CiliaList {...props}>
+      {loading ? (
+        <>
+          <CiliaListItem loading />
+          <CiliaListItem loading />
+          <CiliaListItem loading />
+        </>
+      ) : (
+        listProps?.map(({ key, ...itemProps }) => <CiliaListItem key={key} {...itemProps} />)
+      )}
+    </CiliaList>
+  );
+}
