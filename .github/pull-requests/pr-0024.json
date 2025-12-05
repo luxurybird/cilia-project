@@ -1,0 +1,19 @@
+{
+  "number": 24,
+  "title": "Add English translations",
+  "description": "Refactors settings to improve code maintainability.",
+  "author": "luxurybird",
+  "created_at": "2025-03-08T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "reviewer2"
+  ],
+  "comments": [
+    {
+      "reviewer": "reviewer2",
+      "comment": "Looks good. Maybe add some documentation?",
+      "approved": true,
+      "date": "2025-03-08T18:00:00"
+    }
+  ]
+}

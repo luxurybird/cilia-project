@@ -1,0 +1,33 @@
+{
+  "number": 19,
+  "title": "Improve navigation error handling",
+  "description": "This PR adds attachment to improve user experience.",
+  "author": "luxurybird",
+  "created_at": "2024-11-15T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "reviewer2",
+    "reviewer2",
+    "reviewer1"
+  ],
+  "comments": [
+    {
+      "reviewer": "reviewer2",
+      "comment": "Nice work! Consider extracting this into a separate function.",
+      "approved": false,
+      "date": "2024-11-15T15:00:00"
+    },
+    {
+      "reviewer": "reviewer2",
+      "comment": "Nice! Could you update the types here?",
+      "approved": false,
+      "date": "2024-11-15T20:00:00"
+    },
+    {
+      "reviewer": "reviewer1",
+      "comment": "Looks good. Maybe add some documentation?",
+      "approved": true,
+      "date": "2024-11-16T07:00:00"
+    }
+  ]
+}

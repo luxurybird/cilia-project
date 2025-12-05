@@ -1,0 +1,19 @@
+{
+  "number": 17,
+  "title": "Refactor hooks code",
+  "description": "Fixes bug where crash was occurring on Android.",
+  "author": "luxurybird",
+  "created_at": "2024-06-06T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "dev-team"
+  ],
+  "comments": [
+    {
+      "reviewer": "dev-team",
+      "comment": "Nice work! Consider extracting this into a separate function.",
+      "approved": true,
+      "date": "2024-06-07T21:00:00"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "number": 5,
+  "title": "Add tests for patients",
+  "description": "Adds support for OAuth as requested in issue #1.",
+  "author": "luxurybird",
+  "created_at": "2023-02-12T00:00:00",
+  "state": "open",
+  "reviewers": [
+    "dev-team"
+  ],
+  "comments": [
+    {
+      "reviewer": "dev-team",
+      "comment": "Looks good. Maybe add some documentation?",
+      "approved": false,
+      "date": "2023-02-13T11:00:00"
+    }
+  ]
+}

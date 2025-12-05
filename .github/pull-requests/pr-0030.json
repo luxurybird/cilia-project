@@ -1,0 +1,26 @@
+{
+  "number": 30,
+  "title": "Fix error bug",
+  "description": "Implements patient details with proper error handling.",
+  "author": "luxurybird",
+  "created_at": "2025-08-01T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "dev-team",
+    "reviewer2"
+  ],
+  "comments": [
+    {
+      "reviewer": "dev-team",
+      "comment": "Good implementation. Maybe add some error handling here?",
+      "approved": false,
+      "date": "2025-08-01T14:00:00"
+    },
+    {
+      "reviewer": "reviewer2",
+      "comment": "Looks good to me. One small thing - could we use a constant here?",
+      "approved": true,
+      "date": "2025-08-01T19:00:00"
+    }
+  ]
+}

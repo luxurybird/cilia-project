@@ -1,0 +1,19 @@
+{
+  "number": 12,
+  "title": "Fix error in visits",
+  "description": "Updates dependencies to latest versions for security.",
+  "author": "luxurybird",
+  "created_at": "2024-03-22T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "dev-team"
+  ],
+  "comments": [
+    {
+      "reviewer": "dev-team",
+      "comment": "This is good. Consider adding a test case for this edge case.",
+      "approved": true,
+      "date": "2024-03-22T05:00:00"
+    }
+  ]
+}

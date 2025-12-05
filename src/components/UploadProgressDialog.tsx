@@ -4,7 +4,10 @@ import { StyleSheet } from 'react-native';
 import { Button, Dialog, Paragraph, Portal, ProgressBar } from 'react-native-paper';
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> feature/pr-1
 const styles = StyleSheet.create({
 
   progress: {

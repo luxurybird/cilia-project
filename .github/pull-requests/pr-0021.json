@@ -1,0 +1,26 @@
+{
+  "number": 21,
+  "title": "Improve components performance",
+  "description": "This PR adds clinic list to improve user experience.",
+  "author": "luxurybird",
+  "created_at": "2025-01-17T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "dev-team",
+    "reviewer2"
+  ],
+  "comments": [
+    {
+      "reviewer": "dev-team",
+      "comment": "Looks good! Just a minor suggestion.",
+      "approved": false,
+      "date": "2025-01-17T10:00:00"
+    },
+    {
+      "reviewer": "reviewer2",
+      "comment": "Perfect! Ready to merge.",
+      "approved": true,
+      "date": "2025-01-17T21:00:00"
+    }
+  ]
+}

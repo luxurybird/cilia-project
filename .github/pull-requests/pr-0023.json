@@ -1,0 +1,19 @@
+{
+  "number": 23,
+  "title": "Enhance CiliaListItem UI",
+  "description": "Implements login with proper error handling.",
+  "author": "luxurybird",
+  "created_at": "2025-03-05T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "reviewer2"
+  ],
+  "comments": [
+    {
+      "reviewer": "reviewer2",
+      "comment": "Looks good! Just a minor suggestion.",
+      "approved": true,
+      "date": "2025-03-05T02:00:00"
+    }
+  ]
+}

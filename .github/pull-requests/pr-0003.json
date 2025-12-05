@@ -1,0 +1,19 @@
+{
+  "number": 3,
+  "title": "Fix crash in patients",
+  "description": "Adds support for profile as requested in issue #15.",
+  "author": "luxurybird",
+  "created_at": "2023-01-16T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "dev-team"
+  ],
+  "comments": [
+    {
+      "reviewer": "dev-team",
+      "comment": "This looks great. Could you add a comment here?",
+      "approved": true,
+      "date": "2023-01-16T20:00:00"
+    }
+  ]
+}

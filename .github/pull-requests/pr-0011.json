@@ -1,0 +1,19 @@
+{
+  "number": 11,
+  "title": "Fix crash bug",
+  "description": "Fixes error that was causing problems for users.",
+  "author": "luxurybird",
+  "created_at": "2023-12-09T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "reviewer2"
+  ],
+  "comments": [
+    {
+      "reviewer": "reviewer2",
+      "comment": "Looks good to me. One small thing - could we use a constant here?",
+      "approved": true,
+      "date": "2023-12-10T02:00:00"
+    }
+  ]
+}

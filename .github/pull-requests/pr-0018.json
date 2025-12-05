@@ -1,0 +1,33 @@
+{
+  "number": 18,
+  "title": "Add Japanese translations",
+  "description": "This PR adds form validation to improve user experience.",
+  "author": "luxurybird",
+  "created_at": "2024-10-02T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "dev-team",
+    "reviewer2",
+    "reviewer2"
+  ],
+  "comments": [
+    {
+      "reviewer": "dev-team",
+      "comment": "Good work. Consider using a more descriptive variable name.",
+      "approved": false,
+      "date": "2024-10-03T15:00:00"
+    },
+    {
+      "reviewer": "reviewer2",
+      "comment": "Good implementation. Maybe add some error handling here?",
+      "approved": false,
+      "date": "2024-10-03T19:00:00"
+    },
+    {
+      "reviewer": "reviewer2",
+      "comment": "Nice work! Consider extracting this into a separate function.",
+      "approved": true,
+      "date": "2024-10-04T02:00:00"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "number": 7,
+  "title": "Add patient details functionality",
+  "description": "Updates CiliaFAB to match new design requirements.",
+  "author": "luxurybird",
+  "created_at": "2023-04-27T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "reviewer1",
+    "reviewer2",
+    "reviewer2"
+  ],
+  "comments": [
+    {
+      "reviewer": "reviewer1",
+      "comment": "Nice work! Consider extracting this into a separate function.",
+      "approved": false,
+      "date": "2023-04-27T16:00:00"
+    },
+    {
+      "reviewer": "reviewer2",
+      "comment": "Good implementation. Maybe add some error handling here?",
+      "approved": false,
+      "date": "2023-04-27T19:00:00"
+    },
+    {
+      "reviewer": "reviewer2",
+      "comment": "Looks great! Just need to handle the null case.",
+      "approved": true,
+      "date": "2023-04-28T02:00:00"
+    }
+  ]
+}

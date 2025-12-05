@@ -1,0 +1,26 @@
+{
+  "number": 20,
+  "title": "Fix crash in hooks",
+  "description": "Improves performance of visits by optimizing queries.",
+  "author": "luxurybird",
+  "created_at": "2025-01-02T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "reviewer2",
+    "reviewer1"
+  ],
+  "comments": [
+    {
+      "reviewer": "reviewer2",
+      "comment": "This is good. Consider adding a test case for this edge case.",
+      "approved": false,
+      "date": "2025-01-03T15:00:00"
+    },
+    {
+      "reviewer": "reviewer1",
+      "comment": "Looks good to me. One small thing - could we use a constant here?",
+      "approved": true,
+      "date": "2025-01-03T18:00:00"
+    }
+  ]
+}

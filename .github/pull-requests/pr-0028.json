@@ -1,0 +1,26 @@
+{
+  "number": 28,
+  "title": "Add patient form functionality",
+  "description": "This PR adds visit tracking to improve user experience.",
+  "author": "luxurybird",
+  "created_at": "2025-07-11T00:00:00",
+  "state": "open",
+  "reviewers": [
+    "reviewer1",
+    "reviewer1"
+  ],
+  "comments": [
+    {
+      "reviewer": "reviewer1",
+      "comment": "This is good. Consider adding a test case for this edge case.",
+      "approved": false,
+      "date": "2025-07-11T11:00:00"
+    },
+    {
+      "reviewer": "reviewer1",
+      "comment": "This looks great. Could you add a comment here?",
+      "approved": false,
+      "date": "2025-07-11T22:00:00"
+    }
+  ]
+}

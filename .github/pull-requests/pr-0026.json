@@ -1,0 +1,33 @@
+{
+  "number": 26,
+  "title": "Update iOS configuration",
+  "description": "Refactors navigation to improve code maintainability.",
+  "author": "luxurybird",
+  "created_at": "2025-06-24T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "reviewer1",
+    "dev-team",
+    "dev-team"
+  ],
+  "comments": [
+    {
+      "reviewer": "reviewer1",
+      "comment": "This is good. Consider adding a test case for this edge case.",
+      "approved": false,
+      "date": "2025-06-24T06:00:00"
+    },
+    {
+      "reviewer": "dev-team",
+      "comment": "This is good. Consider adding a test case for this edge case.",
+      "approved": false,
+      "date": "2025-06-24T12:00:00"
+    },
+    {
+      "reviewer": "dev-team",
+      "comment": "Great! Just need to fix the linting error.",
+      "approved": true,
+      "date": "2025-06-24T22:00:00"
+    }
+  ]
+}

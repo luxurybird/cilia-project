@@ -1,0 +1,26 @@
+{
+  "number": 13,
+  "title": "Add tests for components",
+  "description": "Updates CiliaDateInput to match new design requirements.",
+  "author": "luxurybird",
+  "created_at": "2024-03-18T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "reviewer2",
+    "dev-team"
+  ],
+  "comments": [
+    {
+      "reviewer": "reviewer2",
+      "comment": "Looks great! Just need to handle the null case.",
+      "approved": false,
+      "date": "2024-03-19T13:00:00"
+    },
+    {
+      "reviewer": "dev-team",
+      "comment": "Nice work! Consider extracting this into a separate function.",
+      "approved": true,
+      "date": "2024-03-19T20:00:00"
+    }
+  ]
+}

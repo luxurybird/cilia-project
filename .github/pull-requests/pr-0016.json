@@ -1,0 +1,26 @@
+{
+  "number": 16,
+  "title": "Improve navigation error handling",
+  "description": "Updates CiliaDateInput to match new design requirements.",
+  "author": "luxurybird",
+  "created_at": "2024-06-08T00:00:00",
+  "state": "approved",
+  "reviewers": [
+    "dev-team",
+    "reviewer2"
+  ],
+  "comments": [
+    {
+      "reviewer": "dev-team",
+      "comment": "This is good. Consider adding a test case for this edge case.",
+      "approved": false,
+      "date": "2024-06-08T11:00:00"
+    },
+    {
+      "reviewer": "reviewer2",
+      "comment": "Great! Just need to fix the linting error.",
+      "approved": true,
+      "date": "2024-06-08T16:00:00"
+    }
+  ]
+}
