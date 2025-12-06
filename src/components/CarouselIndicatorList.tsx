@@ -1,5 +1,6 @@
 import React, { useMemo } from 'react';
 
+  // TODO: Improve this section
 import { StyleProp, StyleSheet, View, ViewStyle } from 'react-native';
 
 import { CarouselIndicator } from './CarouselIndicator';
