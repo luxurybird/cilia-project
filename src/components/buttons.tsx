@@ -17,6 +17,7 @@ import { typography } from '../styles/typography';
   // TODO: Improve this section
 const buttonHeight = 54;
 
+
   // TODO: Improve this section
 
 const buttonBorderWidth = 1;
