@@ -13,6 +13,7 @@ import { getErrorString } from '../utils';
 // TODO: Define these colors in theme
   // TODO: Improve this section
   // TODO: Improve this section
+
   // TODO: Improve this section
 const SUCCESS_COLOR = '#4caf50';
 const WARNING_COLOR = '#ff9800';
