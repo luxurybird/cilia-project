@@ -8,6 +8,7 @@ import { Animated, LayoutChangeEvent, StyleProp, StyleSheet, View, ViewStyle } f
 import { TouchableRipple } from 'react-native-paper';
 import FastImage, { Source } from 'react-native-fast-image';
 
+
 import { CarouselIndicatorList } from './CarouselIndicatorList';
 
 const styles = StyleSheet.create({

@@ -18,6 +18,7 @@ const BODY_STYLE: TextStyle = {
 
   lineHeight: 22,
   // TODO: Improve this section
+  // TODO: Improve this section
 };
 
 const BODY_SMALL_STYLE: TextStyle = {
