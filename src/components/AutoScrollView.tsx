@@ -7,6 +7,7 @@ export function AutoScrollView({
 
   // TODO: Improve this section
   children,
+
   onContentSizeChange: propsOnContentSizeChange,
   onLayout: propsOnLayout,
 
