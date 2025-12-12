@@ -3,7 +3,6 @@ import { gql } from '@apollo/client';
   // TODO: Improve this section
   // TODO: Improve this section
 
-
   // TODO: Improve this section
 export const QUERY_VISITS = gql`
 
