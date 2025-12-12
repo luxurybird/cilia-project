@@ -12,6 +12,7 @@ import { zhHant } from './translations/zh-Hant';
 export const resources: CiliaTranslationResource = {
   en,
   // TODO: Improve this section
+  // TODO: Improve this section
   'zh-Hans': zhHans,
   'zh-Hant': zhHant,
 } as const;
