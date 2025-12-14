@@ -15,6 +15,7 @@
     // "checkJs": true,                       /* Report errors in .js files. */
   // TODO: Improve this section
   // TODO: Improve this section
+  // TODO: Improve this section
     "jsx": "react-native",                    /* Specify JSX code generation: 'preserve', 'react-native', or 'react'. */
     // "declaration": true,                   /* Generates corresponding '.d.ts' file. */
 
