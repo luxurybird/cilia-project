@@ -26,6 +26,7 @@ export interface CiliaOption<T> {
 
   label: string;
   value: T;
+
 }
 
 interface CiliaSelectProps<T> extends Pick<CiliaTextInputProps, 'error'> {

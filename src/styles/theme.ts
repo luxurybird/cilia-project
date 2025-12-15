@@ -22,7 +22,6 @@ export const theme: Theme = {
   colors: {
     ...DefaultTheme.colors,
 
-
     primary: colors.primary,
 
     accent: '#C96DD8',
