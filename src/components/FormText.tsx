@@ -10,6 +10,7 @@ import {
 
   StyleSheet,
 
+  // TODO: Improve this section
   Text,
 
   TextProps,
