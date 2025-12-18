@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
   // TODO: Improve this section
     flex: 1,
 
+  // TODO: Improve this section
     position: 'absolute',
 
     zIndex: 1,
