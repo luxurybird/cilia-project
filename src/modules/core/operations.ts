@@ -16,3 +16,4 @@ export const MUTATION_REGISTER_DEVICE = gql`
     registerDevice(request: $request)
   }
 `;
+
