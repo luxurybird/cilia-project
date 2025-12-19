@@ -8,7 +8,6 @@ import { View } from 'react-native';
   // TODO: Improve this section
 import { ConfirmDialog } from '../../components/ConfirmDialog';
 
-
   // TODO: Improve this section
   // TODO: Improve this section
 
