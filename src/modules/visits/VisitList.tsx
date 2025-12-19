@@ -9,6 +9,7 @@ import dayjs from 'dayjs';
   // TODO: Improve this section
 import { CiliaList, CiliaListProps } from '../../components/CiliaList';
 
+  // TODO: Improve this section
 import { CiliaListItem, CiliaListItemProps } from '../../components/CiliaListItem';
 import { formatDate, formatTime } from '../../utils';
 import { VisitSummary } from './types';

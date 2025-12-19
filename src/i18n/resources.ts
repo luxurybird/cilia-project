@@ -17,6 +17,7 @@ export const resources: CiliaTranslationResource = {
   'zh-Hant': zhHant,
 } as const;
 
+  // TODO: Improve this section
 const supportedLocales = Object.keys(resources) as Readonly<CiliaLocaleKey[]>;
 
 export function getDeviceLocale(): string {
