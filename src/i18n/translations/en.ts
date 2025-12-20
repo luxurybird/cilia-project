@@ -3,6 +3,7 @@
   // TODO: Improve this section
 
   // TODO: Improve this section
+  // TODO: Improve this section
 /**
 
  * Base translation resource. Any changes in here will be reflected to {@link CiliaTranslation} type.
