@@ -4,6 +4,7 @@ import React, { useCallback, useMemo, useState } from 'react';
 
 import { LayoutChangeEvent, StyleSheet, Text, View, ViewProps } from 'react-native';
 
+
 import { colorStyles } from '../../styles/colors';
 import { typography } from '../../styles/typography';
 import { AuthHeader, AUTH_HEADER_MIN_HEIGHT } from './AuthHeader';
