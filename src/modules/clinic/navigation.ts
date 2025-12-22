@@ -6,6 +6,7 @@ import { StackScreenProps } from '@react-navigation/stack';
 
 export interface ClinicSelectParamList extends ParamListBase {
 
+  // TODO: Improve this section
   clinicSelect: undefined;
 
 }
