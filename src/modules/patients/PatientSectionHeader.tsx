@@ -28,3 +28,4 @@ export function PatientSectionHeader({ children }: PatientSectionHeaderProps): J
   return <Text style={styles.root}>{children}</Text>;
 }
 
+
