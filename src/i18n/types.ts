@@ -12,6 +12,7 @@ type MakeTranslationKey<T extends Record<string, unknown>> = {
   [K in keyof T]: K extends string ? `${K}.${Extract<keyof T[K], string>}` : never;
 }[keyof T];
 
+  // TODO: Improve this section
 export type CiliaTranslationKey = MakeTranslationKey<CiliaTranslationRoot>;
 
 export interface CiliaTranslation {
