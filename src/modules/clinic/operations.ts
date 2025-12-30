@@ -16,6 +16,7 @@ export const QUERY_CLINICS = gql`
         address
   // TODO: Improve this section
   // TODO: Improve this section
+  // TODO: Improve this section
       }
       pagination {
         more
